@@ -1,0 +1,1437 @@
+STRING	STRING	STRING	STRING
+代号	简体中文	繁體中文	English
+t_role_name_101	雪怪	雪怪	Boss
+t_role_name_201	小豆豆	小豆豆	Wendy
+t_role_name_202	小豆豆	小豆豆	Wendy
+t_role_name_203	小豆豆	小豆豆	Wendy
+t_role_name_204	小豆豆	小豆豆	Wendy
+t_role_name_205	小豆豆	小豆豆	Wendy
+t_role_name_206	豆豆	豆豆	Tracy
+t_role_name_207	豆豆	豆豆	Tracy
+t_role_name_208	豆豆	豆豆	Tracy
+t_role_name_209	豆豆	豆豆	Tracy
+t_role_name_210	豆豆	豆豆	Tracy
+t_role_name_211	大豆豆	大豆豆	Cathy
+t_role_name_212	大豆豆	大豆豆	Cathy
+t_role_name_213	大豆豆	大豆豆	Cathy
+t_role_name_214	大豆豆	大豆豆	Cathy
+t_role_name_215	大豆豆	大豆豆	Cathy
+t_role_name_1001	酷酷	酷酷	Tommy
+t_role_name_1002	妮妮	妮妮	Annie
+t_role_name_1003	小狸	小狸	Lee
+t_role_name_1004	浣浣	浣浣	Betty
+t_role_name_1005	牛牛	牛牛	Colin
+t_role_name_1006	喵酱	喵醬	Louise
+t_role_name_1007	乐乐	樂樂	Jerry
+t_role_name_1008	雪儿	雪兒	Abby
+t_role_name_2001	甄姬	甄姬	Shinki
+t_role_name_2002	黄盖	黃蓋	Lamothe
+t_role_name_2003	嫦娥	嫦娥	Chang'e
+t_role_name_2004	周瑜	周瑜	Pasley
+t_role_name_2005	武则天	武則天	Empress Wu
+t_role_name_2006	槽里马	槽里馬	Alpaca
+t_role_name_3001	吕布	呂布	Killen
+t_role_name_3002	貂蝉	貂蟬	Banas
+t_role_name_3003	孙悟空	孫悟空	Monkey King
+t_role_name_3004	紫霞	紫霞	Jessie
+t_role_name_3005	冷风	冷風	Husky
+t_role_name_3006	敖饼	敖餅	Dragon
+t_role_desc_1001	[c2e5ed]敌人都是菜，喀~喀	[c2e5ed]敵人都是菜，喀~喀	[c2e5ed]Now it's my turn!
+t_role_desc_1002	[c2e5ed]带你上天带你飞，带你冲进大雪堆	[c2e5ed]帶你上天帶你飛，帶你衝進大雪堆	[c2e5ed]I want a word with you.
+t_role_desc_1003	[c2e5ed]就不能让加班的人多睡会儿吗	[c2e5ed]就不能讓加班的人多睡會兒嗎	[c2e5ed]Hmmm... What a test this shall be.
+t_role_desc_1004	[c2e5ed]我仿佛闻到了套路的味道	[c2e5ed]我彷佛聞到了套路的味道	"[c2e5ed]Okay, time for shots!"
+t_role_desc_1005	[c2e5ed]公奶牛可不产奶奶，记住了吗	[c2e5ed]公奶牛可不產奶奶，記住了嗎	"[c2e5ed]Well, let's do it."
+t_role_desc_1006	[c2e5ed]你就是他们口中的最强王者 可别让我失望哦	[c2e5ed]你就是他們口中的最強王者 可別讓我失望哦	[c2e5ed]Just try to stop me.
+t_role_desc_1007	[c2e5ed]哟哟切克闹，煎饼果子来一套	[c2e5ed]喲喲切克鬧，煎餅果子來一套	"[c2e5ed]Yo...yo, here we go!"
+t_role_desc_1008	[c2e5ed]原来是老司机呀，带我一程呗	[c2e5ed]原來是老司機呀，帶我一程唄	[c2e5ed]Let's have the spotlight. Over here!
+t_role_desc_2001	[c2e5ed]论美貌，你是赢不了我的	[c2e5ed]論美貌，你是贏不了我的	[c2e5ed]Let's weave a battle plan.
+t_role_desc_2002	[c2e5ed]不要以为老人家好欺负	[c2e5ed]不要以為老人家好欺負	[c2e5ed]Who's ready for a fight  The first hit is free!
+t_role_desc_2003	[c2e5ed]别纠缠我，否则那只猪就是你的下场	[c2e5ed]別糾纏我，否則那隻豬就是你的下場	"[c2e5ed]If you can see me, you're already dead."
+t_role_desc_2004	[c2e5ed]哈哈哈哈，敌军智商很感人呐	[c2e5ed]哈哈哈哈，敵軍智商很感人吶	"[c2e5ed]Ha ha ha ha! My appearance, their end."
+t_role_desc_2005	[c2e5ed]真是个不懂分寸的仆人，还未明白自己的立场吗	[c2e5ed]真是個不懂分寸的僕人，還未明白自己的立場嗎	"[c2e5ed]Meet your master, a great queen."
+t_role_desc_2006	[c2e5ed]作为一只神兽，鸭梨超级大	[c2e5ed]作為一隻神獸，鴨梨超級大	"[c2e5ed]Yeah, I'm getting me blood up now."
+t_role_desc_3001	[c2e5ed]哼，一个能打的都没有	[c2e5ed]哼，一個能打的都沒有	[c2e5ed]Who questions my ability 
+t_role_desc_3002	[c2e5ed]来呀，快活呀	[c2e5ed]來呀，快活呀	"[c2e5ed]Come on boy, let's get some fun."
+t_role_desc_3003	[c2e5ed]休想瞒过俺老孙的火眼金睛	[c2e5ed]休想瞞過俺老孫的火眼金睛	[c2e5ed]You can run but you can't hide.
+t_role_desc_3004	[c2e5ed]当时那把剑只是手滑了，我可不是少女心泛滥	[c2e5ed]當時那把劍只是手滑了，我可不是少女心氾濫	"[c2e5ed]Praise you, my master."
+t_role_desc_3005	[c2e5ed]丢我雪球者，虽远必诛	[c2e5ed]丟我雪球者，雖遠必誅	[c2e5ed]No foe shall stand against my mission!
+t_role_desc_3006	[c2e5ed]龙行天下，唯我独尊	[c2e5ed]龍行天下，唯我獨尊	[c2e5ed]The dragon will not be denied!
+t_item_name_10011001	酷酷碎片	酷酷碎片	Tommy Shard
+t_item_name_10011002	妮妮碎片	妮妮碎片	Annie Shard
+t_item_name_10011003	小狸碎片	小狸碎片	Lee Shard
+t_item_name_10011004	浣浣碎片	浣浣碎片	Betty Shard
+t_item_name_10011005	牛牛碎片	牛牛碎片	Colin Shard
+t_item_name_10011006	喵酱碎片	喵醬碎片	Louise Shard
+t_item_name_10011007	乐乐碎片	樂樂碎片	Jerry Shard
+t_item_name_10011008	雪儿碎片	雪兒碎片	Abby Shard
+t_item_name_10012001	甄姬碎片	甄姬碎片	Shinki Shard
+t_item_name_10012002	黄盖碎片	黃蓋碎片	Lamothe Shard
+t_item_name_10012003	嫦娥碎片	嫦娥碎片	Chang'e Shard
+t_item_name_10012004	周瑜碎片	周瑜碎片	Pasley Shard
+t_item_name_10012005	武则天碎片	武則天碎片	Empress Wu Shard
+t_item_name_10012006	槽里马碎片	槽里馬碎片	Alpaca Shard
+t_item_name_10013001	吕布碎片	呂布碎片	Killen Shard
+t_item_name_10013002	貂蝉碎片	貂蟬碎片	Banas Shard
+t_item_name_10013003	孙悟空碎片	孫悟空碎片	Monkey King Shard
+t_item_name_10013004	紫霞碎片	紫霞碎片	Jessie Shard
+t_item_name_10013005	冷风碎片	冷風碎片	Husky Shard
+t_item_name_10013006	敖饼碎片	敖餅碎片	Dragon Shard
+t_item_name_20010001	冰棍	冰棍	Popsicles
+t_item_name_20010002	雷电球	雷電球	Lightning Ball
+t_item_name_20010003	滚雪球	滾雪球	Huge Snowball
+t_item_name_20010004	墨水球	墨水球	Venom Bottle
+t_item_name_20010005	恶魔球	惡魔球	Evil Bat
+t_item_name_20010006	暴风雪	暴風雪	Snowstorm
+t_item_name_20010007	龙卷风	龍捲風	Tornado
+t_item_name_20010008	陨石	隕石	Meteorite
+t_item_name_20010009	烈性炸药	烈性炸藥	TNT
+t_item_name_20010010	隐身斗篷	隱身斗篷	Cloak
+t_item_name_30010001	随机契约礼包	隨機契約禮包	Random Magic Package
+t_item_name_30010002	契约大礼包	契約大禮包	Magic Package
+t_item_name_30010003	普通角色礼包	普通角色禮包	Ordinary Shard Package
+t_item_name_30010004	稀有角色礼包	稀有角色禮包	Rare Shard Package
+t_item_name_30010005	史诗角色礼包	史詩角色禮包	Epic Shard Package
+t_item_name_30010006	稀有皮肤礼包	稀有皮膚禮包	Rare Skin Package
+t_item_name_50010001	大喇叭	大喇叭	Trumpet
+t_item_name_50010002	改名卡	改名卡	Rename Card
+t_item_desc_10011001	[c2e5ed]敌人都是菜，喀~喀####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed]敵人都是菜，喀~喀####[e4ac01]集齊一定數量碎片可用來合成角色，或給已有的角色升星	[c2e5ed]Now it's my turn!####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10011002	[c2e5ed]带你上天带你飞，带你冲进大雪堆####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed]帶你上天帶你飛，帶你衝進大雪堆####[e4ac01]集齊一定數量碎片可用來合成角色，或給已有的角色升星	[c2e5ed]I want a word with you.####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10011003	[c2e5ed]就不能让加班的人多睡会儿吗####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed]就不能讓加班的人多睡會兒嗎####[e4ac01]集齊一定數量碎片可用來合成角色，或給已有的角色升星	[c2e5ed]Hmmm... What a test this shall be.####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10011004	[c2e5ed]我仿佛闻到了套路的味道####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed]我彷佛聞到了套路的味道####[e4ac01]集齊一定數量碎片可用來合成角色，或給已有的角色升星	"[c2e5ed]Okay, time for shots!####[e4ac01]Collect hero shards to summon heroes or upgrade them"
+t_item_desc_10011005	[c2e5ed]公奶牛可不产奶奶，记住了吗####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed]公奶牛可不產奶奶，記住了嗎####[e4ac01]集齊一定數量碎片可用來合成角色，或給已有的角色升星	"[c2e5ed]Well, let's do it.####[e4ac01]Collect hero shards to summon heroes or upgrade them"
+t_item_desc_10011006	[c2e5ed]你就是他们口中的最强王者 可别让我失望哦####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed]你就是他們口中的最強王者 可別讓我失望哦####[e4ac01]集齊一定數量碎片可用來合成角色，或給已有的角色升星	[c2e5ed]Just try to stop me.####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10011007	[c2e5ed]哟哟切克闹，煎饼果子来一套####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed]喲喲切克鬧，煎餅果子來一套####[e4ac01]集齊一定數量碎片可用來合成角色，或給已有的角色升星	"[c2e5ed]Yo...yo, here we go!####[e4ac01]Collect hero shards to summon heroes or upgrade them"
+t_item_desc_10011008	[c2e5ed]原来是老司机呀，带我一程呗####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed]原來是老司機呀，帶我一程唄####[e4ac01]集齊一定數量碎片可用來合成角色，或給已有的角色升星	[c2e5ed]Let's have the spotlight. Over here!####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10012001	[c2e5ed]论美貌，你是赢不了我的####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed]論美貌，你是贏不了我的####[e4ac01]集齊一定數量碎片可用來合成角色，或給已有的角色升星	[c2e5ed]Let's weave a battle plan.####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10012002	[c2e5ed]不要以为老人家好欺负####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed]不要以為老人家好欺負####[e4ac01]集齊一定數量碎片可用來合成角色，或給已有的角色升星	[c2e5ed]Who's ready for a fight  The first hit is free!####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10012003	[c2e5ed]别纠缠我，否则那只猪就是你的下场####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed]別糾纏我，否則那隻豬就是你的下場####[e4ac01]集齊一定數量碎片可用來合成角色，或給已有的角色升星	"[c2e5ed]If you can see me, you're already dead.####[e4ac01]Collect hero shards to summon heroes or upgrade them"
+t_item_desc_10012004	[c2e5ed]哈哈哈哈，敌军智商很感人呐####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed]哈哈哈哈，敵軍智商很感人吶####[e4ac01]集齊一定數量碎片可用來合成角色，或給已有的角色升星	"[c2e5ed]Ha ha ha ha! My appearance, their end.####[e4ac01]Collect hero shards to summon heroes or upgrade them"
+t_item_desc_10012005	[c2e5ed]真是个不懂分寸的仆人，还未明白自己的立场吗####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed]真是個不懂分寸的僕人，還未明白自己的立場嗎####[e4ac01]集齊一定數量碎片可用來合成角色，或給已有的角色升星	"[c2e5ed]Meet your master, a great queen.####[e4ac01]Collect hero shards to summon heroes or upgrade them"
+t_item_desc_10012006	[c2e5ed]作为一只神兽，鸭梨超级大####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed]作為一隻神獸，鴨梨超級大####[e4ac01]集齊一定數量碎片可用來合成角色，或給已有的角色升星	"[c2e5ed]Yeah, I'm getting me blood up now.####[e4ac01]Collect hero shards to summon heroes or upgrade them"
+t_item_desc_10013001	[c2e5ed]哼，一个能打的都没有####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed]哼，一個能打的都沒有####[e4ac01]集齊一定數量碎片可用來合成角色，或給已有的角色升星	[c2e5ed]Who questions my ability ####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10013002	[c2e5ed]来呀，快活呀####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed]來呀，快活呀####[e4ac01]集齊一定數量碎片可用來合成角色，或給已有的角色升星	"[c2e5ed]Come on boy, let's get some fun.####[e4ac01]Collect hero shards to summon heroes or upgrade them"
+t_item_desc_10013003	[c2e5ed]休想瞒过俺老孙的火眼金睛####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed]休想瞞過俺老孫的火眼金睛####[e4ac01]集齊一定數量碎片可用來合成角色，或給已有的角色升星	[c2e5ed]You can run but you can't hide.####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10013004	[c2e5ed]当时那把剑只是手滑了，我可不是少女心泛滥####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed]當時那把劍只是手滑了，我可不是少女心氾濫####[e4ac01]集齊一定數量碎片可用來合成角色，或給已有的角色升星	"[c2e5ed]Praise you, my master.####[e4ac01]Collect hero shards to summon heroes or upgrade them"
+t_item_desc_10013005	[c2e5ed]丢我雪球者，虽远必诛####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed]丟我雪球者，雖遠必誅####[e4ac01]集齊一定數量碎片可用來合成角色，或給已有的角色升星	[c2e5ed]No foe shall stand against my mission!####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_10013006	[c2e5ed]龙行天下，唯我独尊####[e4ac01]集齐一定数量碎片可用来合成角色，或给已有的角色升星	[c2e5ed]龍行天下，唯我獨尊####[e4ac01]集齊一定數量碎片可用來合成角色，或給已有的角色升星	[c2e5ed]The dragon will not be denied!####[e4ac01]Collect hero shards to summon heroes or upgrade them
+t_item_desc_20010001	[c2e5ed]雪天请人吃冰棍，你确定他不会冻成冰块####[5bd300]技能效果：投掷一根冰棍，命中的敌人会被冻结[-]####[e4ac01]在战场中拾取，能量越高，技能威力越大	[c2e5ed]雪天請人吃冰棍，你確定他不會凍成冰塊####[5bd300]技能效果：投擲一根冰棍，命中的敵人會被凍結[-]####[e4ac01]在戰場中拾取，能量越高，技能威力越大	"[c2e5ed]Invite someone to have popsicle at snow days, you will sure whether he will be frozen into ice or not####[5bd300]Active Skill: Throw a popsicle, the hit enemy will be frozen[-]####[e4ac01]Pick up Popsicles in the battlefield, the higher the energy, the greater the power of skills"
+t_item_desc_20010002	[c2e5ed]给敌人来次永生难忘的电疗吧####[5bd300]技能效果：释放一个会弹跳的雷电球，命中的敌人会被眩晕[-]####[e4ac01]在战场中拾取，能量越高，技能威力越大	[c2e5ed]給敵人來次永生難忘的電療吧####[5bd300]技能效果：釋放一個會彈跳的雷電球，命中的敵人會被眩暈[-]####[e4ac01]在戰場中拾取，能量越高，技能威力越大	"[c2e5ed]Give the enemy an unforgettable electrotherapy####[5bd300]Active Skill: Release a bouncing voltorb, the hit enemy will be dizzy [-]####[e4ac01]Pick up Lightning Ball in the battlefield, the higher the energy, the greater the power of skills"
+t_item_desc_20010003	[c2e5ed]不是每个雪球都能投向空中，还是让这个巨无霸滚起来吧####[5bd300]技能效果：向前方推动一个巨大的雪球，对敌人造成伤害，还可以阻挡敌人的雪球[-]####[e4ac01]在战场中拾取，能量越高，技能威力越大	[c2e5ed]不是每個雪球都能投向空中，還是讓這個巨無霸滾起來吧####[5bd300]技能效果：向前方推動一個巨大的雪球，對敵人造成傷害，還可以阻擋敵人的雪球[-]####[e4ac01]在戰場中拾取，能量越高，技能威力越大	"[c2e5ed]Not every snowball can be thrown into the air, get the giant snowball roll ####[5bd300]Active Skill: Push a giant snowball forward to impose damage on the enemy and block the enemy's snowballs[-]####[e4ac01]Pick up Huge Snowball in the battlefield, the higher the energy, the greater the power of skills"
+t_item_desc_20010004	[c2e5ed]如果黑暗突然降临，你很可能是被这东西击中了，劝你变身雪人吧####[5bd300]技能效果：抛出一个墨水球，命中区域内敌人会被致盲，视野丢失[-]####[e4ac01]在战场中拾取，能量越高，技能威力越大	[c2e5ed]如果黑暗突然降臨，你很可能是被這東西擊中了，勸你變身雪人吧####[5bd300]技能效果：拋出一個墨水球，命中區域內敵人會被致盲，視野丟失[-]####[e4ac01]在戰場中拾取，能量越高，技能威力越大	"[c2e5ed]If the darkness suddenly comes down, you may be hit by this thing, it is advised to transform into a snowman rightly####[5bd300]Active Skill: Throw a venom bottle to blind the enemy within the hit region, leading to his loss of vision[-]####[e4ac01]Pick up Venom Bottle in the battlefield, the higher the energy, the greater the power of skills"
+t_item_desc_20010005	[c2e5ed]被一群恶魔蝙蝠纠缠时，谁还能保持清醒呢####[5bd300]技能效果：召唤出一群蝙蝠，命中的敌人会进入混乱状态[-]####[e4ac01]在战场中拾取，能量越高，技能威力越大	[c2e5ed]被一群惡魔蝙蝠糾纏時，誰還能保持清醒呢####[5bd300]技能效果：召喚出一群蝙蝠，命中的敵人會進入混亂狀態[-]####[e4ac01]在戰場中拾取，能量越高，技能威力越大	"[c2e5ed]When entangled with a group of devil bats, who can keep awake yet####[5bd300]Active Skill: Summon a group of bats, the hit enemy will enter chaos[-]####[e4ac01]Pick up Evil Bat in the battlefield, the higher the energy, the greater the power of skills"
+t_item_desc_20010006	[c2e5ed]让敌人抱怨该死的天气吧，你要做的就是偷着乐####[5bd300]技能效果：召唤一场持续数秒的暴风雪，区域内的敌人会持续受到伤害并被减速[-]####[e4ac01]在战场中拾取，能量越高，技能威力越大	[c2e5ed]讓敵人抱怨該死的天氣吧，你要做的就是偷著樂####[5bd300]技能效果：召喚一場持續數秒的暴風雪，區域內的敵人會持續受到傷害並被減速[- ]####[e4ac01]在戰場中拾取，能量越高，技能威力越大	"[c2e5ed]Let the enemy complain the damn weather, what you need to do is just laughing####[5bd300]Active Skill: Summon a snowstorm that lasts for a few seconds, and enemies within the region will continue to suffer from injury and then slow down[-]####[e4ac01]Pick up Snowstorm in the battlefield, the higher the energy, the greater the power of skills"
+t_item_desc_20010007	[c2e5ed]飞上天的感觉很好，前提是那个人清楚自己会安全着陆####[5bd300]技能效果：释放出一阵呼啸而过的龙卷风，命中的敌人会被吹飞[-]####[e4ac01]在战场中拾取，能量越高，技能威力越大	[c2e5ed]飛上天的感覺很好，前提是那個人清楚自己會安全著陸####[5bd300]技能效果：釋放出一陣呼嘯而過的龍捲風，命中的敵人會被吹飛[-]## ##[e4ac01]在戰場中拾取，能量越高，技能威力越大	"[c2e5ed]Feel good when flying in the air, provided that he will be aware of safe landing####[5bd300]Active Skill: Release a whistling tornado, the hit enemy will be blown away[-]####[e4ac01]Pick up Tornado in the battlefield, the higher the energy, the greater the power of skills"
+t_item_desc_20010008	[c2e5ed]当脚下出现光圈的时候你可得小心，没人被陨石击中后还能生还####[5bd300]技能效果：在地面标记陨石落点，一段延迟后，巨大的陨石从天而降，命中的敌人立即殒命[-]####[e4ac01]在战场中拾取，能量越高，技能威力越大	[c2e5ed]當腳下出現光圈的時候你可得小心，沒人被隕石擊中後還能生還####[5bd300]技能效果：在地面標記隕石落點，一段延遲後，巨大的隕石從天而降，命中的敵人立即殞命[-]####[e4ac01]在戰場中拾取，能量越高，技能威力越大	"[c2e5ed]You shall be more careful when there appears an aperture around your feet, no one can be still alive after hit by the meteorite####[5bd300]Active Skill: Mark the landing point of meteorite on the ground, after a period of delay, a huge meteorite will fall from the sky and the hit enemy will immediately perish [-]####[e4ac01]Pick up Meteorite in the battlefield, the higher the energy, the greater the power of skills"
+t_item_desc_20010009	[c2e5ed]快跑！离那颗炸弹远点，这可不是开玩笑####[5bd300]技能效果：投掷一个定时炸弹，炸弹将在落地数秒后产生爆炸[-]####[e4ac01]在战场中拾取，能量越高，技能威力越大	[c2e5ed]快跑！離那顆炸彈遠點，這可不是開玩笑####[5bd300]技能效果：投擲一個定時炸彈，炸彈將在落地數秒後產生爆炸[-]####[e4ac01]在戰場中拾取，能量越高，技能威力越大	"[c2e5ed]Run!Keep far away from the bomb, that is not a joke####[5bd300]Active Skill: Throw a time bomb that will explode a few seconds after landing[-]####[e4ac01]Pick up TNT in the battlefield, the higher the energy, the greater the power of skills"
+t_item_desc_20010010	[c2e5ed]如果你有一件隐身斗篷，你想用它来做什么呢，嘿嘿嘿####[5bd300]技能效果：使用斗篷后，进入隐身状态，持续若干秒，主动攻击或使用技能会现身[-]####[e4ac01]在战场中拾取，能量越高，技能威力越大	[c2e5ed]如果你有一件隱身斗篷，你想用它來做什麼呢，嘿嘿嘿####[5bd300]技能效果：使用斗篷後，進入隱身狀態，持續若干秒，主動攻擊或使用技能會現身[-]####[e4ac01]在戰場中拾取，能量越高，技能威力越大	"[c2e5ed]If you have a invisible cloak, what do you want to do with it, hey-hey-hey####[5bd300]Active Skill: After using the cloak, you will be invisible for a few seconds, and will be visible when taking the active attack or using skills[-]####[e4ac01]Pick up Cloak in the battlefield, the higher the energy, the greater the power of skills"
+t_item_desc_30010001	[c2e5ed]使用后可随机获得以下契约道具之一：[3defff]冰棍[-]，[3defff]雷电球[-]，[3defff]滚雪球[-]，[3defff]墨水球[-]，[3defff]恶魔球[-]，[3defff]暴风雪[-]，[3defff]龙卷风[-]，[3defff]陨石[-]，[3defff]烈性炸药[-]，[3defff]隐身斗篷[-]	[c2e5ed]使用後可隨機獲得以下契約道具之一：[3defff]冰棍[-]，[3defff]雷電球[-]，[3defff]滾雪球[-]，[3defff]墨水球[-]，[3defff ]惡魔球[-]，[3defff]暴風雪[-]，[3defff]龍捲風[-]，[3defff]隕石[-]，[3defff]烈性炸藥[-]，[3defff]隱身斗篷[-]	NOTYET
+t_item_desc_30010002	[c2e5ed]使用后可获得以下物品：[3defff]冰棍[-][e4ac01] x 1[-]，[3defff]雷电球[-][e4ac01] x 1[-]，[3defff]滚雪球[-][e4ac01] x 1[-]，[3defff]墨水球[-][e4ac01] x 1[-]，[3defff]恶魔球[-][e4ac01] x 1[-]，[3defff]暴风雪[-][e4ac01] x 1[-]，[3defff]龙卷风[-][e4ac01] x 1[-]，[3defff]陨石[-][e4ac01] x 1[-]	[c2e5ed]使用後可獲得以下物品：[3defff]冰棍[-][e4ac01] x 1[-]，[3defff]雷電球[-][e4ac01] x 1[-]，[3defff]滾雪球[-] [e4ac01] x 1[-]，[3defff]墨水球[-][e4ac01] x 1[-]，[3defff]惡魔球[-][e4ac01] x 1[-]，[3defff]暴風雪[-] [e4ac01] x 1[-]，[3defff]龍捲風[-][e4ac01] x 1[-]，[3defff]隕石[-][e4ac01] x 1[-]	NOTYET
+t_item_desc_30010003	[c2e5ed]使用后可获得5个[3defff]普通[-][c2e5ed]角色碎片	[c2e5ed]使用後可獲得5個[3defff]普通[-][c2e5ed]角色碎片	[c2e5ed]Obtain 5[3defff] Ordinary [-][c2e5ed]hero shards
+t_item_desc_30010004	[c2e5ed]使用后可获得5个[ff41da]稀有[-][c2e5ed]角色碎片	[c2e5ed]使用後可獲得5個[ff41da]稀有[-][c2e5ed]角色碎片	[c2e5ed]Obtain 5[ff41da] Rare [-][c2e5ed]hero shards
+t_item_desc_30010005	[c2e5ed]使用后可获得5个[ffcd00]史诗[-][c2e5ed]角色碎片	[c2e5ed]使用後可獲得5個[ffcd00]史詩[-][c2e5ed]角色碎片	[c2e5ed]Obtain 5[ffcd00] Epic [-][c2e5ed]hero shards
+t_item_desc_30010006	[c2e5ed]使用后可随机获得一款[ff41da]稀有[-][c2e5ed]皮肤	[c2e5ed]使用後可隨機獲得一款[ff41da]稀有[-][c2e5ed]皮膚	[c2e5ed]Obtain a random[ff41da] Rare [-][c2e5ed]skin
+t_item_desc_50010001	[c2e5ed]全服喊话道具，使用后可以在大厅界面上方显示你说的话	[c2e5ed]全服喊話道具，使用後可以在大廳界面上方顯示你說的話	"[c2e5ed]A full-service chat prop, your words will spread to all players"
+t_item_desc_50010002	[c2e5ed]用来更改账号昵称的物品	[c2e5ed]用來更改賬號暱稱的物品	[c2e5ed]Used to change the nickname of the account
+t_item_class01	[3defff]普通	[3defff]普通	[3defff]Ordinary
+t_item_class02	[ff41da]稀有	[ff41da]稀有	[ff41da]Rare
+t_item_class03	[ffcd00]史诗	[ffcd00]史詩	[ffcd00]Epic
+t_mission_name_10001	单人竞技	單人競技	Melee Mode
+t_mission_desc_10001	个人 部分	個人 部分	NOTYET
+t_avatar_name_1011001	酷酷头像	酷酷頭像	Tommy Avatar
+t_avatar_name_1011002	妮妮头像	妮妮頭像	Annie Avatar
+t_avatar_name_1011003	小狸头像	小狸頭像	Lee Avatar
+t_avatar_name_1011004	浣浣头像	浣浣頭像	Betty Avatar
+t_avatar_name_1011005	牛牛头像	牛牛頭像	Colin Avatar
+t_avatar_name_1011006	喵酱头像	喵醬頭像	Louise Avatar
+t_avatar_name_1011007	乐乐头像	樂樂頭像	Jerry Avatar
+t_avatar_name_1011008	雪儿头像	雪兒頭像	Abby Avatar
+t_avatar_name_1012001	甄姬头像	甄姬頭像	Shinki Avatar
+t_avatar_name_1012002	黄盖头像	黃蓋頭像	Lamothe Avatar
+t_avatar_name_1012003	嫦娥头像	嫦娥頭像	Chang'e Avatar
+t_avatar_name_1012004	周瑜头像	周瑜頭像	Pasley Avatar
+t_avatar_name_1012005	武则天头像	武則天頭像	Empress Wu Avatar
+t_avatar_name_1012006	槽里马头像	槽里馬頭像	Alpaca Avatar
+t_avatar_name_1013001	吕布头像	呂布頭像	Killen Avatar
+t_avatar_name_1013002	貂蝉头像	貂蟬頭像	Banas Avatar
+t_avatar_name_1013003	孙悟空头像	孫悟空頭像	Monkey King Avatar
+t_avatar_name_1013004	紫霞头像	紫霞頭像	Jessie Avatar
+t_avatar_name_1013005	冷风头像	冷風頭像	Husky Avatar
+t_avatar_name_1013006	敖饼头像	敖餅頭像	Dragon Avatar
+t_avatar_desc1_1011001	[c2e5ed]敌人都是菜，喀~喀	[c2e5ed]敵人都是菜，喀~喀	[c2e5ed]Now it's my turn!
+t_avatar_desc1_1011002	[c2e5ed]带你上天带你飞，带你冲进大雪堆	[c2e5ed]帶你上天帶你飛，帶你衝進大雪堆	[c2e5ed]I want a word with you.
+t_avatar_desc1_1011003	[c2e5ed]就不能让加班的人多睡会儿吗	[c2e5ed]就不能讓加班的人多睡會兒嗎	[c2e5ed]Hmmm... What a test this shall be.
+t_avatar_desc1_1011004	[c2e5ed]我仿佛闻到了套路的味道	[c2e5ed]我彷佛聞到了套路的味道	"[c2e5ed]Okay, time for shots!"
+t_avatar_desc1_1011005	[c2e5ed]公奶牛可不产奶奶，记住了吗	[c2e5ed]公奶牛可不產奶奶，記住了嗎	"[c2e5ed]Well, let's do it."
+t_avatar_desc1_1011006	[c2e5ed]你就是他们口中的最强王者 可别让我失望哦	[c2e5ed]你就是他們口中的最強王者 可別讓我失望哦	[c2e5ed]Just try to stop me.
+t_avatar_desc1_1011007	[c2e5ed]哟哟切克闹，煎饼果子来一套	[c2e5ed]喲喲切克鬧，煎餅果子來一套	"[c2e5ed]Yo...yo, here we go!"
+t_avatar_desc1_1011008	[c2e5ed]原来是老司机呀，带我一程呗	[c2e5ed]原來是老司機呀，帶我一程唄	[c2e5ed]Let's have the spotlight. Over here!
+t_avatar_desc1_1012001	[c2e5ed]论美貌，你是赢不了我的	[c2e5ed]論美貌，你是贏不了我的	[c2e5ed]Let's weave a battle plan.
+t_avatar_desc1_1012002	[c2e5ed]不要以为老人家好欺负	[c2e5ed]不要以為老人家好欺負	[c2e5ed]Who's ready for a fight  The first hit is free!
+t_avatar_desc1_1012003	[c2e5ed]别纠缠我，否则那只猪就是你的下场	[c2e5ed]別糾纏我，否則那隻豬就是你的下場	"[c2e5ed]If you can see me, you're already dead."
+t_avatar_desc1_1012004	[c2e5ed]哈哈哈哈，敌军智商很感人呐	[c2e5ed]哈哈哈哈，敵軍智商很感人吶	"[c2e5ed]Ha ha ha ha! My appearance, their end."
+t_avatar_desc1_1012005	[c2e5ed]真是个不懂分寸的仆人，还未明白自己的立场吗	[c2e5ed]真是個不懂分寸的僕人，還未明白自己的立場嗎	"[c2e5ed]Meet your master, a great queen."
+t_avatar_desc1_1012006	[c2e5ed]作为一只神兽，鸭梨超级大	[c2e5ed]作為一隻神獸，鴨梨超級大	"[c2e5ed]Yeah, I'm getting me blood up now."
+t_avatar_desc1_1013001	[c2e5ed]哼，一个能打的都没有	[c2e5ed]哼，一個能打的都沒有	[c2e5ed]Who questions my ability 
+t_avatar_desc1_1013002	[c2e5ed]来呀，快活呀	[c2e5ed]來呀，快活呀	"[c2e5ed]Come on boy, let's get some fun."
+t_avatar_desc1_1013003	[c2e5ed]休想瞒过俺老孙的火眼金睛	[c2e5ed]休想瞞過俺老孫的火眼金睛	[c2e5ed]You can run but you can't hide.
+t_avatar_desc1_1013004	[c2e5ed]当时那把剑只是手滑了，我可不是少女心泛滥	[c2e5ed]當時那把劍只是手滑了，我可不是少女心氾濫	"[c2e5ed]Praise you, my master."
+t_avatar_desc1_1013005	[c2e5ed]丢我雪球者，虽远必诛	[c2e5ed]丟我雪球者，雖遠必誅	[c2e5ed]No foe shall stand against my mission!
+t_avatar_desc1_1013006	[c2e5ed]龙行天下，唯我独尊	[c2e5ed]龍行天下，唯我獨尊	[c2e5ed]The dragon will not be denied!
+t_avatar_desc2_1011001	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01]獲得角色後自動解鎖其角色頭像	[e4ac01]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1011002	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01]獲得角色後自動解鎖其角色頭像	[e4ac02]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1011003	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01]獲得角色後自動解鎖其角色頭像	[e4ac03]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1011004	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01]獲得角色後自動解鎖其角色頭像	[e4ac04]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1011005	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01]獲得角色後自動解鎖其角色頭像	[e4ac05]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1011006	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01]獲得角色後自動解鎖其角色頭像	[e4ac06]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1011007	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01]獲得角色後自動解鎖其角色頭像	[e4ac07]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1011008	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01]獲得角色後自動解鎖其角色頭像	[e4ac08]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1012001	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01]獲得角色後自動解鎖其角色頭像	[e4ac09]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1012002	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01]獲得角色後自動解鎖其角色頭像	[e4ac10]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1012003	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01]獲得角色後自動解鎖其角色頭像	[e4ac11]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1012004	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01]獲得角色後自動解鎖其角色頭像	[e4ac12]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1012005	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01]獲得角色後自動解鎖其角色頭像	[e4ac13]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1012006	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01]獲得角色後自動解鎖其角色頭像	[e4ac14]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1013001	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01]獲得角色後自動解鎖其角色頭像	[e4ac15]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1013002	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01]獲得角色後自動解鎖其角色頭像	[e4ac16]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1013003	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01]獲得角色後自動解鎖其角色頭像	[e4ac17]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1013004	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01]獲得角色後自動解鎖其角色頭像	[e4ac18]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1013005	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01]獲得角色後自動解鎖其角色頭像	[e4ac19]Unlock the hero's avatar automatically after summoning the hero
+t_avatar_desc2_1013006	[e4ac01]获得角色后自动解锁其角色头像	[e4ac01]獲得角色後自動解鎖其角色頭像	[e4ac20]Unlock the hero's avatar automatically after summoning the hero
+t_resource_name_1	金币	金幣	Gold
+t_resource_name_2	钻石	鑽石	Diamond
+t_resource_name_3	账号经验	賬號經驗	Exp
+t_resource_name_4	雪花	雪花	Snowflake
+t_resource_name_5	战魂(已删)	戰魂(已刪)	Soul
+t_resource_name_6	奖杯	獎杯	Cup
+t_resource_name_7	成就点	成就點	Point
+t_resource_name_8	活跃度	活躍度	Energy
+t_resource_desc_1	[c2e5ed]金币不是万能的，没金币是万万不能的~金币是购买角色碎片，为角色升星的重要资源####[e4ac01]对战结算、开宝箱、签到都可获得金币哦	[c2e5ed]金幣不是萬能的，沒金幣是萬萬不能的~金幣是購買角色碎片，為角色升星的重要資源####[e4ac01]對戰結算、開寶箱、簽到都可獲得金幣哦	"[c2e5ed]Gold is not everything, but without gold you can do nothing. Gold can be used to buy hero shard, as the important resource of heroes' upgrading####[e4ac01]You can get golds by battle settlement, opening the chest and signing in"
+t_resource_desc_2	[c2e5ed]亮瞎双眼的钻石，除了能加速解锁宝箱，还可以参与夺宝哦####[e4ac01]充值、签到奖励可获得钻石	[c2e5ed]亮瞎雙眼的鑽石，除了能加速解鎖寶箱，還可以參與奪寶哦####[e4ac01]充值、簽到獎勵可獲得鑽石	[c2e5ed]Dazzling diamonds can be used to snatch treasures in addition to accelerating the unlocking of chest####[e4ac01]You can obtain diamonds by recharging and signing in
+t_resource_desc_3	[c2e5ed]增加账号经验值能提升账号等级####[e4ac01]账号经验可通过战斗和每日任务获得	[c2e5ed]增加賬號經驗值能提升賬號等級####[e4ac01]賬號經驗可通過戰鬥和每日任務獲得	[c2e5ed]The account level can be upgraded by increase account experience####[e4ac01]Account experience can be obtained through combat and daily tasks
+t_resource_desc_4	[c2e5ed]奇特的雪球，炫酷的特效，搞怪的雪炮，有了雪花，一切都轻松搞定####[e4ac01]雪花可通过分享、升级、赛季结算和成就等奖励中获得	[c2e5ed]奇特的雪球，炫酷的特效，搞怪的雪炮，有了雪花，一切都輕鬆搞定####[e4ac01]雪花可通過分享、升級、賽季結算和成就等獎勵中獲得	"[c2e5ed]Fantastic AMMOs, cool charge effects, funny guns, everything can be easily worked out with snowflakes####[e4ac01]Snowflake can be obtained through sharing, upgrading, competition season settlements and Honors"
+t_resource_desc_5	已删除资源，ID保留	已刪除資源，ID保留	NOTYET
+t_resource_desc_6	测试用	測試用	NOTYET
+t_resource_desc_7	测试用	測試用	NOTYET
+t_resource_desc_8	[c2e5ed]每日活跃度达到一定数值可以领取奖励####[e4ac01]完成每日任务获得	[c2e5ed]每日活躍度達到一定數值可以領取獎勵####[e4ac01]完成每日任務獲得	[c2e5ed]You can receive awards when daily Energy reaches a certain value####[e4ac01]Obtain by completing daily tasks
+t_role_type1	平衡	平衡	Balance
+t_role_type2	力量	力量	Strenth
+t_role_type3	敏捷	敏捷	Agile
+t_chest_name_1	橡木宝箱	橡木寶箱	Oak Chest
+t_chest_name_2	秘银宝箱	秘銀寶箱	Silver Chest
+t_chest_name_3	紫金宝箱	紫金寶箱	Violet Gold Chest
+t_chest_name_4	赤金宝箱	赤金寶箱	Solid Gold Chest
+t_chest_name_5	豪华宝箱	豪華寶箱	Luxurious Chest
+t_chest_name_6	超级豪华宝箱	超級豪華寶箱	Super Delux Chest
+t_chest_name_201	战斗宝箱	戰鬥寶箱	Daily Chest
+t_chest_name_301	支援宝箱	支援寶箱	Aid Chest
+t_error_desc_50001	系统错误	系統錯誤	System Error
+t_error_desc_50002	不存在的gate	不存在的gate	Gate not exits
+t_error_desc_50003	账号停封，请联系客服	賬號停封，請聯繫客服	Contact customer service for assistance
+t_error_desc_50004	用户名密码错误	用戶名密碼錯誤	Incorrect username or password
+t_error_desc_50005	用户已存在	用戶已存在	Username already exists
+t_error_desc_50006	您已经断开连接	您已經斷開連接	Lost connection
+t_error_desc_50007	您的账号在别处登陆	您的賬號在別處登陸	Your account is logged on another device
+t_error_desc_50008	请休息一下再说话	請休息一下再說話	Take a rest and speak later
+t_error_desc_50009	名字存在非法字符	名字存在非法字符	Illegal character
+t_error_desc_50010	登录已过期	登錄已過期	Login expired
+t_error_desc_50011	没有该礼包码	沒有該禮包碼	Gift code not exists
+t_error_desc_50012	非本平台的礼包码	非本平台的禮包碼	Invalid gift code
+t_error_desc_50013	礼包码已被使用	禮包碼已被使用	Gift code has been used
+t_error_desc_50014	您已领过该类礼包了	您已領過該類禮包了	You have already claimed this gift
+t_error_desc_50200	队伍已存在	隊伍已存在	Team already exists
+t_error_desc_50201	队伍不存在	隊伍不存在	Team not exists
+t_error_desc_50202	队伍已满	隊伍已滿	Team members is full
+t_error_desc_50203	您已在队伍中	您已在隊伍中	You are already in a team
+t_error_desc_50204	您不在队伍中	您不在隊伍中	You aren't in the team
+t_error_desc_50205	您不是队长	您不是隊長	You aren't the team leader
+t_error_desc_50206	对方不在队伍中	對方不在隊伍中	The player isn't in the team
+t_error_desc_50207	对方已在队伍中	對方已在隊伍中	The player is already in a team
+t_error_desc_50100	对方好友数量已达上限，添加好友失败	對方好友數量已達上限，添加好友失敗	The player's friend list is full and failed to add friends
+t_error_desc_50101	好友数量已达上限，无法继续添加好友	好友數量已達上限，無法繼續添加好友	Your friend list is full and failed to add friends
+t_error_desc_50102	黑名单数量已达上限	黑名單數量已達上限	Blacklist is full
+t_error_desc_50103	已发送好友验证消息，不可重复发送	已發送好友驗證消息，不可重複發送	Validation messages sent and cannot repeat
+t_error_desc_50104	对方拒绝添加好友	對方拒絕添加好友	The player refuse to accept any friend requests from others
+t_error_desc_50105	对方拒绝添加好友	對方拒絕添加好友	The player refuse to accept any friend requests from others
+t_error_desc_50106	对方已在好友列表中，无法重复添加	對方已在好友列表中，無法重複添加	The player is already your firend
+t_error_desc_50109	对方今日可领取金币数量超过限制	對方今日可領取金幣數量超過限制	The player cannot obtain more gold from friends' gift
+t_achievement_name_101	广聚豪杰	廣聚豪傑	Outstanding heroes
+t_achievement_name_102	广聚豪杰	廣聚豪傑	Outstanding heroes
+t_achievement_name_103	广聚豪杰	廣聚豪傑	Outstanding heroes
+t_achievement_name_104	广聚豪杰	廣聚豪傑	Outstanding heroes
+t_achievement_name_105	基情四射	基情四射	Full of passion
+t_achievement_name_106	基情四射	基情四射	Full of passion
+t_achievement_name_107	基情四射	基情四射	Full of passion
+t_achievement_name_108	基情四射	基情四射	Full of passion
+t_achievement_name_109	倾城倾国	傾城傾國	Empress Dowager
+t_achievement_name_110	倾城倾国	傾城傾國	Empress Dowager
+t_achievement_name_111	倾城倾国	傾城傾國	Empress Dowager
+t_achievement_name_112	倾城倾国	傾城傾國	Empress Dowager
+t_achievement_name_113	雪地小伙伴	雪地小伙伴	Snow Buddies
+t_achievement_name_114	精英聚集	精英聚集	Battle Elites
+t_achievement_name_115	精英聚集	精英聚集	Battle Elites
+t_achievement_name_116	精英聚集	精英聚集	Battle Elites
+t_achievement_name_117	名人堂	名人堂	Hall of Fame
+t_achievement_name_118	名人堂	名人堂	Hall of Fame
+t_achievement_name_119	名人堂	名人堂	Hall of Fame
+t_achievement_name_201	等级达人	等級達人	Level Expert
+t_achievement_name_202	等级达人	等級達人	Level Expert
+t_achievement_name_203	等级达人	等級達人	Level Expert
+t_achievement_name_301	亲密无间之酷酷	親密無間之酷酷	Intimate Tommy
+t_achievement_name_302	亲密无间之妮妮	親密無間之妮妮	Intimate Annie
+t_achievement_name_303	亲密无间之小狸	親密無間之小狸	Intimate Lee
+t_achievement_name_304	亲密无间之浣浣	親密無間之浣浣	Intimate Betty
+t_achievement_name_305	亲密无间之牛牛	親密無間之牛牛	Intimate Colin
+t_achievement_name_306	亲密无间之喵酱	親密無間之喵醬	Intimate Louise
+t_achievement_name_307	亲密无间之乐乐	親密無間之樂樂	Intimate Jerry
+t_achievement_name_308	亲密无间之雪儿	親密無間之雪兒	Intimate Abby
+t_achievement_name_309	亲密无间之甄姬	親密無間之甄姬	Intimate Shinki
+t_achievement_name_310	亲密无间之黄盖	親密無間之黃蓋	Intimate Lamothe
+t_achievement_name_311	亲密无间之嫦娥	親密無間之嫦娥	Intimate Chang'e
+t_achievement_name_312	亲密无间之周瑜	親密無間之周瑜	Intimate Pasley
+t_achievement_name_313	亲密无间之武则天	親密無間之武則天	Intimate Empress Wu
+t_achievement_name_314	亲密无间之吕布	親密無間之呂布	Intimate Killen
+t_achievement_name_315	亲密无间之貂蝉	親密無間之貂蟬	Intimate Banas
+t_achievement_name_316	亲密无间之孙悟空	親密無間之孫悟空	Intimate Monkey King
+t_achievement_name_317	亲密无间之紫霞	親密無間之紫霞	Intimate Jessie
+t_achievement_name_318	亲密无间之槽里马	親密無間之槽里馬	Intimate Alpaca
+t_achievement_name_319	亲密无间之冷风	親密無間之冷風	Intimate Husky
+t_achievement_name_320	亲密无间之敖饼	親密無間之敖餅	Intimate Dragon
+t_achievement_name_501	终结者	終結者	Terminator
+t_achievement_name_502	终结者	終結者	Terminator
+t_achievement_name_503	终结者	終結者	Terminator
+t_achievement_name_504	终结者	終結者	Terminator
+t_achievement_name_505	终结者	終結者	Terminator
+t_achievement_name_601	势不可挡	勢不可擋	Overwhelming
+t_achievement_name_602	势不可挡	勢不可擋	Overwhelming
+t_achievement_name_603	势不可挡	勢不可擋	Overwhelming
+t_achievement_name_604	势不可挡	勢不可擋	Overwhelming
+t_achievement_name_605	势不可挡	勢不可擋	Overwhelming
+t_achievement_name_701	连环击破	連環擊破	Serial Break
+t_achievement_name_702	连环击破	連環擊破	Serial Break
+t_achievement_name_703	连环击破	連環擊破	Serial Break
+t_achievement_name_704	连环击破	連環擊破	Serial Break
+t_achievement_name_705	连环击破	連環擊破	Serial Break
+t_achievement_name_801	全身而退	全身而退	Unharmed Escape
+t_achievement_name_901	全场最佳	全場最佳	Best of All
+t_achievement_name_902	全场最佳	全場最佳	Best of All
+t_achievement_name_903	全场最佳	全場最佳	Best of All
+t_achievement_name_904	全场最佳	全場最佳	Best of All
+t_achievement_name_905	全场最佳	全場最佳	Best of All
+t_achievement_name_1101	球来球挡	球來球擋	Ball to Block
+t_achievement_name_1102	天外浩劫	天外浩劫	Havoc
+t_achievement_name_1103	死亡如风	死亡如風	Wind of Death
+t_achievement_name_1104	无处可逃	無處可逃	No Escape
+t_achievement_name_1105	雷霆万钧	雷霆萬鈞	Thunderstruck
+t_achievement_name_1201	无招胜有招	無招勝有招	Magic Rejection
+t_achievement_name_1301	道法自然	道法自然	Matser of Magic
+t_achievement_name_1401	攻防一体	攻防一體	Offense and Defense
+t_achievement_name_1601	雪人必须死	雪人必須死	Snowman must die
+t_achievement_name_1701	男性公敌	男性公敵	Male's Enemy
+t_achievement_name_1702	女性公敌	女性公敵	Female's Enemy
+t_achievement_name_1801	兄弟走好	兄弟走好	Bye Brothers
+t_achievement_name_1802	辣手摧花	辣手摧花	Deflowering
+t_achievement_name_1901	三国眷侣之貂蝉	三國眷侶之貂蟬	3 Kingdoms-Banas
+t_achievement_name_1902	三国眷侣之吕布	三國眷侶之呂布	3 Kingdoms-Killen
+t_achievement_name_1903	西游眷侣之紫霞	西遊眷侶之紫霞	Love-Jessie
+t_achievement_name_1904	西游眷侣之悟空	西遊眷侶之悟空	Love-Monkey King
+t_achievement_name_1905	美人之争之甄姬	美人之爭之甄姬	Beauty-Shinki
+t_achievement_name_1906	美人之争之貂蝉	美人之爭之貂蟬	Beauty-Banas
+t_achievement_name_1907	暴走仙女之嫦娥	暴走仙女之嫦娥	Fairy-Chang'e
+t_achievement_name_1908	暴走仙女之紫霞	暴走仙女之紫霞	Fairy-Jessie
+t_achievement_name_1909	真假猴王	真假猴王	True Monkey King
+t_achievement_name_1910	苦肉计	苦肉計	Battered-Body Trick
+t_achievement_name_1911	都督轻点	都督輕點	"Take easy, Pasley"
+t_achievement_name_2001	女王驾到	女王駕到	Queen Arrived
+t_achievement_name_2101	你死我活	你死我活	Dead or alive
+t_achievement_name_2102	你死我活	你死我活	Dead or alive
+t_achievement_name_2103	你死我活	你死我活	Dead or alive
+t_achievement_name_2201	空中拦截	空中攔截	Air Interception
+t_achievement_name_2202	空中拦截	空中攔截	Air Interception
+t_achievement_name_2301	料事如神	料事如神	Prophet
+t_achievement_name_2302	走位犀利	走位犀利	Sharp Move
+t_achievement_name_2501	秀翻全场	秀翻全場	Best Show
+t_achievement_name_2502	秀翻全场	秀翻全場	Best Show
+t_achievement_name_2601	捡漏王	撿漏王	Bargain Hunter
+t_achievement_name_2701	全民公敌	全民公敵	Public Enemy
+t_achievement_name_2702	全民公敌	全民公敵	Public Enemy
+t_achievement_name_2801	巨人克星	巨人剋星	Giant Slayer
+t_achievement_name_2802	巨人克星	巨人剋星	Giant Slayer
+t_achievement_name_2803	巨人克星	巨人剋星	Giant Slayer
+t_achievement_name_2901	以德服人	以德服人	Win by Virtue
+t_achievement_name_3001	孤胆英雄	孤膽英雄	Lone hero
+t_achievement_name_3002	孤胆英雄	孤膽英雄	Lone hero
+t_achievement_name_3003	孤胆英雄	孤膽英雄	Lone hero
+t_achievement_name_3004	孤胆英雄	孤膽英雄	Lone hero
+t_achievement_name_3005	孤胆英雄	孤膽英雄	Lone hero
+t_achievement_name_3201	以牙还牙	以牙還牙	Retaliation
+t_achievement_name_3202	以牙还牙	以牙還牙	Retaliation
+t_achievement_name_3301	破釜沉舟	破釜沉舟	Last Resort
+t_achievement_name_3401	无处可藏	無處可藏	Nowhere to Hide
+t_achievement_name_3402	无处可藏	無處可藏	Nowhere to Hide
+t_achievement_name_3501	奖杯达人	獎杯達人	Cup Expert
+t_achievement_name_3502	奖杯达人	獎杯達人	Cup Expert
+t_achievement_name_3503	奖杯达人	獎杯達人	Cup Expert
+t_achievement_name_3504	奖杯达人	獎杯達人	Cup Expert
+t_achievement_name_3505	奖杯达人	獎杯達人	Cup Expert
+t_achievement_name_13011	团队精英	團隊精英	Team Elite
+t_achievement_name_13012	团队精英	團隊精英	Team Elite
+t_achievement_name_13013	团队精英	團隊精英	Team Elite
+t_achievement_name_13014	团队精英	團隊精英	Team Elite
+t_achievement_name_13015	团队精英	團隊精英	Team Elite
+t_achievement_desc_101	拥有5个角色	擁有5個角色	Have 5 heroes
+t_achievement_desc_102	拥有10个角色	擁有10個角色	Have 10 heroes
+t_achievement_desc_103	拥有15个角色	擁有15個角色	Have 15 heroes
+t_achievement_desc_104	拥有20个角色	擁有20個角色	Have 20 heroes
+t_achievement_desc_105	拥有5位男性角色	擁有5位男性角色	Have 5 male heroes
+t_achievement_desc_106	拥有10位男性角色	擁有10位男性角色	Have 10 male heroes
+t_achievement_desc_107	拥有15位男性角色	擁有15位男性角色	Have 15 male heroes
+t_achievement_desc_108	拥有20位男性角色	擁有20位男性角色	Have 20 male heroes
+t_achievement_desc_109	拥有5位女性角色	擁有5位女性角色	Have 5 female heroes
+t_achievement_desc_110	拥有10位女性角色	擁有10位女性角色	Have 10 female heroes
+t_achievement_desc_111	拥有15位女性角色	擁有15位女性角色	Have 15 female heroes
+t_achievement_desc_112	拥有20位女性角色	擁有20位女性角色	Have 20 female heroes
+t_achievement_desc_113	拥有8名普通角色	擁有8名普通角色	Have 8 ordinary heroes
+t_achievement_desc_114	拥有2名稀有角色	擁有2名稀有角色	Have 2 rare heroes
+t_achievement_desc_115	拥有4名稀有角色	擁有4名稀有角色	Have 4 rare heroes
+t_achievement_desc_116	拥有6名稀有角色	擁有6名稀有角色	Have 6 rare heroes
+t_achievement_desc_117	拥有1名史诗角色	擁有1名史詩角色	Have 1 epic hero
+t_achievement_desc_118	拥有3名史诗角色	擁有3名史詩角色	Have 3 epic heroes
+t_achievement_desc_119	拥有5名史诗角色	擁有5名史詩角色	Have 5 epic heroes
+t_achievement_desc_201	账号等级达到10级	賬號等級達到10級	Reach to Level 10
+t_achievement_desc_202	账号等级达到20级	賬號等級達到20級	Reach to Level 20
+t_achievement_desc_203	账号等级达到30级	賬號等級達到30級	Reach to Level 30
+t_achievement_desc_301	酷酷升至5星	酷酷升至5星	Upgrade Tommy to 5 stars
+t_achievement_desc_302	妮妮升至5星	妮妮升至5星	Upgrade Annie to 5 stars
+t_achievement_desc_303	小狸升至5星	小狸升至5星	Upgrade Lee to 5 stars
+t_achievement_desc_304	浣浣升至5星	浣浣升至5星	Upgrade Betty to 5 stars
+t_achievement_desc_305	牛牛升至5星	牛牛升至5星	Upgrade Colin to 5 stars
+t_achievement_desc_306	喵酱升至5星	喵醬升至5星	Upgrade Louise to 5 stars
+t_achievement_desc_307	乐乐升至5星	樂樂升至5星	Upgrade Jerry to 5 stars
+t_achievement_desc_308	雪儿升至5星	雪兒升至5星	Upgrade Abby to 5 stars
+t_achievement_desc_309	甄姬升至5星	甄姬升至5星	Upgrade Shinki to 5 stars
+t_achievement_desc_310	黄盖升至5星	黃蓋升至5星	Upgrade Lamothe to 5 stars
+t_achievement_desc_311	嫦娥升至5星	嫦娥升至5星	Upgrade Chang'e to 5 stars
+t_achievement_desc_312	周瑜升至5星	周瑜升至5星	Upgrade Pasley to 5 stars
+t_achievement_desc_313	武则天升至5星	武則天升至5星	Upgrade Empress Wu to 5 stars
+t_achievement_desc_314	吕布升至5星	呂布升至5星	Upgrade Killen to 5 stars
+t_achievement_desc_315	貂蝉升至5星	貂蟬升至5星	Upgrade Banas to 5 stars
+t_achievement_desc_316	孙悟空升至5星	孫悟空升至5星	Upgrade Monkey King to 5 stars
+t_achievement_desc_317	紫霞升至5星	紫霞升至5星	Upgrade Jessie to 5 stars
+t_achievement_desc_318	槽里马升至5星	槽里馬升至5星	Upgrade Alpaca to 5 stars
+t_achievement_desc_319	冷风升至5星	冷風升至5星	Upgrade Husky to 5 stars
+t_achievement_desc_320	敖饼升至5星	敖餅升至5星	Upgrade Dragon to 5 stars
+t_achievement_desc_501	累计击败其他玩家200次	累計擊敗其他玩家200次	Kill others 200 times in total
+t_achievement_desc_502	累计击败其他玩家500次	累計擊敗其他玩家500次	Kill others 500 times in total
+t_achievement_desc_503	累计击败其他玩家1000次	累計擊敗其他玩家1000次	Kill others 1000 times in total
+t_achievement_desc_504	累计击败其他玩家2000次	累計擊敗其他玩家2000次	Kill others 2000 times in total
+t_achievement_desc_505	累计击败其他玩家5000次	累計擊敗其他玩家5000次	Kill others 5000 times in total
+t_achievement_desc_601	一局对战中击败其他玩家8次	一局對戰中擊敗其他玩家8次	Kill others 8 times in one game
+t_achievement_desc_602	一局对战中击败其他玩家10次	一局對戰中擊敗其他玩家10次	Kill others 10 times in one game
+t_achievement_desc_603	一局对战中击败其他玩家12次	一局對戰中擊敗其他玩家12次	Kill others 12 times in one game
+t_achievement_desc_604	一局对战中击败其他玩家14次	一局對戰中擊敗其他玩家14次	Kill others 14 times in one game
+t_achievement_desc_605	一局对战中击败其他玩家16次	一局對戰中擊敗其他玩家16次	Kill others 16 times in one game
+t_achievement_desc_701	一局对战中连续击败6名玩家	一局對戰中連續擊敗6名玩家	Kill others 6 times with no death in one game
+t_achievement_desc_702	一局对战中连续击败7名玩家	一局對戰中連續擊敗7名玩家	Kill others 7 times with no death in one game
+t_achievement_desc_703	一局对战中连续击败8名玩家	一局對戰中連續擊敗8名玩家	Kill others 8 times with no death in one game
+t_achievement_desc_704	一局对战中连续击败9名玩家	一局對戰中連續擊敗9名玩家	Kill others 9 times with no death in one game
+t_achievement_desc_705	一局对战中连续击败10名玩家	一局對戰中連續擊敗10名玩家	Kill others 10 times with no death in one game
+t_achievement_desc_801	一局大乱斗中没有死亡过	一局大亂鬥中沒有死亡過	Never die in one game
+t_achievement_desc_901	大乱斗，获得10次第一名	大亂鬥，獲得10次第一名	Get No.1 10 times total in scuffle
+t_achievement_desc_902	大乱斗，获得50次第一名	大亂鬥，獲得50次第一名	Get No.1 50 times total in scuffle
+t_achievement_desc_903	大乱斗，获得100次第一名	大亂鬥，獲得100次第一名	Get No.1 100 times total in scuffle
+t_achievement_desc_904	大乱斗，获得200次第一名	大亂鬥，獲得200次第一名	Get No.1 200 times total in scuffle
+t_achievement_desc_905	大乱斗，获得300次第一名	大亂鬥，獲得300次第一名	Get No.1 300 times total in scuffle
+t_achievement_desc_1101	使用滚雪球单次抵消掉敌人的3次雪球	使用滾雪球單次抵消掉敵人的3次雪球	Use huge snowball to offset enemies' 3 AMMOs at one shot
+t_achievement_desc_1102	使用陨石单次击败2名敌人	使用隕石單次擊敗2名敵人	Use meteorite to kill 2 enemies at one shot
+t_achievement_desc_1103	使用龙卷风单次吹飞3名敌人	使用龍捲風單次吹飛3名敵人	Use tornado to blow up 3 enemies at one shot
+t_achievement_desc_1104	使用暴风雪单次击败2名敌人	使用暴風雪單次擊敗2名敵人	Use snowstorm to kill 2 enemies at one shot
+t_achievement_desc_1105	使用闪电球单次命中3名敌人	使用閃電球單次命中3名敵人	Use lighting ball to hit 3 enemies at one shot
+t_achievement_desc_1201	不使用任何技能的情况下完成一局对战	不使用任何技能的情況下完成一局對戰	Complete one battle without using skills
+t_achievement_desc_1301	一局对战中只使用技能击败敌人	一局對戰中只使用技能擊敗敵人	Only use skills to kill enemies in one game
+t_achievement_desc_1401	使用滚雪球抵挡敌人雪球100次	使用滾雪球抵擋敵人雪球100次	Use huge snowball to offset enemies' 100 AMMOs in total
+t_achievement_desc_1601	普通雪球命中雪人500次	普通雪球命中雪人500次	Use AMMO to hit snowman 500 times
+t_achievement_desc_1701	一局对战中击败男性角色8次	一局對戰中擊敗男性角色8次	Kill male heroes 8 times in one game
+t_achievement_desc_1702	一局对战中击败女性角色8次	一局對戰中擊敗女性角色8次	Kill female heroes 8 times in one game
+t_achievement_desc_1801	一局对战中只击败男性角色，且不低于5次	一局對戰中只擊敗男性角色，且不低於5次	Kill male heroes only at least 5 times in one game
+t_achievement_desc_1802	一局对战中只击败女性角色，且不低于5次	一局對戰中只擊敗女性角色，且不低於5次	Kill female heroes only at least 5 times in one game
+t_achievement_desc_1901	使用貂蝉击败吕布50次	使用貂蟬擊敗呂布50次	Use Banas to kill Killen 50 times
+t_achievement_desc_1902	使用吕布击败貂蝉50次	使用呂布擊敗貂蟬50次	Use Killen to kill Banas 50 times
+t_achievement_desc_1903	使用紫霞击败孙悟空50次	使用紫霞擊敗孫悟空50次	Use Jessie to kill Monkey King 50 times
+t_achievement_desc_1904	使用孙悟空击败紫霞50次	使用孫悟空擊敗紫霞50次	Use Monkey King to kill Jessie 50 times
+t_achievement_desc_1905	使用甄姬击败貂蝉50次	使用甄姬擊敗貂蟬50次	Use Shinki to kill Banas 50 times
+t_achievement_desc_1906	使用貂蝉击败甄姬50次	使用貂蟬擊敗甄姬50次	Use Banas to kill Shinki 50 times
+t_achievement_desc_1907	使用嫦娥击败紫霞50次	使用嫦娥擊敗紫霞50次	Use Chang'e to kill Jessie 50 times
+t_achievement_desc_1908	使用紫霞击败嫦娥50次	使用紫霞擊敗嫦娥50次	Use Jessie to kill Chang'e 50 times
+t_achievement_desc_1909	使用孙悟空击败孙悟空50次	使用孫悟空擊敗孫悟空50次	Use Monkey King to kill Monkey King 50 times
+t_achievement_desc_1910	使用周瑜击败黄盖50次	使用周瑜擊敗黃蓋50次	Use Pasley to kill Lamothe 50 times
+t_achievement_desc_1911	使用黄盖击败周瑜50次	使用黃蓋擊敗周瑜50次	Use Lamothe to kill Pasley 50 times
+t_achievement_desc_2001	使用武则天击败男性角色50次	使用武則天擊敗男性角色50次	Use Empress Wu to kill male heroes 50 times
+t_achievement_desc_2101	一局对战中击败同一名玩家5次	一局對戰中擊敗同一名玩家5次	Kill the same player 5 times in one game
+t_achievement_desc_2102	一局对战中击败同一名玩家7次	一局對戰中擊敗同一名玩家7次	Kill the same player 7 times in one game
+t_achievement_desc_2103	一局对战中击败同一名玩家10次	一局對戰中擊敗同一名玩家10次	Kill the same player 10 times in one game
+t_achievement_desc_2201	击败5次空中的敌人	擊敗5次空中的敵人	Kill enemies in air 5 times
+t_achievement_desc_2202	击败10次空中的敌人	擊敗10次空中的敵人	Kill enemies in air 10 times
+t_achievement_desc_2301	单次致盲状态下击败1名敌人	單次致盲狀態下擊敗1名敵人	Kill 1 enemy in blind state
+t_achievement_desc_2302	单次混乱状态下击败1名敌人	單次混亂狀態下擊敗1名敵人	Kill 1 enemy in chaotic state
+t_achievement_desc_2501	一局对战中自己生命值低于10%状态下击败2名敌人	一局對戰中自己生命值低於10%狀態下擊敗2名敵人	Kill 2 enemies while your HP<10% in one game
+t_achievement_desc_2502	一局对战中自己生命值低于10%状态下击败3名敌人	一局對戰中自己生命值低於10%狀態下擊敗3名敵人	Kill 3 enemies while your HP<10% in one game
+t_achievement_desc_2601	一局对战中补刀3名生命值低于20%敌人	一局對戰中補刀3名生命值低於20%敵人	Give the last hit to 3 enemies with HP<20% in one game
+t_achievement_desc_2701	一局对战中击败过4名不同敌人	一局對戰中擊敗過4名不同敵人	Kill 4 different enemies in one game
+t_achievement_desc_2702	一局对战中击败过5名不同敌人	一局對戰中擊敗過5名不同敵人	Kill 5 different enemies in one game
+t_achievement_desc_2801	一局大乱斗中击败排行第一名的敌人3次	一局大亂鬥中擊敗排行第一名的敵人3次	Kill the enemy ranking NO.1 3 times in scuffle
+t_achievement_desc_2802	一局大乱斗中击败排行第一名的敌人4次	一局大亂鬥中擊敗排行第一名的敵人4次	Kill the enemy ranking NO.1 4 times in scuffle
+t_achievement_desc_2803	一局大乱斗中击败排行第一名的敌人5次	一局大亂鬥中擊敗排行第一名的敵人5次	Kill the enemy ranking NO.1 5 times in scuffle
+t_achievement_desc_2901	一局大乱斗中不击败任何人获得第一名	一局大亂鬥中不擊敗任何人獲得第一名	Get No.1 without killing anyone in scuffle
+t_achievement_desc_3001	累计参加50局大乱斗	累計參加50局大亂鬥	Play the scuffle 50 times
+t_achievement_desc_3002	累计参加100局大乱斗	累計參加100局大亂鬥	Play the scuffle 100 times
+t_achievement_desc_3003	累计参加300局大乱斗	累計參加300局大亂鬥	Play the scuffle 300 times
+t_achievement_desc_3004	累计参加500局大乱斗	累計參加500局大亂鬥	Play the scuffle 500 times
+t_achievement_desc_3005	累计参加1000局大乱斗	累計參加1000局大亂鬥	Play the scuffle 1000 times
+t_achievement_desc_3201	死亡状态下击败1名敌人	死亡狀態下擊敗1名敵人	Kill 1 enemy in dead state
+t_achievement_desc_3202	死亡状态下击败2名敌人	死亡狀態下擊敗2名敵人	Kill 2 enemies in dead state
+t_achievement_desc_3301	一局大乱斗中不使用变雪人获得第一名	一局大亂鬥中不使用變雪人獲得第一名	Get No.1 without using snowman in scuffle
+t_achievement_desc_3401	一局对战中于草丛外击败藏身草丛中的2名敌人	一局對戰中於草叢外擊敗藏身草叢中的2名敵人	Kill 2 enemies inside grass while you are outside in one game
+t_achievement_desc_3402	一局对战中于草丛外击败藏身草丛中的3名敌人	一局對戰中於草叢外擊敗藏身草叢中的3名敵人	Kill 3 enemies inside grass while you are outside in one game
+t_achievement_desc_3501	达到白金奖杯	達到白金獎杯	Reach to Platinum Cup
+t_achievement_desc_3502	达到钻石奖杯	達到鑽石獎杯	Reach to Diamond Cup
+t_achievement_desc_3503	达到大师奖杯	達到大師獎杯	Reach to Master Cup
+t_achievement_desc_3504	达到冰魂奖杯	達到冰魂獎杯	Reach to Sprite Cup
+t_achievement_desc_3505	达到至尊奖杯	達到至尊獎杯	Reach to Supreme Cup
+t_achievement_desc_13011	累计参加50局雪地会战	累計參加50局雪地會戰	Play the snow conflict 50 times
+t_achievement_desc_13012	累计参加100局雪地会战	累計參加100局雪地會戰	Play the conflict 100 times
+t_achievement_desc_13013	累计参加300局雪地会战	累計參加300局雪地會戰	Play the conflict 300 times
+t_achievement_desc_13014	累计参加500局雪地会战	累計參加500局雪地會戰	Play the conflict 500 times
+t_achievement_desc_13015	累计参加1000局雪地会战	累計參加1000局雪地會戰	Play the conflict 1000 times
+t_attr_desc_1	[c2e5ed]紫金宝箱获得概率提升[ff8a00]{N1}%[-]	[c2e5ed]紫金寶箱獲得概率提升[ff8a00]{N1}%[-]	[c2e5ed]Violet Gold Chest's rate [ff8a00]+{N1}%[-]
+t_attr_desc_2	[c2e5ed]赤金宝箱获得概率提升[ff8a00]{N1}%[-]	[c2e5ed]赤金寶箱獲得概率提升[ff8a00]{N1}%[-]	[c2e5ed]Solid Gold Chest's rate [ff8a00]+{N1}%[-]
+t_attr_desc_3	[c2e5ed]稀有角色升星所需金币减少[ff8a00]{N1}%[-]	[c2e5ed]稀有角色升星所需金幣減少[ff8a00]{N1}%[-]	[c2e5ed]Gold of rare upgrading [ff8a00]-{N1}%[-]
+t_attr_desc_4	[c2e5ed]史诗角色升星所需金币减少[ff8a00]{N1}%[-]	[c2e5ed]史詩角色升星所需金幣減少[ff8a00]{N1}%[-]	[c2e5ed]Gold of epic upgrading [ff8a00]-{N1}%[-]
+t_attr_desc_5	[c2e5ed]宝箱内获得的金币增加[ff8a00]{N1}[-][c2e5ed]枚	[c2e5ed]寶箱內獲得的金幣增加[ff8a00]{N1}[-][c2e5ed]枚	[c2e5ed]Gold from Chest [ff8a00]+{N1}[-]
+t_attr_desc_6	[c2e5ed]宝箱解锁时间减少[ff8a00]{N1}%[-]	[c2e5ed]寶箱解鎖時間減少[ff8a00]{N1}%[-]	[c2e5ed]Unlocking chest time [ff8a00]-{N1}%[-]
+t_attr_desc_7	[c2e5ed]战斗结算金币增加[ff8a00]{N1}[-][c2e5ed]枚	[c2e5ed]戰鬥結算金幣增加[ff8a00]{N1}[-][c2e5ed]枚	[c2e5ed]Gold after battle [ff8a00]+{N1}[-]
+t_attr_desc_8	[c2e5ed]每周战斗金币上限[ff8a00]{N1}[-][c2e5ed]枚	[c2e5ed]每週戰斗金幣上限[ff8a00]{N1}[-][c2e5ed]枚	[c2e5ed]Weekly fight gold [ff8a00]+{N1}[-]
+t_attr_desc_9	签到奖励[ff8a00]{N1}[-]倍	簽到獎勵[ff8a00]{N1}[-]倍	Sign-in rewards [ff8a00]x{N1}[-]
+t_attr_desc_10	赛季结算奖励[ff8a00]{N1}[-]倍	賽季結算獎勵[ff8a00]{N1}[-]倍	Season settlement rewards [ff8a00]x{N1}[-]
+t_battle_attr_desc_1	生命 +{N1}	生命 +{N1}	Health +{N1}
+t_battle_attr_desc_2	生命 +{N1}%	生命 +{N1}%	Health +{N1}%
+t_battle_attr_desc_3	攻击 +{N1}	攻擊 +{N1}	Attack +{N1}
+t_battle_attr_desc_4	攻击 +{N1}%	攻擊 +{N1}%	Attack +{N1}%
+t_battle_attr_desc_5	防御 +{N1}	防禦 +{N1}	Defense +{N1}
+t_battle_attr_desc_6	防御 +{N1}%	防禦 +{N1}%	Defense +{N1}%
+t_battle_attr_desc_7	移速 +{N1}	移速 +{N1}	Move Speed +{N1}
+t_battle_attr_desc_8	移速 +{N1}%	移速 +{N1}%	Move Speed +{N1}%
+t_battle_attr_desc_9	暴击率 +{N1}%	暴擊率 +{N1}%	Critical Strike +{N1}%
+t_battle_attr_desc_10	每秒回复生命 +{N1}	每秒回復生命 +{N1}	Health Regeneration  +{N1}
+t_battle_attr_desc_11	每秒回复生命 +{N1}%	每秒回復生命 +{N1}%	Health Regeneration +{N1}%
+t_battle_attr_desc_12	普通雪球射程 +{N1}	普通雪球射程 +{N1}	Range +{N1}
+t_battle_attr_desc_13	普通雪球射程 +{N1}%	普通雪球射程 +{N1}%	Range +{N1}%
+t_battle_attr_desc_14	对敌人造成伤害 +{N1}%	對敵人造成傷害 +{N1}%	Damage +{N1}%
+t_battle_attr_desc_15	伤害减免 +{N1}%	傷害減免 +{N1}%	Damage Reduction +{N1}%
+t_battle_attr_desc_16	技能伤害增加 +{N1}%	技能傷害增加 +{N1}%	NOTYET
+t_battle_attr_desc_17	对技能减伤 +{N1}%	對技能減傷 +{N1}%	NOTYET
+t_battle_attr_desc_18	无视防御概率 +{N1}%	無視防禦概率 +{N1}%	NOTYET
+t_battle_attr_desc_19	击杀回复生命 +{N1}	擊殺回復生命 +{N1}	NOTYET
+t_battle_attr_desc_20	击杀回复生命 +{N1}%	擊殺回復生命 +{N1}%	NOTYET
+t_battle_attr_desc_21	免疫控制概率 +{N1}%	免疫控制概率 +{N1}%	NOTYET
+t_battle_attr_desc_22	免疫普攻概率 +{N1}%	免疫普攻概率 +{N1}%	NOTYET
+t_battle_attr_desc_23	技能冷却时间减少 +{N1}%	技能冷卻時間減少 +{N1}%	NOTYET
+t_battle_attr_desc_24	变雪人冷却时间减少 +{N1}%	變雪人冷卻時間減少 +{N1}%	NOTYET
+t_battle_attr_desc_25	控制敌人时间延长 +{N1}%	控制敵人時間延長 +{N1}%	NOTYET
+t_battle_attr_desc_26	释放技能回复生命 +{N1}	釋放技能回復生命 +{N1}	NOTYET
+t_battle_attr_desc_27	释放技能回复至满生命值概率 +{N1}%	釋放技能回復至滿生命值概率 +{N1}%	NOTYET
+t_battle_attr_desc_28	技能冷却期间减伤 +{N1}%	技能冷卻期間減傷 +{N1}%	NOTYET
+t_battle_attr_desc_29	对技能释放者反弹伤害 +{N1}%	對技能釋放者反彈傷害 +{N1}%	NOTYET
+t_battle_attr_desc_30	释放技能免除冷却概率 +{N1}%	釋放技能免除冷卻概率 +{N1}%	NOTYET
+t_battle_attr_desc_31	拾取水晶额外积分 +{N1}	拾取水晶額外積分 +{N1}	NOTYET
+t_battle_attr_desc_32	拾取水晶额外积分 +{N1}%	拾取水晶額外積分 +{N1}%	NOTYET
+t_battle_attr_desc_33	物品拾取范围 +{N1}%	物品拾取範圍 +{N1}%	NOTYET
+t_battle_attr_desc_34	拾取水晶回复生命 +{N1}	拾取水晶回復生命 +{N1}	NOTYET
+t_battle_attr_desc_35	血瓶回复量 +{N1}%	血瓶回復量 +{N1}%	NOTYET
+t_battle_attr_desc_36	拾取能力球增加积分 +{N1}	拾取能力球增加積分 +{N1}	NOTYET
+t_battle_attr_desc_37	能力雪球最大等级提升 +{N1}	能力雪球最大等級提升 +{N1}	NOTYET
+t_battle_attr_desc_38	死亡后积分保留 +{N1}%	死亡後積分保留 +{N1}%	NOTYET
+t_battle_attr_desc_39	普攻生命偷取 +{N1}%	普攻生命偷取 +{N1}%	NOTYET
+t_battle_attr_desc_40	技能生命偷取 +{N1}%	技能生命偷取 +{N1}%	NOTYET
+t_battle_attr_desc_41	每损失20%生命攻击增加 +{N1}%	每損失20%生命攻擊增加 +{N1}%	NOTYET
+t_battle_attr_desc_42	技能每飞行1米伤害增加 +{N1}%	技能每飛行1米傷害增加 +{N1}%	NOTYET
+t_battle_attr_desc_43	拾取能力球升2级概率 +{N1}%	拾取能力球升2級概率 +{N1}%	NOTYET
+t_battle_attr_desc_44	拾取技能球升2级概率 +{N1}%	拾取技能球升2級概率 +{N1}%	NOTYET
+t_battle_attr_desc_45	拾取水晶2倍积分概率 +{N1}%	拾取水晶2倍積分概率 +{N1}%	NOTYET
+t_battle_attr_desc_46	普通雪球伤害增加 +{N1}%	普通雪球傷害增加 +{N1}%	NOTYET
+t_battle_attr_desc_47	男性生命 +{N1}	男性生命 +{N1}	NOTYET
+t_battle_attr_desc_48	女性生命 +{N1}	女性生命 +{N1}	NOTYET
+t_battle_attr_desc_49	男性生命 +{N1}%	男性生命 +{N1}%	NOTYET
+t_battle_attr_desc_50	女性生命 +{N1}%	女性生命 +{N1}%	NOTYET
+t_battle_attr_desc_51	男性攻击 +{N1}	男性攻擊 +{N1}	NOTYET
+t_battle_attr_desc_52	女性攻击 +{N1}	女性攻擊 +{N1}	NOTYET
+t_battle_attr_desc_53	男性攻击 +{N1}%	男性攻擊 +{N1}%	NOTYET
+t_battle_attr_desc_54	女性攻击 +{N1}%	女性攻擊 +{N1}%	NOTYET
+t_battle_attr_desc_55	男性防御 +{N1}	男性防禦 +{N1}	NOTYET
+t_battle_attr_desc_56	女性防御 +{N1}	女性防禦 +{N1}	NOTYET
+t_battle_attr_desc_57	男性防御 +{N1}%	男性防禦 +{N1}%	NOTYET
+t_battle_attr_desc_58	女性防御 +{N1}%	女性防禦 +{N1}%	NOTYET
+t_battle_attr_desc_59	男性移速 +{N1}	男性移速 +{N1}	NOTYET
+t_battle_attr_desc_60	女性移速 +{N1}	女性移速 +{N1}	NOTYET
+t_battle_attr_desc_61	男性移速 +{N1}%	男性移速 +{N1}%	NOTYET
+t_battle_attr_desc_62	女性移速 +{N1}%	女性移速 +{N1}%	NOTYET
+t_battle_attr_desc_63	男性射程 +{N1}	男性射程 +{N1}	NOTYET
+t_battle_attr_desc_64	女性射程 +{N1}	女性射程 +{N1}	NOTYET
+t_battle_attr_desc_65	男性射程 +{N1}%	男性射程 +{N1}%	NOTYET
+t_battle_attr_desc_66	女性射程 +{N1}%	女性射程 +{N1}%	NOTYET
+t_battle_attr_desc_67	男性增伤 +{N1}	男性增傷 +{N1}	NOTYET
+t_battle_attr_desc_68	女性增伤 +{N1}	女性增傷 +{N1}	NOTYET
+t_battle_attr_desc_69	男性减伤 +{N1}	男性減傷 +{N1}	NOTYET
+t_battle_attr_desc_70	女性减伤 +{N1}	女性減傷 +{N1}	NOTYET
+t_battle_attr_desc_71	击杀所得积分 +{N1}%	擊殺所得積分 +{N1}%	NOTYET
+t_battle_attr_desc_72	普通雪球伤害 +{N1}	普通雪球傷害 +{N1}	NOTYET
+t_battle_attr_desc_73	每损失20%生命攻击 +{N1}	每損失20%生命攻擊 +{N1}	NOTYET
+t_battle_attr_desc_74	普通雪球命中回复生命 +{N1}	普通雪球命中回復生命 +{N1}	NOTYET
+t_battle_attr_desc_75	每10000积分攻击 +{N1}	每10000積分攻擊 +{N1}	NOTYET
+t_battle_attr_desc_76	每10000积分生命 +{N1}	每10000積分生命 +{N1}	NOTYET
+t_battle_attr_desc_77	拾取能力雪球回复生命 +{N1}	拾取能力雪球回復生命 +{N1}	NOTYET
+t_battle_attr_desc_78	护盾抵挡伤害次数 +{N1}	護盾抵擋傷害次數 +{N1}	NOTYET
+t_battle_attr_desc_79	拾取能力雪球获得护盾概率 +{N1}%	拾取能力雪球獲得護盾概率 +{N1}%	NOTYET
+t_battle_attr_desc_80	攻击与自己拥有相同技能的目标伤害 +{N1}%	攻擊與自己擁有相同技能的目標傷害 +{N1}%	NOTYET
+t_battle_attr_desc_81	每击杀一名敌人生命 +{N1}	每擊殺一名敵人生命 +{N1}	NOTYET
+t_battle_attr_desc_82	每击杀一名敌人生命 +{N1}%	每擊殺一名敵人生命 +{N1}%	NOTYET
+t_battle_attr_desc_83	每击杀一名敌人攻击 +{N1}	每擊殺一名敵人攻擊 +{N1}	NOTYET
+t_battle_attr_desc_84	每击杀一名敌人攻击 +{N1}%	每擊殺一名敵人攻擊 +{N1}%	NOTYET
+t_battle_attr_desc_85	每击杀一名敌人防御 +{N1}	每擊殺一名敵人防禦 +{N1}	NOTYET
+t_battle_attr_desc_86	每击杀一名敌人防御 +{N1}%	每擊殺一名敵人防禦 +{N1}%	NOTYET
+t_battle_attr_desc_87	每击杀一名敌人移速 +{N1}	每擊殺一名敵人移速 +{N1}	NOTYET
+t_battle_attr_desc_88	每击杀一名敌人移速 +{N1}%	每擊殺一名敵人移速 +{N1}%	NOTYET
+t_battle_attr_desc_89	对自己当前的技能免疫概率 +{N1}%	對自己當前的技能免疫概率 +{N1}%	NOTYET
+t_battle_attr_desc_90	受到伤害增加 +{N1}%	受到傷害增加 +{N1}%	NOTYET
+t_battle_attr_desc_91	普攻散射概率 +{N1}%	普攻散射概率 +{N1}%	NOTYET
+t_battle_attr_desc_101	致盲	致盲	Blind
+t_battle_attr_desc_102	晕眩	暈眩	Stun
+t_battle_attr_desc_103	混乱	混亂	Chaotic
+t_battle_attr_desc_104	冻结	凍結	Frozen
+t_battle_attr_desc_105	对自己当前的技能免疫	對自己當前的技能免疫	Spell Immunity
+t_battle_attr_desc_106	无敌	無敵	Invulnerable
+t_battle_attr_desc_107	无敌冷却	無敵冷卻	Invulnerable Cooling
+t_battle_attr_desc_108	隐身	隱身	Invincible
+t_talent_desc1_1	攻击 [f4e45d]{N1}[-] 级	攻擊 [f4e45d]{N1}[-] 級	Attack Lv.[f4e45d]{N1}[-]
+t_talent_desc1_2	生命 [f4e45d]{N1}[-] 级	生命 [f4e45d]{N1}[-] 級	HP Lv.[f4e45d]{N1}[-]
+t_talent_desc1_3	射程 [f4e45d]{N1}[-] 级	射程 [f4e45d]{N1}[-] 級	Range Lv.[f4e45d]{N1}[-]
+t_talent_desc1_4	移速 [f4e45d]{N1}[-] 级	移速 [f4e45d]{N1}[-] 級	Move Speed Lv.[f4e45d]{N1}[-]
+t_talent_desc1_5	减伤 [f4e45d]{N1}[-] 级	減傷 [f4e45d]{N1}[-] 級	Damage Reduction Lv.[f4e45d]{N1}[-]
+t_talent_desc1_6	射速 [f4e45d]{N1}[-] 级	射速 [f4e45d]{N1}[-] 級	Attack Speed Lv.[f4e45d]{N1}[-]
+t_talent_desc1_7	蓄力 [f4e45d]{N1}[-] 级	蓄力 [f4e45d]{N1}[-] 級	Charge Lv.[f4e45d]{N1}[-]
+t_talent_desc1_8	暴击 [f4e45d]{N1}[-] 级	暴擊 [f4e45d]{N1}[-] 級	Critical Strike Lv.[f4e45d]{N1}[-]
+t_talent_desc1_9	吸血 [f4e45d]{N1}[-] 级	吸血 [f4e45d]{N1}[-] 級	Life Steal Lv.[f4e45d]{N1}[-]
+t_talent_desc1_10	回复 [f4e45d]{N1}[-] 级	回复 [f4e45d]{N1}[-] 級	Recovery Lv.[f4e45d]{N1}[-]
+t_talent_desc1_11	散射 [f4e45d]{N1}[-] 级	散射 [f4e45d]{N1}[-] 級	Scattering Rate Lv.[f4e45d]{N1}[-]
+t_talent_desc2_1	攻击 [57FC5B]+{N2}%	攻擊 [57FC5B]+{N2}%	Attack [57FC5B]+{N2}%
+t_talent_desc2_2	生命 [57FC5B]+{N2}%	生命 [57FC5B]+{N2}%	Health [57FC5B]+{N2}%
+t_talent_desc2_3	射程 [57FC5B]+{N2}	射程 [57FC5B]+{N2}	Range [57FC5B]+{N2}
+t_talent_desc2_4	移速 [57FC5B]+{N2}%	移速 [57FC5B]+{N2}%	Move Speed [57FC5B]+{N2}%
+t_talent_desc2_5	减伤 [57FC5B]+{N2}%	減傷 [57FC5B]+{N2}%	Damage Reduction [57FC5B]+{N2}%
+t_talent_desc2_6	射速 [57FC5B]+{N2}%	射速 [57FC5B]+{N2}%	Attack Speed [57FC5B]+{N2}%
+t_talent_desc2_7	蓄力时间 [57FC5B]-{N2}%	蓄力時間 [57FC5B]-{N2}%	Charge Time [57FC5B]-{N2}%
+t_talent_desc2_8	暴击率 [57FC5B]+{N2}%	暴擊率 [57FC5B]+{N2}%	Critical Strike [57FC5B]+{N2}%
+t_talent_desc2_9	吸血 [57FC5B]+{N2}%	吸血 [57FC5B]+{N2}%	Life Steal [57FC5B]+{N2}%
+t_talent_desc2_10	每秒回血 [57FC5B]+{N2}%	每秒回血 [57FC5B]+{N2}%	Health Regeneration [57FC5B]+{N2}%
+t_talent_desc2_11	散射率 [57FC5B]+{N2}%	散射率 [57FC5B]+{N2}%	Scattering Rate [57FC5B]+{N2}%
+t_role_skill_name_1001	【赏金猎人】	【賞金獵人】	[Skill II]
+t_role_skill_name_1002	【天真烂漫】	【天真爛漫】	[Skill II]
+t_role_skill_name_1003	【深藏不露】	【深藏不露】	[Skill II]
+t_role_skill_name_1004	【精准打击】	【精準打擊】	[Skill II]
+t_role_skill_name_1005	【自给自足】	【自給自足】	[Skill II]
+t_role_skill_name_1006	【愈战愈勇】	【愈戰愈勇】	[Skill II]
+t_role_skill_name_1007	【欢快节奏】	【歡快節奏】	[Skill II]
+t_role_skill_name_1008	【伪装高手】	【偽裝高手】	[Skill II]
+t_role_skill_name_2001	【洛神寒冰】	【洛神寒冰】	[Skill II]
+t_role_skill_name_2002	【老当益壮】	【老當益壯】	[Skill II]
+t_role_skill_name_2003	【月光庇护】	【月光庇護】	[Skill II]
+t_role_skill_name_2004	【卓尔不凡】	【卓爾不凡】	[Skill II]
+t_role_skill_name_2005	【女帝天威】	【女帝天威】	[Skill II]
+t_role_skill_name_2006	【卧乐割草】	【臥樂割草】	[Skill II]
+t_role_skill_name_3001	【天下无双】	【天下無雙】	[Skill II]
+t_role_skill_name_3002	【夺命红颜】	【奪命紅顏】	[Skill II]
+t_role_skill_name_3003	【齐天大圣】	【齊天大聖】	[Skill II]
+t_role_skill_name_3004	【逍遥仙女】	【逍遙仙女】	[Skill II]
+t_role_skill_name_3005	【使命必达】	【使命必達】	[Skill II]
+t_role_skill_name_3006	【龙息之风】	【龍息之風】	[Skill II]
+t_role_skill_desc_1001	“丰厚的报酬才是高手存在的理由！”酷酷如是说。拾取水晶增加额外[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）的能量	“豐厚的報酬才是高手存在的理由！”酷酷如是說。拾取水晶增加額外[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）的能量	" ""Great rewards are the reason for masters!"" Tommy says. Collect crystal to increase additional energy of [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-])"
+t_role_skill_desc_1002	妮妮是雪地里的小可爱，活蹦乱跳的她拾取水晶额外回复[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）生命值	妮妮是雪地裡的小可愛，活蹦亂跳的她拾取水晶額外回复[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）生命值	" Annie is cute in the snow, collecting crystal friskily. Recover [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) HP"
+t_role_skill_desc_1003	别被小狸慵懒的样子迷惑了，他可是钻空子好手，小狸释放道具技能回复[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）的生命值	別被小狸慵懶的樣子迷惑了，他可是鑽空子好手，小狸釋放道具技能回复[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）的生命值	" Don't be puzzled by Lee's laziness, he is good at taking  advantage of the loophole. [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) HP is recovered through releasing tools"
+t_role_skill_desc_1004	浣浣擅长远距离击败对手，她的普通雪球每飞行3米增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）的伤害	浣浣擅長遠距離擊敗對手，她的普通雪球每飛行3米增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）的傷害	" Betty is good at killing opponent from far distance, and damage of  [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) will be increased when her AMMO flies 3 meters each time"
+t_role_skill_desc_1005	虽然牛牛看上去一脸稚气，但是他可不好惹，牛牛击败敌人后，回复[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）生命值	雖然牛牛看上去一臉稚氣，但是他可不好惹，牛牛擊敗敵人後，回复[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）生命值	" Although Colin looks childish, he is not easy to offend. [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) HP will be recovered after killing enemies"
+t_role_skill_desc_1006	喵酱是为了挑战强者而来，一旦有所突破便势如破竹，每次击败敌人都会为她带来[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）移速提升	喵醬是為了挑戰強者而來，一旦有所突破便勢如破竹，每次擊敗敵人都會為她帶來[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）移速提升	" Louise is coming for challenger. Once he makes breakthrough, it will continue to do that like splitting the bamboo. [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) move speed is lifted when killing enemies"
+t_role_skill_desc_1007	乐乐嗨翻全场，普攻命中敌人后造成额外的[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）伤害	樂樂嗨翻全場，普攻命中敵人後造成額外的[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）傷害	" Jerry is the most powerful, giving enemies extra [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) damage by ordinary attack"
+t_role_skill_desc_1008	也许是因为名字里有雪吧，雪儿变雪人的冷却时间总是比其他人少[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）哦	也許是因為名字裡有雪吧，雪兒變雪人的冷卻時間總是比其他人少[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）哦	 The cooling time when Abby becomes a snowman is less [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) than others
+t_role_skill_desc_2001	甄姬这样的冰雪美人对冰棍可是情有独钟呢，释放[3defff]冰棍[-]分裂为多支，并增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）冰棍射程	甄姬這樣的冰雪美人對冰棍可是情有獨鍾呢，釋放[3defff]冰棍[-]分裂為多支，並增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2} %[-]）冰棍射程	" Snow beauty Shinki loves Popsicles, releasing [3defff]Popsicles[-] to split more and increasing [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) Popsicles range"
+t_role_skill_desc_2002	黄盖推动的可不是简单的雪球，释放[3defff]滚雪球[-]变成一个能穿越地面障碍的大铁球，并增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）铁球滚动速度	黃蓋推動的可不是簡單的雪球，釋放[3defff]滾雪球[-]變成一個能穿越地面障礙的大鐵球，並增加[ff8a00]{N1}%[-]（升星[f4e45d]+ {N2}%[-]）鐵球滾動速度	" Lamothe moves not a simple ball, releasing [3defff]Huge Snowball[-] to become a iron ball which can come cross the ground obstacle with[ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) rolling speed lifted"
+t_role_skill_desc_2003	嫦娥获得月光的祝福，[3defff]隐身[-]技能期间每秒回复生命值，并增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）隐身时间	嫦娥獲得月光的祝福，[3defff]隱身[-]技能期間每秒回復生命值，並增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）隱身時間	 Chang'e receives best wishes from moonlight. Her HP is recovered per second after [3defff]Cloak[-] used with [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) stealth time increased
+t_role_skill_desc_2004	周瑜都督将它擅长的火攻融合进现代化武器中，释放[3defff]烈性炸药[-]落地后立即爆炸，对敌人施加燃烧状态（被攻击时受到更高伤害），并增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）爆炸范围	周瑜都督將它擅長的火攻融合進現代化武器中，釋放[3defff]烈性炸藥[-]落地後立即爆炸，對敵人施加燃燒狀態（被攻擊時受到更高傷害），並增加[ff8a00]{N1 }%[-]（升星[f4e45d]+{N2}%[-]）爆炸範圍	" Pasley combines fire attack with modernized guns, releasing [3defff]TNT[-] which explodes after falling on the ground and implementing burning state (to suffer from higher damage when being attacked) with [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) explosion range increased"
+t_role_skill_desc_2005	武则天是真命天女，释放[3defff]陨石[-]时会在地面先引起一片岩浆地带，减速区域内敌人，每秒造成伤害，并增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）陨石范围	武則天是真命天女，釋放[3defff]隕石[-]時會在地面先引起一片岩漿地帶，減速區域內敵人，每秒造成傷害，並增加[ff8a00]{N1}%[-]（升星[ f4e45d]+{N2}%[-]）隕石範圍	" Wu is the first empress, releasing [3defff]Meteorite[-] to generate magma zone and hurt enemies per second with [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) meteorite range increased"
+t_role_skill_desc_2006	释放[3defff]恶魔球[-]时对身边范围内所有敌人造成混乱，并造成额外的[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）伤害	釋放[3defff]惡魔球[-]時對身邊範圍內所有敵人造成混亂，並造成額外的[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）傷害	 To make chaos for all around the enemies when releasing [3defff]Evil Bat[-] with extra [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) damage
+t_role_skill_desc_3001	吕布武艺天下无双，威风凛凛，释放[3defff]龙卷风[-]变为一阵威力强劲的旋风，旋风中的敌人收到减速效果，并被气压吸引至中心，旋风造成[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）额外伤害	呂布武藝天下無雙，威風凜凜，釋放[3defff]龍捲風[-]變為一陣威力強勁的旋風，旋風中的敵人收到減速效果，並被氣壓吸引至中心，旋風造成[ff8a00]{N1}%[ -]（升星[f4e45d]+{N2}%[-]）額外傷害	" Killen is invulnerable in Kungfu, releasing [3defff]Tornado[-] to become a powerful cyclone, in which the enemies receive slowing effect to be led to centre by air pressure. The cyclone causes [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) extra damage"
+t_role_skill_desc_3002	貂蝉小姐姐释放[3defff]墨水球[-]会在地面留下一团毒雾，对毒雾内敌人持续造成伤害，并增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）毒雾范围	貂蟬小姐姐釋放[3defff]墨水球[-]會在地面留下一團毒霧，對毒霧內敵人持續造成傷害，並增加[ff8a00]{N1}%[-]（升星[f4e45d]+ {N2}%[-]）毒霧範圍	 Banas releases [3defff]Venom Bottle[-] to generate toxic smog on the ground and hurt enemies continuously with [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) toxic smog range increased
+t_role_skill_desc_3003	大圣归来，神挡杀神，佛挡杀佛，悟空释放[3defff]雷电球[-]在地面形成一片雷暴区域，并增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）雷暴范围	大聖歸來，神擋殺神，佛擋殺佛，悟空釋放[3defff]雷電球[-]在地面形成一片雷暴區域，並增加[ff8a00]{N1}%[-]（升星[f4e45d]+ {N2}%[-]）雷暴範圍	" Monkey King, who is not afraid of any difficulty, returns to release [3defff]Lightning Ball[-] to on the ground to generate thunderstorms zone with [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) thunderstorms range increased"
+t_role_skill_desc_3004	紫霞使用仙术将天火引导至雪地，释放[3defff]暴风雪[-]变为区域内的火雨降临，对敌人施加燃烧状态（被攻击时受到更高伤害），火雨造成[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）额外伤害	紫霞使用仙術將天火引導至雪地，釋放[3defff]暴風雪[-]變為區域內的火雨降臨，對敵人施加燃燒狀態（被攻擊時受到更高傷害），火雨造成[ff8a00] {N1}%[-]（升星[f4e45d]+{N2}%[-]）額外傷害	" Jessie uses theurgy to lead sky fire to battlefield, releasing [3defff]Snowstorm[-] to become burning rain, and implementing burning state on enemies (to suffer from higher damage when being attacked) with [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) extra damage"
+t_role_skill_desc_3005	冷风将[3defff]烈性炸药[-]改装成一颗会附着在敌人身上的定时炸弹，数秒后在敌人身上引爆，并增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）爆炸范围	冷風將[3defff]烈性炸藥[-]改裝成一顆會附著在敵人身上的定時炸彈，數秒後在敵人身上引爆，並增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2 }%[-]）爆炸範圍	" Husky refits [3defff]TNT[-] into a time bomb attached to enemies, detonating in sever seconds with [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) explosion range increased"
+t_role_skill_desc_3006	释放[3defff]龙卷风[-]时将身边敌人吹散并造成伤害，在地面形成持续数秒的回复区域，对自己和友军进行治疗，并增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）回复范围	釋放[3defff]龍捲風[-]時將身邊敵人吹散並造成傷害，在地面形成持續數秒的回复區域，對自己和友軍進行治療，並增加[ff8a00]{N1}%[-]（升星[ f4e45d]+{N2}%[-]）回复範圍	" Blow away the enemies to hurt them when releasing [3defff]Tornado[-], and form a recovery zone to make treatment for allies with [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) recovery range increased"
+t_role_buff_name_1001	【月神赐福】	【月神賜福】	[Skill I]
+t_role_buff_name_1008	【筋斗云】	【筋斗雲】	[Skill I]
+t_role_buff_name_1013	【聚精会神】	【聚精會神】	[Skill I]
+t_role_buff_name_1016	【洛神】	【洛神】	[Skill I]
+t_role_buff_name_1031	【事半功倍】	【事半功倍】	[Skill I]
+t_role_buff_name_1035	【法术抵抗】	【法術抵抗】	[Skill I]
+t_role_buff_name_1046	【人中吕布】	【人中呂布】	[Skill I]
+t_role_buff_name_1052	【女权至上】	【女權至上】	[Skill I]
+t_role_buff_name_1069	【倾国倾城】	【傾國傾城】	[Skill I]
+t_role_buff_name_1007	【活蹦乱跳】	【活蹦亂跳】	[Skill I]
+t_role_buff_name_1073	【背水一战】	【背水一戰】	[Skill I]
+t_role_buff_name_1026	【飞龙乘云】	【飛龍乘雲】	[Skill I]
+t_role_buff_name_3001	【寻宝学徒】	【尋寶學徒】	[Skill I]
+t_role_buff_name_3002	【寻宝精英】	【尋寶精英】	[Skill I]
+t_role_buff_name_3003	【星之学徒】	【星之學徒】	[Skill I]
+t_role_buff_name_3004	【星之精英】	【星之精英】	[Skill I]
+t_role_buff_name_3005	【鉴宝专家】	【鑑寶專家】	[Skill I]
+t_role_buff_name_3006	【时空使者】	【時空使者】	[Skill I]
+t_role_buff_name_3007	【战场之星】	【戰場之星】	[Skill I]
+t_role_buff_desc_1001	所有角色在战斗时增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）点生命	所有角色在戰鬥時增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）點生命	 All the heroes increase [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) HP in fight
+t_role_buff_desc_1008	所有角色在战斗时增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）移动速度	所有角色在戰鬥時增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）移動速度	 All the heroes increase [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) move speed in fight
+t_role_buff_desc_1013	所有角色在战斗时增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）普通雪球的射程	所有角色在戰鬥時增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）普通雪球的射程	 All the heroes increase [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) ordinary AMMO range in fight
+t_role_buff_desc_1016	所有角色在战斗时增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）技能伤害	所有角色在戰鬥時增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）技能傷害	 All the heroes increase [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) skill damage in fight
+t_role_buff_desc_1031	所有角色在战斗时增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）拾取水晶的能量	所有角色在戰鬥時增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）拾取水晶的能量	 All the heroes increase [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) energy of collecting crystal in fight
+t_role_buff_desc_1035	所有角色在战斗时增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）技能减伤	所有角色在戰鬥時增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）技能減傷	 All the heroes increase [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) damage reduction in fight
+t_role_buff_desc_1046	所有角色在战斗时增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）普通雪球伤害	所有角色在戰鬥時增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）普通雪球傷害	 All the heroes increase [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) ordinary AMMO damage in fight
+t_role_buff_desc_1052	女性角色在战斗时增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）点攻击	女性角色在戰鬥時增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）點攻擊	 Female heroes increase [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) attack in fight
+t_role_buff_desc_1069	所有角色在战斗时减少[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）来自男性角色造成的伤害	所有角色在戰鬥時減少[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）來自男性角色造成的傷害	 All the heroes reduce [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) damage from male heroes in fight
+t_role_buff_desc_1007	所有角色在战斗时增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）移动速度	所有角色在戰鬥時增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）移動速度	 All the heroes increase [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) move speed in fight
+t_role_buff_desc_1073	所有角色在战斗时每损失20%生命增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）攻击	所有角色在戰鬥時每損失20%生命增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）攻擊	 All the heroes increase [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) attack every 20% HP loss in fight
+t_role_buff_desc_1026	所有角色在战斗时释放技能回复[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）点生命	所有角色在戰鬥時釋放技能回复[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）點生命	 All the heroes release [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) HP for skill recovery in fight
+t_role_buff_desc_3001	增加战斗后紫金宝箱[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）的获得概率	增加戰鬥後紫金寶箱[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）的獲得概率	 Increase [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) probability ascension of Violet Gold Chest after fight
+t_role_buff_desc_3002	增加战斗后赤金宝箱[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）的获得概率	增加戰鬥後赤金寶箱[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）的獲得概率	 Increase [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) probability ascension of Solid Gold Chest after fight
+t_role_buff_desc_3003	减少所有稀有角色[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）升星时所需的金币	減少所有稀有角色[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）升星時所需的金幣	 Reduce gold for upgrade [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) of all the Rares
+t_role_buff_desc_3004	减少所有史诗角色[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）升星时所需的金币	減少所有史詩角色[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）升星時所需的金幣	 Reduce gold for upgrade [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) of all the Epics
+t_role_buff_desc_3005	所有宝箱打开可获得额外[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）枚金币	所有寶箱打開可獲得額外[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）枚金幣	 Open all the Chests to get extra [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) gold
+t_role_buff_desc_3006	所有宝箱减少[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）的解锁时间	所有寶箱減少[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）的解鎖時間	 All the Chests reduce [ff8a00]{N1}%[-](Upgrade [f4e45d]+{N2}%[-]) unlocking time
+t_role_buff_desc_3007	所有角色在战斗结算时增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）枚金币	所有角色在戰鬥結算時增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）枚金幣	 All the heroes increase [ff8a00]{N1}[-](Upgrade [f4e45d]+{N2}[-]) gold during settlement in fight
+t_sign_name_1	第一天	第一天	Day 1
+t_sign_name_2	第二天	第二天	Day 2
+t_sign_name_3	第三天	第三天	Day 3
+t_sign_name_4	第四天	第四天	Day 4
+t_sign_name_5	第五天	第五天	Day 5
+t_sign_name_6	第六天	第六天	Day 6
+t_sign_name_7	第七天	第七天	Day 7
+t_toukuang_name_1	蓝色基调	藍色基調	Blue Keynote
+t_toukuang_name_2	红色激情	紅色激情	Red Passion
+t_toukuang_name_3	金色年华	金色年華	Golden Age
+t_toukuang_name_101	生命礼赞	生命禮讚	Life Psalm
+t_toukuang_name_102	风暴之轮	風暴之輪	Wheel of Storm
+t_toukuang_name_103	钻石星尘	鑽石星塵	Diamond Dust
+t_toukuang_name_104	永恒冻土	永恆凍土	Frozen Soil
+t_toukuang_name_105	地狱烈火	地獄烈火	Hell Fire
+t_toukuang_name_106	2018情人节	2018情人節	2018 Valentine's Day
+t_toukuang_name_201	月卡会员	月卡會員	Month Card Member
+t_toukuang_name_202	年卡会员	年卡會員	Year Card Member
+t_toukuang_desc1_1	[c2e5ed]简约，但不简单	[c2e5ed]簡約，但不簡單	"[c2e5ed]Simple, but not easy"
+t_toukuang_desc1_2	[c2e5ed]热情满满的头像框	[c2e5ed]熱情滿滿的頭像框	[c2e5ed]Enthusiastic avatar rim
+t_toukuang_desc1_3	[c2e5ed]金色的头像框很符合你的气质呢	[c2e5ed]金色的頭像框很符合你的氣質呢	[c2e5ed]The golden avatar rim suits for your temperament
+t_toukuang_desc1_101	[c2e5ed]和风如煦，万物复苏，来自生命的礼赞####获得后，永久增加出战角色10点生命	[c2e5ed]和風如煦，萬物復甦，來自生命的禮讚####獲得後，永久增加出戰角色10點生命	[c2e5ed]The wind blows gently with everything recovering####Extra: Health [ff8a00]+10[-] during fight even the rim is not using
+t_toukuang_desc1_102	[c2e5ed]死亡如风，常伴汝身####获得后，永久增加龙卷风5%技能伤害	[c2e5ed]死亡如風，常伴汝身####獲得後，永久增加龍捲風5%技能傷害	"[c2e5ed]Death is like the wind, always by your side.####Extra: [3defff]Tornado[-]'s damage [ff8a00]+5%[-] during fight even the rim is not using"
+t_toukuang_desc1_103	[c2e5ed]做一个让人羡慕嫉妒恨的钻石王老五吧####获得后，永久增加1%赤金宝箱获得概率	[c2e5ed]做一個讓人羨慕嫉妒恨的鑽石王老五吧####獲得後，永久增加1%赤金寶箱獲得概率	[c2e5ed]To be an enviable Golden Bachelor####Extra: [ff8a00]+1%[-] probability ascension of Solid Gold Chest after fight
+t_toukuang_desc1_104	[c2e5ed]这是无法被战胜的寒冷####获得后，永久增加暴风雪5%技能伤害	[c2e5ed]這是無法被戰勝的寒冷####獲得後，永久增加暴風雪5%技能傷害	[c2e5ed]This is invincible cold####Extra: [3defff]Snowstorm[-]'s damage [ff8a00]+5%[-] during fight even the rim is not using
+t_toukuang_desc1_105	[c2e5ed]火焰，将会吞噬一切####获得后，永久增加出战角色1%攻击	[c2e5ed]火焰，將會吞噬一切####獲得後，永久增加出戰角色1%攻擊	[c2e5ed]The fire will devour everything####Extra: Attack [ff8a00]+1%[-] during fight even the rim is not using
+t_toukuang_desc1_106	[c2e5ed]真爱无悔，一生一世####获得后，永久增加出战角色1%暴击	[c2e5ed]真愛無悔，一生一世####獲得後，永久增加出戰角色1%暴擊	[c2e5ed]True love without regret####Extra: Critical Strike [ff8a00]+1%[-] during fight even the rim is not using
+t_toukuang_desc1_201	[c2e5ed]月卡会员特权：##减少宝箱解锁时间20%##连续登录奖励3倍##赛季奖杯结算奖励2倍##每日上线可领取登录奖励	[c2e5ed]月卡會員特權：##減少寶箱解鎖時間20%##連續登錄獎勵3倍##賽季獎杯結算獎勵2倍##每日上線可領取登錄獎勵	[c2e5ed]Privileges of Month Card##Unlocking chest time -20%##Sign-in rewards x3##Season settlement rewards x2##Daily reward
+t_toukuang_desc1_202	[c2e5ed]年卡会员特权：##减少宝箱解锁时间30%##连续登录奖励3倍##赛季奖杯结算奖励2倍##每日上线可领取登录奖励	[c2e5ed]年卡會員特權：##減少寶箱解鎖時間30%##連續登錄獎勵3倍##賽季獎杯結算獎勵2倍##每日上線可領取登錄獎勵	[c2e5ed]Privileges of Year Card##Unlocking chest time -20%##Sign-in rewards x3##Season settlement rewards x2##Daily reward
+t_toukuang_desc2_1	初始头像框	初始頭像框	Default rim
+t_toukuang_desc2_2	[e4ac01]成就等级4可领取此头像框	[e4ac01]成就等級4可領取此頭像框	[e4ac01]Required Honor Lv.4
+t_toukuang_desc2_3	[e4ac01]成就等级7可领取此头像框	[e4ac01]成就等級7可領取此頭像框	[e4ac01]Required Honor Lv.7
+t_toukuang_desc2_101	[e4ac01]成就等级10可领取此头像框	[e4ac01]成就等級10可領取此頭像框	[e4ac01]Required Honor Lv.10
+t_toukuang_desc2_102	[e4ac01]成就等级13可领取此头像框	[e4ac01]成就等級13可領取此頭像框	[e4ac01]Required Honor Lv.13
+t_toukuang_desc2_103	[e4ac01]成就等级16可领取此头像框	[e4ac01]成就等級16可領取此頭像框	[e4ac01]Required Honor Lv.16
+t_toukuang_desc2_104	[e4ac01]成就等级18可领取此头像框	[e4ac01]成就等級18可領取此頭像框	[e4ac01]Required Honor Lv.18
+t_toukuang_desc2_105	[e4ac01]成就等级20可领取此头像框	[e4ac01]成就等級20可領取此頭像框	[e4ac01]Required Honor Lv.20
+t_toukuang_desc2_106	[e4ac01]2018春节活动奖励	[e4ac01]2018春節活動獎勵	[e4ac01]2018 Spring Festival award
+t_toukuang_desc2_201	[e4ac01]成为月卡会员可使用此头像框	[e4ac01]成為月卡會員可使用此頭像框	[e4ac01]Avatar rim for Month Card Member
+t_toukuang_desc2_202	[e4ac01]成为年卡会员可使用此头像框	[e4ac01]成為年卡會員可使用此頭像框	[e4ac01]Avatar rim for Year Card Member
+t_battle_item_desc_100	三连发概率[e4ac01]+{N1}%[-]	三連發概率[e4ac01]+{N1}%[-]	NOTYET
+t_battle_item_desc_101	雪球射程[e4ac01]+{N1}[-]	雪球射程[e4ac01]+{N1}[-]	NOTYET
+t_battle_item_desc_102	角色移速[e4ac01]+{N1}[-]	角色移速[e4ac01]+{N1}[-]	NOTYET
+t_battle_item_desc_103	雪球攻击[e4ac01]+{N1}%[-]	雪球攻擊[e4ac01]+{N1}%[-]	NOTYET
+t_battle_item_desc_104	雪球体积[e4ac01]+{N1}%[-]	雪球體積[e4ac01]+{N1}%[-]	NOTYET
+t_battle_item_desc_105	雪球速度[e4ac01]+{N1}%[-]	雪球速度[e4ac01]+{N1}%[-]	NOTYET
+t_battle_item_desc_200	冰霜球技能等级{N1}	冰霜球技能等級{N1}	NOTYET
+t_battle_item_desc_201	雷电球技能等级{N1}	雷電球技能等級{N1}	NOTYET
+t_battle_item_desc_202	大雪球技能等级{N1}	大雪球技能等級{N1}	NOTYET
+t_battle_item_desc_203	墨水球技能等级{N1}	墨水球技能等級{N1}	NOTYET
+t_battle_item_desc_204	恶魔球技能等级{N1}	惡魔球技能等級{N1}	NOTYET
+t_battle_item_desc_205	暴风雪技能等级{N1}	暴風雪技能等級{N1}	NOTYET
+t_battle_item_desc_206	龙卷风技能等级{N1}	龍捲風技能等級{N1}	NOTYET
+t_battle_item_desc_207	陨石球技能等级{N1}	隕石球技能等級{N1}	NOTYET
+t_battle_item_desc_208	烈性炸药技能等级	烈性炸藥技能等級	NOTYET
+t_battle_item_desc_209	隐身斗篷技能等级	隱身斗篷技能等級	NOTYET
+t_battle_item_desc_301	[c2e5ed]移速[57FC5B]+20%[-][c2e5ed]，输出伤害[57FC5B]+50%[-][c2e5ed]，伤害减免[57FC5B]+30%[-][c2e5ed]，免控概率[57FC5B]+20%[-]	[c2e5ed]移速[57FC5B]+20%[-][c2e5ed]，輸出傷害[57FC5B]+50%[-][c2e5ed]，傷害減免[57FC5B]+30%[-][c2e5ed]，免控概率[57FC5B]+20%[-]	"[c2e5ed]Move Speed [57FC5B]+20%[-][c2e5ed], Damage [57FC5B]+50%[-][c2e5ed], Damage Reduction [57FC5B]+30%[-][c2e5ed], Immunity of Control[57FC5B]+20%[-]"
+t_cup_name_0	黄铜	黃銅	Brass Cup
+t_cup_name_1	黄铜	黃銅	Brass Cup
+t_cup_name_2	黄铜	黃銅	Brass Cup
+t_cup_name_3	白银	白銀	Silver Cup
+t_cup_name_4	白银	白銀	Silver Cup
+t_cup_name_5	白银	白銀	Silver Cup
+t_cup_name_6	白银	白銀	Silver Cup
+t_cup_name_7	黄金I	黃金I	Gold Cup I
+t_cup_name_8	黄金I	黃金I	Gold Cup I
+t_cup_name_9	黄金I	黃金I	Gold Cup I
+t_cup_name_10	黄金I	黃金I	Gold Cup I
+t_cup_name_11	黄金II	黃金II	Gold Cup II
+t_cup_name_12	黄金II	黃金II	Gold Cup II
+t_cup_name_13	黄金II	黃金II	Gold Cup II
+t_cup_name_14	黄金II	黃金II	Gold Cup II
+t_cup_name_15	白金I	白金I	Platinum Cup I
+t_cup_name_16	白金I	白金I	Platinum Cup I
+t_cup_name_17	白金I	白金I	Platinum Cup I
+t_cup_name_18	白金I	白金I	Platinum Cup I
+t_cup_name_19	白金I	白金I	Platinum Cup I
+t_cup_name_20	白金II	白金II	Platinum Cup II
+t_cup_name_21	白金II	白金II	Platinum Cup II
+t_cup_name_22	白金II	白金II	Platinum Cup II
+t_cup_name_23	白金II	白金II	Platinum Cup II
+t_cup_name_24	白金II	白金II	Platinum Cup II
+t_cup_name_25	钻石I	鑽石I	Diamond Cup I
+t_cup_name_26	钻石I	鑽石I	Diamond Cup I
+t_cup_name_27	钻石I	鑽石I	Diamond Cup I
+t_cup_name_28	钻石I	鑽石I	Diamond Cup I
+t_cup_name_29	钻石I	鑽石I	Diamond Cup I
+t_cup_name_30	钻石II	鑽石II	Diamond Cup II
+t_cup_name_31	钻石II	鑽石II	Diamond Cup II
+t_cup_name_32	钻石II	鑽石II	Diamond Cup II
+t_cup_name_33	钻石II	鑽石II	Diamond Cup II
+t_cup_name_34	钻石II	鑽石II	Diamond Cup II
+t_cup_name_35	钻石III	鑽石III	Diamond Cup III
+t_cup_name_36	钻石III	鑽石III	Diamond Cup III
+t_cup_name_37	钻石III	鑽石III	Diamond Cup III
+t_cup_name_38	钻石III	鑽石III	Diamond Cup III
+t_cup_name_39	钻石III	鑽石III	Diamond Cup III
+t_cup_name_40	大师I	大師I	Master Cup I
+t_cup_name_41	大师I	大師I	Master Cup I
+t_cup_name_42	大师I	大師I	Master Cup I
+t_cup_name_43	大师I	大師I	Master Cup I
+t_cup_name_44	大师I	大師I	Master Cup I
+t_cup_name_45	大师II	大師II	Master Cup II
+t_cup_name_46	大师II	大師II	Master Cup II
+t_cup_name_47	大师II	大師II	Master Cup II
+t_cup_name_48	大师II	大師II	Master Cup II
+t_cup_name_49	大师II	大師II	Master Cup II
+t_cup_name_50	大师III	大師III	Master Cup III
+t_cup_name_51	大师III	大師III	Master Cup III
+t_cup_name_52	大师III	大師III	Master Cup III
+t_cup_name_53	大师III	大師III	Master Cup III
+t_cup_name_54	大师III	大師III	Master Cup III
+t_cup_name_55	冰魂I	冰魂I	Sprite Cup I
+t_cup_name_56	冰魂I	冰魂I	Sprite Cup I
+t_cup_name_57	冰魂I	冰魂I	Sprite Cup I
+t_cup_name_58	冰魂I	冰魂I	Sprite Cup I
+t_cup_name_59	冰魂I	冰魂I	Sprite Cup I
+t_cup_name_60	冰魂I	冰魂I	Sprite Cup I
+t_cup_name_61	冰魂II	冰魂II	Sprite Cup II
+t_cup_name_62	冰魂II	冰魂II	Sprite Cup II
+t_cup_name_63	冰魂II	冰魂II	Sprite Cup II
+t_cup_name_64	冰魂II	冰魂II	Sprite Cup II
+t_cup_name_65	冰魂II	冰魂II	Sprite Cup II
+t_cup_name_66	冰魂II	冰魂II	Sprite Cup II
+t_cup_name_67	冰魂III	冰魂III	Sprite Cup III
+t_cup_name_68	冰魂III	冰魂III	Sprite Cup III
+t_cup_name_69	冰魂III	冰魂III	Sprite Cup III
+t_cup_name_70	冰魂III	冰魂III	Sprite Cup III
+t_cup_name_71	冰魂III	冰魂III	Sprite Cup III
+t_cup_name_72	冰魂III	冰魂III	Sprite Cup III
+t_cup_name_73	冰魂IV	冰魂IV	Sprite Cup IV
+t_cup_name_74	冰魂IV	冰魂IV	Sprite Cup IV
+t_cup_name_75	冰魂IV	冰魂IV	Sprite Cup IV
+t_cup_name_76	冰魂IV	冰魂IV	Sprite Cup IV
+t_cup_name_77	冰魂IV	冰魂IV	Sprite Cup IV
+t_cup_name_78	冰魂IV	冰魂IV	Sprite Cup IV
+t_cup_name_79	冰魂V	冰魂V	Sprite Cup V
+t_cup_name_80	冰魂V	冰魂V	Sprite Cup V
+t_cup_name_81	冰魂V	冰魂V	Sprite Cup V
+t_cup_name_82	冰魂V	冰魂V	Sprite Cup V
+t_cup_name_83	冰魂V	冰魂V	Sprite Cup V
+t_cup_name_84	冰魂V	冰魂V	Sprite Cup V
+t_cup_name_85	至尊	至尊	Supreme Cup
+t_recharge_name_1001	60钻石	60鑽石	60 Diamond
+t_recharge_name_1002	250钻石	250鑽石	250 Diamond
+t_recharge_name_1003	315钻石（超量5%）	315鑽石（超量5%）	315 Diamond##(5% bonus)
+t_recharge_name_1004	1080钻石（超量10%）	1080鑽石（超量10%）	1080 Diamond##(10% bonus)
+t_recharge_name_1005	2280钻石（超量15%）	2280鑽石（超量15%）	2280 Diamond##(15% bonus)
+t_recharge_name_1006	3575钻石（超量20%）	3575鑽石（超量20%）	3575 Diamond##(20% bonus)
+t_recharge_name_1007	3940钻石（超量20%）	3940鑽石（超量20%）	3940 Diamond##(20% bonus)
+t_recharge_name_1008	8100钻石（超量25%）	8100鑽石（超量25%）	8100 Diamond##(25% bonus)
+t_recharge_desc_1001	60钻石	60鑽石	60 Diamond
+t_recharge_desc_1002	250钻石	250鑽石	250 Diamond
+t_recharge_desc_1003	315钻石（超量5%）	315鑽石（超量5%）	315 Diamond (5% bonus)
+t_recharge_desc_1004	1080钻石（超量10%）	1080鑽石（超量10%）	1080 Diamond (10% bonus)
+t_recharge_desc_1005	2280钻石（超量15%）	2280鑽石（超量15%）	2280 Diamond (15% bonus)
+t_recharge_desc_1006	3575钻石（超量20%）	3575鑽石（超量20%）	3575 Diamond (20% bonus)
+t_recharge_desc_1007	3940钻石（超量20%）	3940鑽石（超量20%）	3940 Diamond (20% bonus)
+t_recharge_desc_1008	8100钻石（超量25%）	8100鑽石（超量25%）	8100 Diamond (25% bonus)
+t_recharge_name_2001	月卡会员	月卡會員	Month Card Member
+t_recharge_name_2002	年卡会员	年卡會員	Year Card Member
+t_newplayer_001	拖动方向轮盘移动角色	拖動方向輪盤移動角色	Drag direction wheel to move heroes
+t_newplayer_002	点击雪球按钮攻击敌人	點擊雪球按鈕攻擊敵人	Click AMMO button to attack enemies
+t_newplayer_003	长按雪球按钮蓄力充能	長按雪球按鈕蓄力充能	Long press AMMO button to charge
+t_newplayer_004	移动到这里	移動到這裡	Move here
+t_newplayer_005	点击技能按钮瞄准敌人	點擊技能按鈕瞄準敵人	Click skill button to aim at enemies
+t_newplayer_006	移动到这里	移動到這裡	Move here
+t_newplayer_007	点击技能按钮瞄准敌人	點擊技能按鈕瞄準敵人	Click skill button to aim at enemies
+t_newplayer_008	点击按钮切换技能	點擊按鈕切換技能	Click button to switch skills
+t_newplayer_009	移动到这里	移動到這裡	Move here
+t_newplayer_010	点击图标学习天赋	點擊圖標學習天賦	Click icon to study talent
+t_newplayer_011	点击雪人按钮	點擊雪人按鈕	Click AMMO button
+t_newplayer_012	再次点击，可立即变回角色	再次點擊，可立即變回角色	Click again to switch into heroes
+t_newplayer_013	长按查看能力详情	長按查看能力詳情	Long press to check abilities
+t_newplayer_014	移动到这里	移動到這裡	Move here
+t_rookie_001	欢迎来到冰雪大作战，请跟随软妹的语音开始新手教程吧~	歡迎來到冰雪大作戰，請跟隨軟妹的語音開始新手教程吧~	"Welcome to snowtime, please follow the voice of soft girl to start newbie tutorials"
+t_rookie_002	雪球蓄力后可以提升攻击范围并造成更高的伤害	雪球蓄力後可以提升攻擊範圍並造成更高的傷害	The attack range of AMMO will be lifted for higher damage after charging
+t_rookie_003	战场内会随机刷新各种物品，靠近后自动拾取	戰場內會隨機刷新各種物品，靠近後自動拾取	All the items will be refreshed randomly and collected automatically when closing to them
+t_rookie_004	拾取技能道具可以使用一次相应的技能	拾取技能道具可以使用一次相應的技能	Collect skill tools to use relevant skill once
+t_rookie_005	拾取相同的技能道具可以提升技能等级，最多携带两种技能	拾取相同的技能道具可以提陞技能等級，最多攜帶兩種技能	Collect the same skill tools to update skill level with 2 skills at most
+t_rookie_006	拾取晶体可以提升等级和得分，记得多多收集哦	拾取晶體可以提升等級和得分，記得多多收集哦	Collect crystals to update level and score. Remember to collect more
+t_rookie_007	雪人状态无法行动，免疫伤害并持续回复生命，最多持续10秒	雪人狀態無法行動，免疫傷害並持續回復生命，最多持續10秒	Snowman cannot move due to immune damage with HP recovering at most 10s
+t_rookie_008	等待雪人状态结束或再次点击雪人按钮立即解除雪人状态	等待雪人狀態結束或再次點擊雪人按鈕立即解除雪人狀態	Wait the state of snowman to be ended or click snowman button again to remove its state
+t_rookie_009	恭喜你完成了新手教程，接下来就在实战中好好发挥吧	恭喜你完成了新手教程，接下來就在實戰中好好發揮吧	"Congratulations! You have finished newbie tutorials. Next, do well in the fight"
+t_rookie_010	拾取刷出的新技能道具，学习下技能连击吧	拾取刷出的新技能道具，學習下技能連擊吧	Collect the new skill tools to study double hit
+t_rookie_011	每次升级可以学习一次天赋，天赋带来的巨大增益千万不要小看哦	每次升級可以學習一次天賦，天賦帶來的巨大增益千萬不要小看哦	You can study talent once for each update. Don't neglect huge profits brought by talent
+t_mode_name1_99	零流量自嗨	零流量自嗨	Practice
+t_mode_name1_0	大乱斗	大亂鬥	Melee
+t_mode_name1_1	雪地会战	雪地會戰	Conflict
+t_mode_name2_99	PRACTICE	PRACTICE	Play offline
+t_mode_name2_0	MELEE MODE	MELEE MODE	Play online
+t_mode_name2_1	SNOW BATTLE	SNOW BATTLE	Play online
+t_mode_desc_99	[c2e5ed]都说欺负AI会上瘾，试试挑战一下吧~提醒你哦，AI会根据账号等级进化，千万别大意####[e4ac01]可获得金币和宝箱，3级前还可获得账号经验，并提升奖杯，但不可解锁成就	[c2e5ed]都說欺負AI會上癮，試試挑戰一下吧~提醒你哦，AI會根據賬號等級進化，千萬別大意####[e4ac01]可獲得金幣和寶箱，3級前還可獲得賬號經驗，並提升獎杯，但不可解鎖成就	"[c2e5ed]It is said that bullying AI is addictive. Try to do it, but you are reminded AI will be changed according to account level, please be careful####[e4ac01]Gold and chest can be gained and account experience will be obtained before level 3. But, Honor cannot be unlocked"
+t_mode_desc_0	[c2e5ed]玩家各自为营，你拼我抢，角逐最终高分####[e4ac01]可获得金币，账号经验和宝箱，可解锁成就	[c2e5ed]玩家各自為營，你拼我搶，角逐最終高分####[e4ac01]可獲得金幣，賬號經驗和寶箱，可解鎖成就	"[c2e5ed]Players are competing with each other for high score####[e4ac01]Gold, account experience and chest can be gained with Honor unlocked"
+t_mode_desc_1	[c2e5ed]小队齐心，其利断金！在这里，配合和默契是取胜的关键####[e4ac01]可获得金币，账号经验和宝箱，可解锁成就	[c2e5ed]小隊齊心，其利斷金！在這裡，配合和默契是取勝的關鍵####[e4ac01]可獲得金幣，賬號經驗和寶箱，可解鎖成就	"[c2e5ed]If teams are of the same mind，their sharpness can cut through metal.[c2e5ed]Here, tacit coordination is the key for victory####[e4ac01]Gold, account experience and chest can be gained with Honor unlocked"
+t_teamid_name_0	[1EF2FA]蓝队	[1EF2FA]藍隊	[1EF2FA]Blue Team
+t_teamid_name_1	[FF676A]红队	[FF676A]紅隊	[FF676A]Red Team
+t_teamid_name_2	[FF64FF]紫队	[FF64FF]紫隊	[FF64FF]Purple Team
+t_teamid_name_3	[84FF5E]绿队	[84FF5E]綠隊	[84FF5E]Green Team
+t_teamid_name_4	[FBA50B]橙队	[FBA50B]橙隊	[FBA50B]Orange Team
+t_teamid_name_5	[E6E600]黄队	[E6E600]黃隊	[E6E600]Yellow Team
+t_task_desc_101	完成1局零流量自嗨	完成1局零流量自嗨	Play the Practice 1 time
+t_task_desc_201	完成3局零流量自嗨	完成3局零流量自嗨	Play the Practice 3 times
+t_task_desc_301	成功添加5名好友	成功添加5名好友	5 more friends added
+t_task_desc_401	完成3局雪地会战	完成3局雪地會戰	Play the Conflict 3 times
+t_task_desc_501	大乱斗，取得1次前3名	大亂鬥，取得1次前3名	Get top 3 1 time in Melee
+t_task_desc_601	击败20名其他玩家	擊敗20名其他玩家	Kill others 20 times
+t_task_desc_701	一局对战中击败其他玩家5次	一局對戰中擊敗其他玩家5次	Kill others 5 times in one game
+t_task_desc_801	大乱斗，取得1次第1名	大亂鬥，取得1次第1名	Get No.1 1 time in Melee
+t_task_desc_901	购买1次角色碎片	購買1次角色碎片	Purchase hero shard 1 time
+t_task_desc_1001	一局对战击败其他玩家6次	一局對戰擊敗其他玩家6次	Kill others 6 times in one game
+t_task_desc_1002	与其他玩家组队进入1局对战	與其他玩家組隊進入1局對戰	Play in a team 1 time
+t_task_desc_1101	连续击败5名其他玩家	連續擊敗5名其他玩家	Finish 5 combo of kill in one game
+t_task_desc_1201	大乱斗，最终得分达到10000以上	大亂鬥，最終得分達到10000以上	Final score above 10000 in Melee
+t_task_desc_1202	雪地会战，最终得分达到10000以上	雪地會戰，最終得分達到10000以上	Final score above 10000 in Conflict
+t_task_desc_1301	成功添加10名好友	成功添加10名好友	10 more friends added
+t_task_desc_1401	大乱斗，取得3次前1名	大亂鬥，取得3次前1名	Get No.1 3 times in Melee
+t_task_desc_1402	完成5局雪地会战	完成5局雪地會戰	Play the Conflict 5 times
+t_task_desc_1501	击败50名其他玩家	擊敗50名其他玩家	Kill others 50 times
+t_task_desc_1601	使用1次喇叭	使用1次喇叭	Use the trumpet 1 time
+t_task_desc_1602	一局对战中达到6级	一局對戰中達到6級	Reach to level 6 in one game
+t_task_desc_1701	给任意角色升星1次	給任意角色升星1次	Upgrade any hero 1 time
+t_task_desc_1801	完成10局大乱斗	完成10局大亂鬥	Play the Melee 10 times
+t_task_desc_1802	完成10局雪地会战	完成10局雪地會戰	Play the Conflict 10 times
+t_task_desc_1901	一局对战中击败其他玩家7次	一局對戰中擊敗其他玩家7次	Kill others 7 times in one game
+t_task_desc_2001	累计击败50次男性角色	累計擊敗50次男性角色	Kill male heroes 50 times
+t_task_desc_2002	累计击败50次女性角色	累計擊敗50次女性角色	Kill female heroes 50 times
+t_task_desc_2101	完成1次奖杯升星	完成1次獎杯升星	Get a star after one game
+t_task_desc_2201	出售1次角色碎片	出售1次角色碎片	Sell hero shard 1 time
+t_task_desc_2202	一局对战中击败其他玩家8次	一局對戰中擊敗其他玩家8次	Kill others 8 times in one game
+t_task_desc_2301	连续击败6名其他玩家	連續擊敗6名其他玩家	Finish 6 combo of kill in one game
+t_task_desc_2401	完成15局大乱斗	完成15局大亂鬥	Play the Melee 15 times
+t_task_desc_2402	完成15局雪地会战	完成15局雪地會戰	Play the Conflict 15 times
+t_task_desc_2501	击败60名其他玩家	擊敗60名其他玩家	Kill others 60 times
+t_task_desc_2601	大乱斗，3次最终得分达到15000以上	大亂鬥，3次最終得分達到15000以上	Final score above 15000 in Melee
+t_task_desc_2602	雪地会战，3次最终得分达到15000以上	雪地會戰，3次最終得分達到15000以上	Final score above 15000 in Conflict
+t_task_desc_2701	给任意角色升星1次	給任意角色升星1次	Upgrade any hero 1 time
+t_task_desc_2801	累计击败100次男性角色	累計擊敗100次男性角色	Kill male heroes 100 times
+t_task_desc_2802	累计击败100次女性角色	累計擊敗100次女性角色	Kill female heroes 100 times
+t_task_desc_2901	一局对战中击败其他玩家9次	一局對戰中擊敗其他玩家9次	Kill others 9 times in one game
+t_task_desc_3001	完成20局大乱斗	完成20局大亂鬥	Play the Melee 20 times
+t_task_desc_3002	完成20局雪地会战	完成20局雪地會戰	Play the Conflict 20 times
+t_task_desc_3101	连续击败7名其他玩家	連續擊敗7名其他玩家	Finish 7 combo of kill in one game
+t_task_desc_3201	大乱斗，取得5次前1名	大亂鬥，取得5次前1名	Get No.1 5 times in Melee
+t_task_desc_3202	一局对战中击败其他玩家10次	一局對戰中擊敗其他玩家10次	Kill others 10 times in one game
+t_task_desc_3301	完成1次奖杯升星	完成1次獎杯升星	Get a star after one game
+t_task_desc_3401	累计击败100次男性角色	累計擊敗100次男性角色	Kill male heroes 100 times
+t_task_desc_3402	累计击败100次女性角色	累計擊敗100次女性角色	Kill female heroes 100 times
+t_task_desc_3501	给任意角色升星1次	給任意角色升星1次	Upgrade any hero 1 time
+t_task_desc_3601	完成20局大乱斗	完成20局大亂鬥	Play the Melee 20 times
+t_task_desc_3602	完成20局雪地会战	完成20局雪地會戰	Play the Conflict 20 times
+t_task_desc_3701	连续击败8名其他玩家	連續擊敗8名其他玩家	Finish 8 combo of kill in one game
+t_task_desc_3801	大乱斗，取得10次前1名	大亂鬥，取得10次前1名	Get No.1 10 times in Melee
+t_task_desc_3802	一局对战中击败其他玩家10次	一局對戰中擊敗其他玩家10次	Kill others 10 times in one game
+t_task_desc_3901	完成1次奖杯升星	完成1次獎杯升星	Get a star after one game
+t_task_desc_4001	累计击败100次男性角色	累計擊敗100次男性角色	Kill male heroes 100 times
+t_task_desc_4002	累计击败100次女性角色	累計擊敗100次女性角色	Kill female heroes 100 times
+t_task_desc_4101	一局对战中击败其他玩家10次	一局對戰中擊敗其他玩家10次	Kill others 10 times in one game
+t_task_desc_4201	完成20局大乱斗	完成20局大亂鬥	Play the Melee 20 times
+t_task_desc_4202	完成20局雪地会战	完成20局雪地會戰	Play the Conflict 20 times
+t_task_desc_4301	连续击败8名其他玩家	連續擊敗8名其他玩家	Finish 8 combo of kill in one game
+t_task_desc_4401	大乱斗，取得5次前1名	大亂鬥，取得5次前1名	Get No.1 5 times in Melee
+t_task_desc_4402	一局对战中击败其他玩家10次	一局對戰中擊敗其他玩家10次	Kill others 10 times in one game
+t_task_desc_4501	完成1次奖杯升星	完成1次獎杯升星	Get a star after one game
+t_task_desc_4601	累计击败100次男性角色	累計擊敗100次男性角色	Kill male heroes 100 times
+t_task_desc_4602	累计击败100次女性角色	累計擊敗100次女性角色	Kill female heroes 100 times
+t_task_desc_4701	给任意角色升星1次	給任意角色升星1次	Upgrade any hero 1 time
+t_task_desc_4801	完成20局大乱斗	完成20局大亂鬥	Play the Melee 20 times
+t_task_desc_4802	完成20局雪地会战	完成20局雪地會戰	Play the Conflict 20 times
+t_task_desc_4901	连续击败8名其他玩家	連續擊敗8名其他玩家	Finish 8 combo of kill in one game
+t_task_desc_5001	大乱斗，取得10次前1名	大亂鬥，取得10次前1名	Get No.1 10 times in Melee
+t_task_desc_5002	一局对战中击败其他玩家10次	一局對戰中擊敗其他玩家10次	Kill others 10 times in one game
+t_task_desc_5101	完成1次奖杯升星	完成1次獎杯升星	Get a star after one game
+t_task_desc_5201	累计击败100次男性角色	累計擊敗100次男性角色	Kill male heroes 100 times
+t_task_desc_5202	累计击败100次女性角色	累計擊敗100次女性角色	Kill female heroes 100 times
+t_task_desc_5301	一局对战中击败其他玩家10次	一局對戰中擊敗其他玩家10次	Kill others 10 times in one game
+t_task_desc_5401	完成20局大乱斗	完成20局大亂鬥	Play the Melee 20 times
+t_task_desc_5402	完成20局雪地会战	完成20局雪地會戰	Play the Conflict 20 times
+t_task_desc_5501	连续击败8名其他玩家	連續擊敗8名其他玩家	Finish 8 combo of kill in one game
+t_task_desc_5601	大乱斗，取得5次前1名	大亂鬥，取得5次前1名	Get No.1 5 times in Melee
+t_task_desc_5602	一局对战中击败其他玩家10次	一局對戰中擊敗其他玩家10次	Kill others 10 times in one game
+t_task_desc_5701	完成1次奖杯升星	完成1次獎杯升星	Get a star after one game
+t_task_desc_5801	累计击败100次男性角色	累計擊敗100次男性角色	Kill male heroes 100 times
+t_task_desc_5802	累计击败100次女性角色	累計擊敗100次女性角色	Kill female heroes 100 times
+t_task_desc_5901	给任意角色升星1次	給任意角色升星1次	Upgrade any hero 1 time
+t_task_desc_6001	完成20局大乱斗	完成20局大亂鬥	Play the Melee 20 times
+t_task_desc_6002	完成20局雪地会战	完成20局雪地會戰	Play the Conflict 20 times
+t_task_desc_6101	连续击败8名其他玩家	連續擊敗8名其他玩家	Finish 8 combo of kill in one game
+t_task_desc_6201	大乱斗，取得10次前1名	大亂鬥，取得10次前1名	Get No.1 10 times in Melee
+t_task_desc_6202	一局对战中击败其他玩家10次	一局對戰中擊敗其他玩家10次	Kill others 10 times in one game
+t_task_desc_6301	完成1次奖杯升星	完成1次獎杯升星	Get a star after one game
+t_task_desc_6401	累计击败100次男性角色	累計擊敗100次男性角色	Kill male heroes 100 times
+t_task_desc_6402	累计击败100次女性角色	累計擊敗100次女性角色	Kill female heroes 100 times
+t_task_desc_6501	一局对战中击败其他玩家10次	一局對戰中擊敗其他玩家10次	Kill others 10 times in one game
+t_task_desc_6601	完成20局大乱斗	完成20局大亂鬥	Play the Melee 20 times
+t_task_desc_6602	完成20局雪地会战	完成20局雪地會戰	Play the Conflict 20 times
+t_task_desc_6701	连续击败8名其他玩家	連續擊敗8名其他玩家	Finish 8 combo of kill in one game
+t_task_desc_6801	大乱斗，取得5次前1名	大亂鬥，取得5次前1名	Get No.1 5 times in Melee
+t_task_desc_6802	一局对战中击败其他玩家10次	一局對戰中擊敗其他玩家10次	Kill others 10 times in one game
+t_task_desc_6901	完成1次奖杯升星	完成1次獎杯升星	Get a star after one game
+t_task_desc_7001	累计击败100次男性角色	累計擊敗100次男性角色	Kill male heroes 100 times
+t_task_desc_7002	累计击败100次女性角色	累計擊敗100次女性角色	Kill female heroes 100 times
+t_task_desc_7101	给任意角色升星1次	給任意角色升星1次	Upgrade any hero 1 time
+t_task_desc_7201	完成20局大乱斗	完成20局大亂鬥	Play the Melee 20 times
+t_task_desc_7202	完成20局雪地会战	完成20局雪地會戰	Play the Conflict 20 times
+t_task_desc_7301	连续击败8名其他玩家	連續擊敗8名其他玩家	Finish 8 combo of kill in one game
+t_task_desc_7401	大乱斗，取得10次前1名	大亂鬥，取得10次前1名	Get No.1 10 times in Melee
+t_task_desc_7402	一局对战中击败其他玩家10次	一局對戰中擊敗其他玩家10次	Kill others 10 times in one game
+t_task_desc_7501	完成1次奖杯升星	完成1次獎杯升星	Get a star after one game
+t_task_desc_7601	累计击败100次男性角色	累計擊敗100次男性角色	Kill male heroes 100 times
+t_task_desc_7602	累计击败100次女性角色	累計擊敗100次女性角色	Kill female heroes 100 times
+t_task_desc_7701	一局对战中击败其他玩家10次	一局對戰中擊敗其他玩家10次	Kill others 10 times in one game
+t_task_desc_7801	完成20局大乱斗	完成20局大亂鬥	Play the Melee 20 times
+t_task_desc_7802	完成20局雪地会战	完成20局雪地會戰	Play the Conflict 20 times
+t_task_desc_7901	连续击败8名其他玩家	連續擊敗8名其他玩家	Finish 8 combo of kill in one game
+t_task_desc_8001	大乱斗，取得5次前1名	大亂鬥，取得5次前1名	Get No.1 5 times in Melee
+t_task_desc_8002	一局对战中击败其他玩家10次	一局對戰中擊敗其他玩家10次	Kill others 10 times in one game
+t_task_desc_8101	完成1次奖杯升星	完成1次獎杯升星	Get a star after one game
+t_task_desc_8201	累计击败100次男性角色	累計擊敗100次男性角色	Kill male heroes 100 times
+t_task_desc_8202	累计击败100次女性角色	累計擊敗100次女性角色	Kill female heroes 100 times
+t_task_desc_8301	给任意角色升星1次	給任意角色升星1次	Upgrade any hero 1 time
+t_task_desc_8401	完成20局大乱斗	完成20局大亂鬥	Play the Melee 20 times
+t_task_desc_8402	完成20局雪地会战	完成20局雪地會戰	Play the Conflict 20 times
+t_task_desc_8501	连续击败8名其他玩家	連續擊敗8名其他玩家	Finish 8 combo of kill in one game
+t_task_desc_8601	大乱斗，取得10次前1名	大亂鬥，取得10次前1名	Get No.1 10 times in Melee
+t_task_desc_8602	一局对战中击败其他玩家10次	一局對戰中擊敗其他玩家10次	Kill others 10 times in one game
+t_task_desc_8701	完成1次奖杯升星	完成1次獎杯升星	Get a star after one game
+t_task_desc_8801	累计击败100次男性角色	累計擊敗100次男性角色	Kill male heroes 100 times
+t_task_desc_8802	累计击败100次女性角色	累計擊敗100次女性角色	Kill female heroes 100 times
+t_task_desc_8901	一局对战中击败其他玩家10次	一局對戰中擊敗其他玩家10次	Kill others 10 times in one game
+t_task_desc_9001	完成20局大乱斗	完成20局大亂鬥	Play the Melee 20 times
+t_task_desc_9002	完成20局雪地会战	完成20局雪地會戰	Play the Conflict 20 times
+t_task_desc_9101	连续击败8名其他玩家	連續擊敗8名其他玩家	Finish 8 combo of kill in one game
+t_task_desc_9201	大乱斗，取得5次前1名	大亂鬥，取得5次前1名	Get No.1 5 times in Melee
+t_task_desc_9202	一局对战中击败其他玩家10次	一局對戰中擊敗其他玩家10次	Kill others 10 times in one game
+t_task_desc_9301	完成1次奖杯升星	完成1次獎杯升星	Get a star after one game
+t_task_desc_9401	累计击败100次男性角色	累計擊敗100次男性角色	Kill male heroes 100 times
+t_task_desc_9402	累计击败100次女性角色	累計擊敗100次女性角色	Kill female heroes 100 times
+t_task_desc_9501	给任意角色升星1次	給任意角色升星1次	Upgrade any hero 1 time
+t_task_desc_9601	完成20局大乱斗	完成20局大亂鬥	Play the Melee 20 times
+t_task_desc_9602	完成20局雪地会战	完成20局雪地會戰	Play the Conflict 20 times
+t_task_desc_9701	连续击败8名其他玩家	連續擊敗8名其他玩家	Finish 8 combo of kill in one game
+t_task_desc_9801	大乱斗，取得10次前1名	大亂鬥，取得10次前1名	Get No.1 10 times in Melee
+t_task_desc_9802	一局对战中击败其他玩家10次	一局對戰中擊敗其他玩家10次	Kill others 10 times in one game
+t_task_desc_9901	完成1次奖杯升星	完成1次獎杯升星	Get a star after one game
+t_task_desc_10001	累计击败100次男性角色	累計擊敗100次男性角色	Kill male heroes 100 times
+t_task_desc_10002	累计击败100次女性角色	累計擊敗100次女性角色	Kill female heroes 100 times
+t_fashion_name_1001	雪球-粽子	雪球-粽子	AMMO-Zongzi
+t_fashion_name_1002	雪球-骨头	雪球-骨頭	AMMO-Bone
+t_fashion_name_1003	雪球-酒瓶	雪球-酒瓶	AMMO-Bottle
+t_fashion_name_1004	雪球-板砖	雪球-板磚	AMMO-Brick
+t_fashion_name_1005	雪球-小丑鱼	雪球-小丑魚	AMMO-Fish
+t_fashion_name_1006	雪球-河豚	雪球-河豚	AMMO-Puffer
+t_fashion_name_1007	雪球-能量球	雪球-能量球	AMMO-Energy Ball
+t_fashion_name_1008	雪球-人字拖	雪球-人字拖	AMMO-Flip Flops
+t_fashion_name_1501	雪球-手里剑	雪球-手裡劍	AMMO-Shuriken
+t_fashion_name_1502	雪球-闪电	雪球-閃電	AMMO-Lighting
+t_fashion_name_1503	雪球-章鱼	雪球-章魚	AMMO-Octopus
+t_fashion_name_1504	雪球-火焰恶魔	雪球-火焰惡魔	AMMO-Fire Demo
+t_fashion_name_2001	特效-业火	特效-業火	Effect-Blaze
+t_fashion_name_2002	特效-五芒星	特效-五芒星	Effect-Pentacle
+t_fashion_name_2003	特效-惊雷	特效-驚雷	Effect-Thunder
+t_fashion_name_3001	雪炮-竹筒	雪炮-竹筒	Gun-Bamboo
+t_fashion_name_3002	雪炮-鲨鱼	雪炮-鯊魚	Gun-Shark
+t_fashion_name_3003	雪炮-尖叫鸡	雪炮-尖叫雞	Gun-Chicken
+t_fashion_name_3004	雪炮-霸分宝	雪炮-霸分寶	Gun-Suction
+t_fashion_name_3005	雪炮-金角	雪炮-金角	Gun-Horn
+t_fashion_name_3006	雪炮-呱呱	雪炮-呱呱	Gun-Wonka
+t_fashion_name_3007	雪炮-胖达	雪炮-胖達	Gun-Panda
+t_fashion_name_3008	雪炮-喵喵	雪炮-喵喵	Gun-Meowth
+t_fashion_name_3009	雪炮-聚能炮	雪炮-聚能炮	Gun-Cannon
+t_fashion_name_3010	雪炮-小喇叭	雪炮-小喇叭	Gun-Petunia
+t_fashion_name_3501	雪炮-神龙	雪炮-神龍	Gun-Dragon
+t_fashion_name_1009	雪球-苹果	雪球-苹果	AMMO-Apple
+t_fashion_name_1010	雪球-包子	雪球-包子	AMMO-Baozi
+t_fashion_name_1505	雪球-S7	雪球-S7	AMMO-S7
+t_fashion_name_3011	雪炮-消防栓	雪炮-消防栓	Gun-Hydrant
+t_fashion_name_3012	雪炮-鲤鱼	雪炮-鲤鱼	Gun-Carp
+t_fashion_name_3502	雪炮-青花瓷	雪炮-青花瓷	Gun-Porcelain
+t_fashion_desc1_1001	[c2e5ed]在背包中装备将投掷的雪球变为粽子##【谨献给踊跃参与2017端午节活动的小伙伴们】	[c2e5ed]在背包中裝備將投擲的雪球變為粽子##【謹獻給踴躍參與2017端午節活動的小伙伴們】	[c2e5ed]Use in storage to turn AMMO into Zongzi## [Dedicated to friends who actively participate in the event of 2017 Dragon Boat Festival]
+t_fashion_desc1_1002	[c2e5ed]在背包中装备后将投掷的雪球变为骨头	[c2e5ed]在背包中裝備後將投擲的雪球變為骨頭	[c2e5ed]Use in storage to turn AMMO into Bone
+t_fashion_desc1_1003	[c2e5ed]在背包中装备后将投掷的雪球变为酒瓶	[c2e5ed]在背包中裝備後將投擲的雪球變為酒瓶	[c2e5ed]Use in storage to turn AMMO into Bottle
+t_fashion_desc1_1004	[c2e5ed]在背包中装备后将投掷的雪球变为板砖	[c2e5ed]在背包中裝備後將投擲的雪球變為板磚	[c2e5ed]Use in storage to turn AMMO into Brick
+t_fashion_desc1_1005	[c2e5ed]在背包中装备后将投掷的雪球变为小丑鱼	[c2e5ed]在背包中裝備後將投擲的雪球變為小丑魚	[c2e5ed]Use in storage to turn AMMO into Fish
+t_fashion_desc1_1006	[c2e5ed]在背包中装备后将投掷的雪球变为河豚	[c2e5ed]在背包中裝備後將投擲的雪球變為河豚	[c2e5ed]Use in storage to turn AMMO into Puffer
+t_fashion_desc1_1007	[c2e5ed]在背包中装备后将投掷的雪球变为能量球	[c2e5ed]在背包中裝備後將投擲的雪球變為能量球	[c2e5ed]Use in storage to turn AMMO into Energy Ball
+t_fashion_desc1_1008	[c2e5ed]在背包中装备后将投掷的雪球变为人字拖	[c2e5ed]在背包中裝備後將投擲的雪球變為人字拖	[c2e5ed]Use in storage to turn AMMO into Flip Flops
+t_fashion_desc1_1501	[c2e5ed]在背包中装备后将投掷的雪球变为手里剑	[c2e5ed]在背包中裝備後將投擲的雪球變為手裡劍	[c2e5ed]Use in storage to turn AMMO into Shuriken
+t_fashion_desc1_1502	[c2e5ed]在背包中装备后将投掷的雪球变为闪电	[c2e5ed]在背包中裝備後將投擲的雪球變為閃電	[c2e5ed]Use in storage to turn AMMO into Lighting
+t_fashion_desc1_1503	[c2e5ed]在背包中装备后将投掷的雪球变为章鱼	[c2e5ed]在背包中裝備後將投擲的雪球變為章魚	[c2e5ed]Use in storage to turn AMMO into Octopus
+t_fashion_desc1_1504	[c2e5ed]在背包中装备后将投掷的雪球变为火焰恶魔	[c2e5ed]在背包中裝備後將投擲的雪球變為火焰惡魔	[c2e5ed]Use in storage to turn AMMO into Fire Demo
+t_fashion_desc1_2001	[c2e5ed]在背包中装备后将蓄力特效变为业火	[c2e5ed]在背包中裝備後將蓄力特效變為業火	[c2e5ed]Use in storage to turn charging effect into Blaze
+t_fashion_desc1_2002	[c2e5ed]在背包中装备后将蓄力特效变为五芒星	[c2e5ed]在背包中裝備後將蓄力特效變為五芒星	[c2e5ed]Use in storage to turn charging effect into Pentacle
+t_fashion_desc1_2003	[c2e5ed]在背包中装备后将蓄力特效变为惊雷	[c2e5ed]在背包中裝備後將蓄力特效變為驚雷	[c2e5ed]Use in storage to turn charging effect into Thunder
+t_fashion_desc1_3001	[c2e5ed]在背包中装备将雪炮模型替换为竹筒	[c2e5ed]在背包中裝備將雪炮模型替換為竹筒	[c2e5ed]Use in storage to turn gun into Bamboo
+t_fashion_desc1_3002	[c2e5ed]在背包中装备将雪炮模型替换为鲨鱼	[c2e5ed]在背包中裝備將雪炮模型替換為鯊魚	[c2e5ed]Use in storage to turn gun into Shark
+t_fashion_desc1_3003	[c2e5ed]在背包中装备将雪炮模型替换为尖叫鸡	[c2e5ed]在背包中裝備將雪炮模型替換為尖叫雞	[c2e5ed]Use in storage to turn gun into Chicken
+t_fashion_desc1_3004	[c2e5ed]在背包中装备将雪炮模型替换为霸分宝	[c2e5ed]在背包中裝備將雪炮模型替換為霸分寶	[c2e5ed]Use in storage to turn gun into Suction
+t_fashion_desc1_3005	[c2e5ed]在背包中装备将雪炮模型替换为金角	[c2e5ed]在背包中裝備將雪炮模型替換為金角	[c2e5ed]Use in storage to turn gun into Horn
+t_fashion_desc1_3006	[c2e5ed]在背包中装备将雪炮模型替换为呱呱	[c2e5ed]在背包中裝備將雪炮模型替換為呱呱	[c2e5ed]Use in storage to turn gun into Wonka
+t_fashion_desc1_3007	[c2e5ed]在背包中装备将雪炮模型替换为胖达	[c2e5ed]在背包中裝備將雪炮模型替換為胖達	[c2e5ed]Use in storage to turn gun into Panda
+t_fashion_desc1_3008	[c2e5ed]在背包中装备将雪炮模型替换为喵喵	[c2e5ed]在背包中裝備將雪炮模型替換為喵喵	[c2e5ed]Use in storage to turn gun into Meowth
+t_fashion_desc1_3009	[c2e5ed]在背包中装备将雪炮模型替换为聚能炮	[c2e5ed]在背包中裝備將雪炮模型替換為聚能炮	[c2e5ed]Use in storage to turn gun into Cannon
+t_fashion_desc1_3010	[c2e5ed]在背包中装备将雪炮模型替换为小喇叭	[c2e5ed]在背包中裝備將雪炮模型替換為小喇叭	[c2e5ed]Use in storage to turn gun into Petunia
+t_fashion_desc1_3501	[c2e5ed]在背包中装备将雪炮模型替换为神龙	[c2e5ed]在背包中裝備將雪炮模型替換為神龍	[c2e5ed]Use in storage to turn gun into Dragon
+t_fashion_desc1_1009	[c2e5ed]在背包中装备将投掷的雪球替换为苹果	[c2e5ed]在背包中装备将投掷的雪球替换为苹果	[c2e5ed]Use in storage to turn AMMO into Apple
+t_fashion_desc1_1010	[c2e5ed]在背包中装备将投掷的雪球替换为包子	[c2e5ed]在背包中装备将投掷的雪球替换为包子	[c2e5ed]Use in storage to turn AMMO into Baozi
+t_fashion_desc1_1505	[c2e5ed]在背包中装备将投掷的雪球替换为S7	[c2e5ed]在背包中装备将投掷的雪球替换为S7	[c2e5ed]Use in storage to turn AMMO into S7
+t_fashion_desc1_3011	[c2e5ed]在背包中装备将雪炮模型替换为消防栓	[c2e5ed]在背包中装备将雪炮模型替换为消防栓	[c2e5ed]Use in storage to turn gun into Hydrant
+t_fashion_desc1_3012	[c2e5ed]在背包中装备将雪炮模型替换为鲤鱼	[c2e5ed]在背包中装备将雪炮模型替换为鲤鱼	[c2e5ed]Use in storage to turn gun into Carp
+t_fashion_desc1_3502	[c2e5ed]在背包中装备将雪炮模型替换为青花瓷	[c2e5ed]在背包中装备将雪炮模型替换为青花瓷	[c2e5ed]Use in storage to turn gun into Porcelain
+t_fashion_desc2_1001	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时普攻命中回复[ff8a00]1[-]点生命	[c2e5ed]##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時普攻命中回复[ff8a00]1[-]點生命	[c2e5ed]##Extra: AMMO's life steal [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_1002	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed]##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]1[-]點攻擊	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_1003	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed]##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]1[-]點攻擊	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_1004	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed]##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]1[-]點攻擊	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_1005	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed]##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]1[-]點攻擊	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_1006	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点普攻伤害	[c2e5ed]##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]1[-]點普攻傷害	[c2e5ed]##Extra: AMMO's damage [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_1007	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed]##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]1[-]點攻擊	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_1008	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]3[-]移速	[c2e5ed]##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]3[-]移速	[c2e5ed]##Extra: Move speed [ff8a00]+3[-] during fight even the skin is not using
+t_fashion_desc2_1501	[c2e5ed]##装备效果：增加[3defff]龙卷风[-][ff8a00]1%[-]技能伤害##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]10[-]射程	[c2e5ed]##裝備效果：增加[3defff]龍捲風[-][ff8a00]1%[-]技能傷害##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]10[ -]射程	[c2e5ed]##Using：[3defff]Tornado[-]'s damage [ff8a00]+1%[-]##Extra: Range [ff8a00]+10[-] during fight even the skin is not using
+t_fashion_desc2_1502	[c2e5ed]##装备效果：增加[3defff]雷电球[-][ff8a00]1%[-]技能伤害##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1%[-]雷电球伤害	[c2e5ed]##裝備效果：增加[3defff]雷電球[-][ff8a00]1%[-]技能傷害##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]1 %[-]雷電球傷害	[c2e5ed]##Using：[3defff]Lightning Ball[-]'s damage [ff8a00]+1%[-]##Extra: [3defff]Lightning Ball[-]'s damage [ff8a00]+1%[-] during fight even the skin is not using
+t_fashion_desc2_1503	[c2e5ed]##装备效果：增加[3defff]墨水球[-][ff8a00]1%[-]技能伤害##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]2[-]点普攻伤害	[c2e5ed]##裝備效果：增加[3defff]墨水球[-][ff8a00]1%[-]技能傷害##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]2 [-]點普攻傷害	[c2e5ed]##Using：[3defff]Venom Bottle[-]'s damage [ff8a00]+1%[-]##Extra: AMMO's damage [ff8a00]+2[-] during fight even the skin is not using
+t_fashion_desc2_1504	[c2e5ed]##装备效果：增加[3defff]恶魔球[-][ff8a00]1%[-]技能伤害##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1%[-]暴击率	[c2e5ed]##裝備效果：增加[3defff]惡魔球[-][ff8a00]1%[-]技能傷害##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]1 %[-]暴擊率	[c2e5ed]##Using：[3defff]Devil Bat[-]'s damage [ff8a00]+1%[-]##Extra: Critical Strike [ff8a00]+1%[-] during fight even the skin is not using
+t_fashion_desc2_2001	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed]##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]1[-]點攻擊	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_2002	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1%[-]技能伤害	[c2e5ed]##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]1%[-]技能傷害	[c2e5ed]##Extra: Skill's damage [ff8a00]+1%[-] during fight even the skin is not using
+t_fashion_desc2_2003	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]3[-]移速	[c2e5ed]##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]3[-]移速	[c2e5ed]##Extra: Move Speed [ff8a00]+3[-] during fight even the skin is not using
+t_fashion_desc2_3001	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]5[-]点生命	[c2e5ed]##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]5[-]點生命	[c2e5ed]##Extra: Health [ff8a00]+5[-] during fight even the skin is not using
+t_fashion_desc2_3002	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed]##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]1[-]點攻擊	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_3003	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed]##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]1[-]點攻擊	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_3004	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed]##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]1[-]點攻擊	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_3005	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed]##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]1[-]點攻擊	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_3006	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed]##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]1[-]點攻擊	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_3007	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed]##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]1[-]點攻擊	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_3008	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed]##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]1[-]點攻擊	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_3009	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed]##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]1[-]點攻擊	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_3010	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]5[-]点生命	[c2e5ed]##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]5[-]點生命	[c2e5ed]##Extra: Health [ff8a00]+5[-] during fight even the skin is not using
+t_fashion_desc2_3501	[c2e5ed]##装备效果：增加[3defff]龙卷风[-][ff8a00]1%[-]技能伤害##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]2[-]点攻击	[c2e5ed]##裝備效果：增加[3defff]龍捲風[-][ff8a00]1%[-]技能傷害##額外效果：擁有此皮膚後即使不裝備，所有角色在戰鬥時增加[ff8a00]2[ -]點攻擊	[c2e5ed]##Using：[3defff]Tornado[-]'s damage [ff8a00]+1%[-]##Extra: Attack [ff8a00]+2[-] during fight even the skin is not using
+t_fashion_desc2_1009	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]5[-]点生命	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]5[-]点生命	[c2e5ed]##Extra: Health [ff8a00]+5[-] during fight even the skin is not using
+t_fashion_desc2_1010	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]5[-]点生命	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]5[-]点生命	[c2e5ed]##Extra: Health [ff8a00]+5[-] during fight even the skin is not using
+t_fashion_desc2_1505	[c2e5ed]##装备效果：增加[3defff]烈性炸药[-][ff8a00]1%[-]技能伤害##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]6[-]点移速	[c2e5ed]##装备效果：增加[3defff]烈性炸药[-][ff8a00]1%[-]技能伤害##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]6[-]点移速	[c2e5ed]##Using：[3defff]TNT[-]'s damage [ff8a00]+1%[-]##Extra: Move Speed [ff8a00]+6[-] during fight even the skin is not using
+t_fashion_desc2_3011	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]1[-]点攻击	[c2e5ed]##Extra: Attack [ff8a00]+1[-] during fight even the skin is not using
+t_fashion_desc2_3012	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]5[-]点生命	[c2e5ed]##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]5[-]点生命	[c2e5ed]##Extra: Health [ff8a00]+5[-] during fight even the skin is not using
+t_fashion_desc2_3502	[c2e5ed]##装备效果：增加[3defff]冰棍[-][ff8a00]1%[-]技能伤害##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]2[-]点普攻伤害	[c2e5ed]##装备效果：增加[3defff]冰棍[-][ff8a00]1%[-]技能伤害##额外效果：拥有此皮肤后即使不装备，所有角色在战斗时增加[ff8a00]2[-]点普攻伤害	[c2e5ed]##Using：[3defff]Popsicle[-]'s damage [ff8a00]+1%[-]##Extra: AMMO Damage [ff8a00]+2[-] during fight even the skin is not using
+t_daily_task_name_1	每日一战	每日一戰	Fight for today
+t_daily_task_name_2	队伍需要我	隊伍需要我	Team needs me
+t_daily_task_name_3	勤能补拙	勤能補拙	Practice makes perfect
+t_daily_task_name_4	联合起来更强大	聯合起來更強大	"United, we are stronger!"
+t_daily_task_name_5	开黑更精彩	開黑更精彩	Wonderful teamwork
+t_daily_task_name_6	强大的回报	強大的回報	Stronger is better
+t_daily_task_name_7	胜利代表着实力	勝利代表著實力	Victory is all
+t_daily_task_name_8	实力碾压	實力碾壓	This is my power!
+t_daily_task_name_9	分享即收获	分享即收穫	Sharing is gaining
+t_daily_task_desc_1	完成1局大乱斗	完成1局大亂鬥	Play the Melee once
+t_daily_task_desc_2	完成1局雪地会战	完成1局雪地會戰	Play the Conflict once
+t_daily_task_desc_3	完成3局大乱斗	完成3局大亂鬥	Play the Melee 3 times
+t_daily_task_desc_4	完成3局雪地会战	完成3局雪地會戰	Play the Conflict 3 times
+t_daily_task_desc_5	与其他玩家组队进入2局对战	與其他玩家組隊進入2局對戰	Play in a team 2 times
+t_daily_task_desc_6	击败10名其他玩家	擊敗10名其他玩家	Kill others 10 times
+t_daily_task_desc_7	大乱斗，取得1次第一名	大亂鬥，取得1次第一名	Get No.1 in Melee
+t_daily_task_desc_8	一局战斗中击败5名玩家	一局戰鬥中擊敗5名玩家	Kill others 5 times in one game
+t_daily_task_desc_9	分享1次游戏	分享1次遊戲	Share once
+t_tips_1	账号升级后可以增加每周战斗金币上限	賬號升級後可以增加每週戰斗金幣上限	Increase the Max of weekly fight gold after account levelup.
+t_tips_2	每个赛季持续一周，每周一开始发放上个赛季的奖励	每個賽季持續一周，每週一開始發放上個賽季的獎勵	Every season lasts one week. The award of last season is emailed to you every Monday.
+t_tips_3	每周一开始新的赛季，奖杯段位会随新赛季到来而下降	每週一開始新的賽季，獎杯段位會隨新賽季到來而下降	Cup will decline with the coming of new season.
+t_tips_4	留心地面上出现的红圈，被陨石命中会立即死亡嘞	留心地面上出現的紅圈，被隕石命中會立即死亡嘞	Pay attention to the red circle on the ground. It will be dead immediately once hit by meteorite.
+t_tips_5	升级后可以获得天赋点，天赋可以给角色带来巨大增益	升級後可以獲得天賦點，天賦可以給角色帶來巨大增益	"Talent point can be gained upon levelup in fight, bringing huge profits for heroes."
+t_tips_6	雪人是无敌的，但还是会被龙卷风吹走哟	雪人是無敵的，但還是會被龍捲風吹走喲	"Snowman is invulnerable, but can be blown away by Tornado."
+t_tips_7	能量越高，释放的道具技能越强力哦	能量越高，釋放的道具技能越強力哦	"Higher energy, stronger skill."
+t_tips_8	带上你的小伙伴一起玩耍吧，多多分享多多领奖	帶上你的小伙伴一起玩耍吧，多多分享多多領獎	Take your friends to play together. And you can share to get reward.
+t_tips_9	混乱状态下，所有操作都会反向，包括技能释放哦	混亂狀態下，所有操作都會反向，包括技能釋放哦	"All the operations, skill releasing included, will be opposite under chaotic state."
+t_tips_10	零流量自嗨结算时只获得金币和宝箱，成就和奖杯不会发生变化	零流量自嗨結算時只獲得金幣和寶箱，成就和獎杯不會發生變化	Only gold and treasure chest are obtained during Practice settlement with Honor and cup unchanged.
+t_tips_11	偷偷告诉你，首次改名是免费的~	偷偷告訴你，首次改名是免費的~	But let me tell you it is free of charge for first renaming.
+t_tips_12	战斗结束时排名越高，获得珍贵宝箱的几率越大	戰鬥結束時排名越高，獲得珍貴寶箱的機率越大	Higher rank of one game can get better chest after settlement.
+t_tips_13	花费钻石可立即打开解锁中的宝箱	花費鑽石可立即打開解鎖中的寶箱	Spend diamonds to unlock chest immediately.
+t_tips_14	最多只能同时拥有4个宝箱，宝箱满了后无法再获得新宝箱	最多只能同時擁有4個寶箱，寶箱滿了後無法再獲得新寶箱	You can't get a new chest when chest slot is full.
+t_tips_15	雪球蓄力后攻击力和射程都会大幅增强	雪球蓄力後攻擊力和射程都會大幅增強	Damage and range of AMMO will be improved massively after charging.
+t_tips_16	战场瞬息万变，不到最后一刻谁也不能保证自己的排名	戰場瞬息萬變，不到最後一刻誰也不能保證自己的排名	"The conditions of battlefield change quickly, nobody can guarantee his ranking till the last moment."
+t_tips_17	点击大厅界面的奖杯图标可以查看奖杯升降规则	點擊大廳界面的獎杯圖標可以查看獎杯升降規則	Click the cup icon in the hall to view the information of cup.
+t_tips_18	战斗不止是近身突突突，蓄力的超远狙击更安全	戰鬥不止是近身突突突，蓄力的超遠狙擊更安全	Far snipe of charging is safer.
+t_tips_19	重复获得已拥有的角色，系统自动转化为20个角色碎片	重複獲得已擁有的角色，系統自動轉化為20個角色碎片	Repeat to get owned heroes and system will convert it into 20 hero shards.
+t_vip_attr_name_1	月卡会员	月卡會員	Month Card Member
+t_vip_attr_name_2	年卡会员	年卡會員	Year Card Member
+t_vip_attr_desc_1	[c2e5ed]月卡会员特权：##减少宝箱解锁时间20%##连续登录奖励3倍##赛季奖杯结算奖励2倍##每日上线可领取登录奖励	[c2e5ed]月卡會員特權：##減少寶箱解鎖時間20%##連續登錄獎勵3倍##賽季獎杯結算獎勵2倍##每日上線可領取登錄獎勵	[c2e5ed]Privileges of Month Card Member##Unlocking time of chests -20%##Triple rewards of login##Double rewards of season settlement##Daily reward
+t_vip_attr_desc_2	[c2e5ed]年卡会员特权：##减少宝箱解锁时间30%##连续登录奖励3倍##赛季奖杯结算奖励2倍##每日上线可领取登录奖励	[c2e5ed]年卡會員特權：##減少寶箱解鎖時間30%##連續登錄獎勵3倍##賽季獎杯結算獎勵2倍##每日上線可領取登錄獎勵	[c2e5ed]Privileges of Year Card Member##Unlocking time of chests -20%##Triple rewards of login##Double rewards of season settlement##Daily reward
+t_boss_attr_name_1	雪怪	雪怪	Boss
+t_talent_pve_name_1001	"攻击[ee3b3b]+2,生命值[5bd300]+10"	"攻擊[ee3b3b]+2,生命值[5bd300]+10"	NOTYET
+t_talent_pve_name_1002	"攻击[ee3b3b]+4/8/12,攻击[ee3b3b]+5/10/15%"	"攻擊[ee3b3b]+4/8/12,攻擊[ee3b3b]+5/10/15%"	NOTYET
+t_talent_pve_name_1003	"生命值[5bd300]+20/40/60,生命值[5bd300]+5/10/15%"	"生命值[5bd300]+20/40/60,生命值[5bd300]+5/10/15%"	NOTYET
+t_talent_pve_name_1004	"攻击[ee3b3b]+4/8/12,普通雪球射程[e4ac01]+5000/10000/15000"	"攻擊[ee3b3b]+4/8/12,普通雪球射程[e4ac01]+5000/10000/15000"	NOTYET
+t_talent_pve_name_1005	"攻击[ee3b3b]+2/4/6,生命值[5bd300]+10/20/30,移速[e4ac01]+5/10/15%"	"攻擊[ee3b3b]+2/4/6,生命值[5bd300]+10/20/30,移速[e4ac01]+5/10/15%"	NOTYET
+t_talent_pve_name_1006	"生命值[5bd300]+20/40/60,伤害减免[5bd300]+5/10/15%"	"生命值[5bd300]+20/40/60,傷害減免[5bd300]+5/10/15%"	NOTYET
+t_talent_pve_name_1007	"攻击[ee3b3b]+4/8/12,暴击率[ee3b3b]+5/10/15%"	"攻擊[ee3b3b]+4/8/12,暴擊率[ee3b3b]+5/10/15%"	NOTYET
+t_talent_pve_name_1008	"攻击[ee3b3b]+2/4/6,生命值[5bd300]+10/20/30,无视防御概率[ee3b3b]+20/40/60%"	"攻擊[ee3b3b]+2/4/6,生命值[5bd300]+10/20/30,無視防禦概率[ee3b3b]+20/40/60%"	NOTYET
+t_talent_pve_name_1009	"攻击[ee3b3b]+2/4/6,生命值[5bd300]+10/20/30,普通雪球命中回复生命[5bd300]+10/20/30"	"攻擊[ee3b3b]+2/4/6,生命值[5bd300]+10/20/30,普通雪球命中回復生命[5bd300]+10/20/30"	NOTYET
+t_talent_pve_name_1010	"生命值[5bd300]+20/40/60,每秒回复生命[5bd300]+5/10/15"	"生命值[5bd300]+20/40/60,每秒回復生命[5bd300]+5/10/15"	NOTYET
+t_talent_pve_name_1011	"攻击[ee3b3b]+8/16/24,每击杀一名敌人攻击[ee3b3b]+1/2/3"	"攻擊[ee3b3b]+8/16/24,每擊殺一名敵人攻擊[ee3b3b]+1/2/3"	NOTYET
+t_talent_pve_name_1012	"攻击[ee3b3b]+4/8/12,生命值[5bd300]+20/40/60,每击杀一名敌人生命[5bd300]+5/10/15"	"攻擊[ee3b3b]+4/8/12,生命值[5bd300]+20/40/60,每擊殺一名敵人生命[5bd300]+5/10/15"	NOTYET
+t_talent_pve_name_1013	"攻击[ee3b3b]+4/8/12,生命值[5bd300]+20/40/60,触发死亡时，生命变为1，无敌5/6/7秒，冷却120秒"	"攻擊[ee3b3b]+4/8/12,生命值[5bd300]+20/40/60,觸發死亡時，生命變為1，無敵5/6/7秒，冷卻120秒"	NOTYET
+t_talent_pve_name_1014	"攻击[ee3b3b]+4/8/12,生命值[5bd300]+20/40/60,免疫控制概率[5bd300]+20/40/60%"	"攻擊[ee3b3b]+4/8/12,生命值[5bd300]+20/40/60,免疫控制概率[5bd300]+20/40/60%"	NOTYET
+t_talent_pve_name_1015	"生命值[5bd300]+40/80/120,免疫普攻概率[5bd300]+10/20/30%"	"生命值[5bd300]+40/80/120,免疫普攻概率[5bd300]+10/20/30%"	NOTYET
+t_talent_pve_name_2001	变雪人冷却时间减少[e4ac01]+10/20/30%	變雪人冷卻時間減少[e4ac01]+10/20/30%	NOTYET
+t_talent_pve_name_2002	技能伤害增加[ee3b3b]+5/10/15%	技能傷害增加[ee3b3b]+5/10/15%	NOTYET
+t_talent_pve_name_2003	技能冷却时间减少[e4ac01]+10/20/30%	技能冷卻時間減少[e4ac01]+10/20/30%	NOTYET
+t_talent_pve_name_2004	技能伤害增加[ee3b3b]+5/10/15%	技能傷害增加[ee3b3b]+5/10/15%	NOTYET
+t_talent_pve_name_2005	拾取技能球升2级概率[e4ac01]+20/40/60%	拾取技能球升2級概率[e4ac01]+20/40/60%	NOTYET
+t_talent_pve_name_2006	控制敌人时间延长[ee3b3b]+10/20/30%	控制敵人時間延長[ee3b3b]+10/20/30%	NOTYET
+t_talent_pve_name_2007	技能伤害增加[ee3b3b]+5/10/15%	技能傷害增加[ee3b3b]+5/10/15%	NOTYET
+t_talent_pve_name_2008	攻击与自己拥有相同技能的目标伤害[ee3b3b]+20/40/60%	攻擊與自己擁有相同技能的目標傷害[ee3b3b]+20/40/60%	NOTYET
+t_talent_pve_name_2009	释放技能回复生命[5bd300]+100/200/300	釋放技能回復生命[5bd300]+100/200/300	NOTYET
+t_talent_pve_name_2010	技能冷却期间减伤[5bd300]+8/16/24%	技能冷卻期間減傷[5bd300]+8/16/24%	NOTYET
+t_talent_pve_name_2011	技能伤害增加[ee3b3b]+10/20/30%	技能傷害增加[ee3b3b]+10/20/30%	NOTYET
+t_talent_pve_name_2012	对技能释放者反弹伤害[5bd300]+20/40/60%	對技能釋放者反彈傷害[5bd300]+20/40/60%	NOTYET
+t_talent_pve_name_2013	释放技能回复至满生命值概率[5bd300]+5/10/15%	釋放技能回復至滿生命值概率[5bd300]+5/10/15%	NOTYET
+t_talent_pve_name_2014	对自己当前的技能免疫概率[5bd300]+20/40/60%	對自己當前的技能免疫概率[5bd300]+20/40/60%	NOTYET
+t_talent_pve_name_2015	释放技能免除冷却概率[e4ac01]+10/20/30%	釋放技能免除冷卻概率[e4ac01]+10/20/30%	NOTYET
+t_talent_pve_name_3001	移速[e4ac01]+1500/3000/4500	移速[e4ac01]+1500/3000/4500	NOTYET
+t_talent_pve_name_3002	拾取水晶额外积分[e4ac01]+10/20/30	拾取水晶額外積分[e4ac01]+10/20/30	NOTYET
+t_talent_pve_name_3003	物品拾取范围[e4ac01]+10/20/30%	物品拾取範圍[e4ac01]+10/20/30%	NOTYET
+t_talent_pve_name_3004	拾取水晶回复生命[5bd300]+5/10/15	拾取水晶回復生命[5bd300]+5/10/15	NOTYET
+t_talent_pve_name_3005	拾取技能球升2级概率[e4ac01]+5/10/15%	拾取技能球升2級概率[e4ac01]+5/10/15%	NOTYET
+t_talent_pve_name_3006	拾取能力球升2级概率[e4ac01]+5/10/15%	拾取能力球升2級概率[e4ac01]+5/10/15%	NOTYET
+t_talent_pve_name_3007	血瓶回复量[5bd300]+40/80/120%	血瓶回復量[5bd300]+40/80/120%	NOTYET
+t_talent_pve_name_3008	拾取水晶2倍积分概率[e4ac01]+5/10/15%	拾取水晶2倍積分概率[e4ac01]+5/10/15%	NOTYET
+t_talent_pve_name_3009	拾取能力球增加积分[e4ac01]+300/600/900	拾取能力球增加積分[e4ac01]+300/600/900	NOTYET
+t_talent_pve_name_3010	拾取能力雪球回复生命[5bd300]+20/40/60	拾取能力雪球回復生命[5bd300]+20/40/60	NOTYET
+t_talent_pve_name_3011	护盾抵挡伤害次数[5bd300]+1/2/3	護盾抵擋傷害次數[5bd300]+1/2/3	NOTYET
+t_talent_pve_name_3012	每10000积分攻击[ee3b3b]+4/8/12	每10000積分攻擊[ee3b3b]+4/8/12	NOTYET
+t_talent_pve_name_3013	每10000积分生命[5bd300]+20/40/60	每10000積分生命[5bd300]+20/40/60	NOTYET
+t_talent_pve_name_3014	拾取能力雪球获得护盾概率[e4ac01]+20/40/60%	拾取能力雪球獲得護盾概率[e4ac01]+20/40/60%	NOTYET
+t_talent_pve_name_3015	能力雪球最大等级提升[e4ac01]+2/4/6	能力雪球最大等級提升[e4ac01]+2/4/6	NOTYET
+t_talent_pve_desc1_1001	"攻击[ee3b3b]+4,生命值[5bd300]+20"	"攻擊[ee3b3b]+4,生命值[5bd300]+20"	NOTYET
+t_talent_pve_desc1_1002	"攻击[ee3b3b]+4,攻击[ee3b3b]+5%"	"攻擊[ee3b3b]+4,攻擊[ee3b3b]+5%"	NOTYET
+t_talent_pve_desc1_1003	"生命值[5bd300]+20,生命值[5bd300]+5%"	"生命值[5bd300]+20,生命值[5bd300]+5%"	NOTYET
+t_talent_pve_desc1_1004	"攻击[ee3b3b]+4,普通雪球射程[e4ac01]+5000"	"攻擊[ee3b3b]+4,普通雪球射程[e4ac01]+5000"	NOTYET
+t_talent_pve_desc1_1005	"攻击[ee3b3b]+2,生命值[5bd300]+10,移速[e4ac01]+5%"	"攻擊[ee3b3b]+2,生命值[5bd300]+10,移速[e4ac01]+5%"	NOTYET
+t_talent_pve_desc1_1006	"生命值[5bd300]+20,伤害减免[5bd300]+5%"	"生命值[5bd300]+20,傷害減免[5bd300]+5%"	NOTYET
+t_talent_pve_desc1_1007	"攻击[ee3b3b]+4,暴击率[ee3b3b]+5%"	"攻擊[ee3b3b]+4,暴擊率[ee3b3b]+5%"	NOTYET
+t_talent_pve_desc1_1008	"攻击[ee3b3b]+2,生命值[5bd300]+10,无视防御概率[ee3b3b]+20%"	"攻擊[ee3b3b]+2,生命值[5bd300]+10,無視防禦概率[ee3b3b]+20%"	NOTYET
+t_talent_pve_desc1_1009	"攻击[ee3b3b]+2,生命值[5bd300]+10,普通雪球命中回复生命[5bd300]+10"	"攻擊[ee3b3b]+2,生命值[5bd300]+10,普通雪球命中回復生命[5bd300]+10"	NOTYET
+t_talent_pve_desc1_1010	"生命值[5bd300]+20,每秒回复生命[5bd300]+5"	"生命值[5bd300]+20,每秒回復生命[5bd300]+5"	NOTYET
+t_talent_pve_desc1_1011	"攻击[ee3b3b]+8,每击杀一名敌人攻击[ee3b3b]+1"	"攻擊[ee3b3b]+8,每擊殺一名敵人攻擊[ee3b3b]+1"	NOTYET
+t_talent_pve_desc1_1012	"攻击[ee3b3b]+4,生命值[5bd300]+20,每击杀一名敌人生命[5bd300]+5"	"攻擊[ee3b3b]+4,生命值[5bd300]+20,每擊殺一名敵人生命[5bd300]+5"	NOTYET
+t_talent_pve_desc1_1013	"攻击[ee3b3b]+4,生命值[5bd300]+20,触发死亡时，生命变为1，无敌5秒，冷却120秒"	"攻擊[ee3b3b]+4,生命值[5bd300]+20,觸發死亡時，生命變為1，無敵5秒，冷卻120秒"	NOTYET
+t_talent_pve_desc1_1014	"攻击[ee3b3b]+4,生命值[5bd300]+20,免疫控制概率[5bd300]+20%"	"攻擊[ee3b3b]+4,生命值[5bd300]+20,免疫控制概率[5bd300]+20%"	NOTYET
+t_talent_pve_desc1_1015	"生命值[5bd300]+40,免疫普攻概率[5bd300]+10%"	"生命值[5bd300]+40,免疫普攻概率[5bd300]+10%"	NOTYET
+t_talent_pve_desc1_2001	变雪人冷却时间减少[e4ac01]+10%	變雪人冷卻時間減少[e4ac01]+10%	NOTYET
+t_talent_pve_desc1_2002	技能伤害增加[ee3b3b]+5%	技能傷害增加[ee3b3b]+5%	NOTYET
+t_talent_pve_desc1_2003	技能冷却时间减少[e4ac01]+10%	技能冷卻時間減少[e4ac01]+10%	NOTYET
+t_talent_pve_desc1_2004	技能伤害增加[ee3b3b]+5%	技能傷害增加[ee3b3b]+5%	NOTYET
+t_talent_pve_desc1_2005	拾取技能球升2级概率[e4ac01]+20%	拾取技能球升2級概率[e4ac01]+20%	NOTYET
+t_talent_pve_desc1_2006	控制敌人时间延长[ee3b3b]+10%	控制敵人時間延長[ee3b3b]+10%	NOTYET
+t_talent_pve_desc1_2007	技能伤害增加[ee3b3b]+5%	技能傷害增加[ee3b3b]+5%	NOTYET
+t_talent_pve_desc1_2008	攻击与自己拥有相同技能的目标伤害[ee3b3b]+20%	攻擊與自己擁有相同技能的目標傷害[ee3b3b]+20%	NOTYET
+t_talent_pve_desc1_2009	释放技能回复生命[5bd300]+100	釋放技能回復生命[5bd300]+100	NOTYET
+t_talent_pve_desc1_2010	技能冷却期间减伤[5bd300]+8%	技能冷卻期間減傷[5bd300]+8%	NOTYET
+t_talent_pve_desc1_2011	技能伤害增加[ee3b3b]+10%	技能傷害增加[ee3b3b]+10%	NOTYET
+t_talent_pve_desc1_2012	对技能释放者反弹伤害[5bd300]+20%	對技能釋放者反彈傷害[5bd300]+20%	NOTYET
+t_talent_pve_desc1_2013	释放技能回复至满生命值概率[5bd300]+5%	釋放技能回復至滿生命值概率[5bd300]+5%	NOTYET
+t_talent_pve_desc1_2014	对自己当前的技能免疫概率[5bd300]+20%	對自己當前的技能免疫概率[5bd300]+20%	NOTYET
+t_talent_pve_desc1_2015	释放技能免除冷却概率[e4ac01]+10%	釋放技能免除冷卻概率[e4ac01]+10%	NOTYET
+t_talent_pve_desc1_3001	移速[e4ac01]+1500	移速[e4ac01]+1500	NOTYET
+t_talent_pve_desc1_3002	拾取水晶额外积分[e4ac01]+10	拾取水晶額外積分[e4ac01]+10	NOTYET
+t_talent_pve_desc1_3003	物品拾取范围[e4ac01]+10%	物品拾取範圍[e4ac01]+10%	NOTYET
+t_talent_pve_desc1_3004	拾取水晶回复生命[5bd300]+5	拾取水晶回復生命[5bd300]+5	NOTYET
+t_talent_pve_desc1_3005	拾取技能球升2级概率[e4ac01]+5%	拾取技能球升2級概率[e4ac01]+5%	NOTYET
+t_talent_pve_desc1_3006	拾取能力球升2级概率[e4ac01]+5%	拾取能力球升2級概率[e4ac01]+5%	NOTYET
+t_talent_pve_desc1_3007	血瓶回复量[5bd300]+40%	血瓶回復量[5bd300]+40%	NOTYET
+t_talent_pve_desc1_3008	拾取水晶2倍积分概率[e4ac01]+5%	拾取水晶2倍積分概率[e4ac01]+5%	NOTYET
+t_talent_pve_desc1_3009	拾取能力球增加积分[e4ac01]+300	拾取能力球增加積分[e4ac01]+300	NOTYET
+t_talent_pve_desc1_3010	拾取能力雪球回复生命[5bd300]+20	拾取能力雪球回復生命[5bd300]+20	NOTYET
+t_talent_pve_desc1_3011	护盾抵挡伤害次数[5bd300]+1	護盾抵擋傷害次數[5bd300]+1	NOTYET
+t_talent_pve_desc1_3012	每10000积分攻击[ee3b3b]+4	每10000積分攻擊[ee3b3b]+4	NOTYET
+t_talent_pve_desc1_3013	每10000积分生命[5bd300]+20	每10000積分生命[5bd300]+20	NOTYET
+t_talent_pve_desc1_3014	拾取能力雪球获得护盾概率[e4ac01]+20%	拾取能力雪球獲得護盾概率[e4ac01]+20%	NOTYET
+t_talent_pve_desc1_3015	能力雪球最大等级提升[e4ac01]+2	能力雪球最大等級提升[e4ac01]+2	NOTYET
+t_talent_pve_desc2_1001	"攻击[ee3b3b]+6,生命值[5bd300]+30"	"攻擊[ee3b3b]+6,生命值[5bd300]+30"	NOTYET
+t_talent_pve_desc2_1002	"攻击[ee3b3b]+8,攻击[ee3b3b]+10%"	"攻擊[ee3b3b]+8,攻擊[ee3b3b]+10%"	NOTYET
+t_talent_pve_desc2_1003	"生命值[5bd300]+40,生命值[5bd300]+10%"	"生命值[5bd300]+40,生命值[5bd300]+10%"	NOTYET
+t_talent_pve_desc2_1004	"攻击[ee3b3b]+8,普通雪球射程[e4ac01]+10000"	"攻擊[ee3b3b]+8,普通雪球射程[e4ac01]+10000"	NOTYET
+t_talent_pve_desc2_1005	"攻击[ee3b3b]+4,生命值[5bd300]+20,移速[e4ac01]+10%"	"攻擊[ee3b3b]+4,生命值[5bd300]+20,移速[e4ac01]+10%"	NOTYET
+t_talent_pve_desc2_1006	"生命值[5bd300]+40,伤害减免[5bd300]+10%"	"生命值[5bd300]+40,傷害減免[5bd300]+10%"	NOTYET
+t_talent_pve_desc2_1007	"攻击[ee3b3b]+8,暴击率[ee3b3b]+10%"	"攻擊[ee3b3b]+8,暴擊率[ee3b3b]+10%"	NOTYET
+t_talent_pve_desc2_1008	"攻击[ee3b3b]+4,生命值[5bd300]+20,无视防御概率[ee3b3b]+40%"	"攻擊[ee3b3b]+4,生命值[5bd300]+20,無視防禦概率[ee3b3b]+40%"	NOTYET
+t_talent_pve_desc2_1009	"攻击[ee3b3b]+4,生命值[5bd300]+20,普通雪球命中回复生命[5bd300]+20"	"攻擊[ee3b3b]+4,生命值[5bd300]+20,普通雪球命中回復生命[5bd300]+20"	NOTYET
+t_talent_pve_desc2_1010	"生命值[5bd300]+40,每秒回复生命[5bd300]+10"	"生命值[5bd300]+40,每秒回復生命[5bd300]+10"	NOTYET
+t_talent_pve_desc2_1011	"攻击[ee3b3b]+16,每击杀一名敌人攻击[ee3b3b]+2"	"攻擊[ee3b3b]+16,每擊殺一名敵人攻擊[ee3b3b]+2"	NOTYET
+t_talent_pve_desc2_1012	"攻击[ee3b3b]+8,生命值[5bd300]+40,每击杀一名敌人生命[5bd300]+10"	"攻擊[ee3b3b]+8,生命值[5bd300]+40,每擊殺一名敵人生命[5bd300]+10"	NOTYET
+t_talent_pve_desc2_1013	"攻击[ee3b3b]+8,生命值[5bd300]+40,触发死亡时，生命变为1，无敌6秒，冷却120秒"	"攻擊[ee3b3b]+8,生命值[5bd300]+40,觸發死亡時，生命變為1，無敵6秒，冷卻120秒"	NOTYET
+t_talent_pve_desc2_1014	"攻击[ee3b3b]+8,生命值[5bd300]+40,免疫控制概率[5bd300]+40%"	"攻擊[ee3b3b]+8,生命值[5bd300]+40,免疫控制概率[5bd300]+40%"	NOTYET
+t_talent_pve_desc2_1015	"生命值[5bd300]+80,免疫普攻概率[5bd300]+20%"	"生命值[5bd300]+80,免疫普攻概率[5bd300]+20%"	NOTYET
+t_talent_pve_desc2_2001	变雪人冷却时间减少[e4ac01]+20%	變雪人冷卻時間減少[e4ac01]+20%	NOTYET
+t_talent_pve_desc2_2002	技能伤害增加[ee3b3b]+10%	技能傷害增加[ee3b3b]+10%	NOTYET
+t_talent_pve_desc2_2003	技能冷却时间减少[e4ac01]+20%	技能冷卻時間減少[e4ac01]+20%	NOTYET
+t_talent_pve_desc2_2004	技能伤害增加[ee3b3b]+10%	技能傷害增加[ee3b3b]+10%	NOTYET
+t_talent_pve_desc2_2005	拾取技能球升2级概率[e4ac01]+40%	拾取技能球升2級概率[e4ac01]+40%	NOTYET
+t_talent_pve_desc2_2006	控制敌人时间延长[ee3b3b]+20%	控制敵人時間延長[ee3b3b]+20%	NOTYET
+t_talent_pve_desc2_2007	技能伤害增加[ee3b3b]+10%	技能傷害增加[ee3b3b]+10%	NOTYET
+t_talent_pve_desc2_2008	攻击与自己拥有相同技能的目标伤害[ee3b3b]+40%	攻擊與自己擁有相同技能的目標傷害[ee3b3b]+40%	NOTYET
+t_talent_pve_desc2_2009	释放技能回复生命[5bd300]+200	釋放技能回復生命[5bd300]+200	NOTYET
+t_talent_pve_desc2_2010	技能冷却期间减伤[5bd300]+16%	技能冷卻期間減傷[5bd300]+16%	NOTYET
+t_talent_pve_desc2_2011	技能伤害增加[ee3b3b]+20%	技能傷害增加[ee3b3b]+20%	NOTYET
+t_talent_pve_desc2_2012	对技能释放者反弹伤害[5bd300]+40%	對技能釋放者反彈傷害[5bd300]+40%	NOTYET
+t_talent_pve_desc2_2013	释放技能回复至满生命值概率[5bd300]+10%	釋放技能回復至滿生命值概率[5bd300]+10%	NOTYET
+t_talent_pve_desc2_2014	对自己当前的技能免疫概率[5bd300]+40%	對自己當前的技能免疫概率[5bd300]+40%	NOTYET
+t_talent_pve_desc2_2015	释放技能免除冷却概率[e4ac01]+20%	釋放技能免除冷卻概率[e4ac01]+20%	NOTYET
+t_talent_pve_desc2_3001	移速[e4ac01]+3000	移速[e4ac01]+3000	NOTYET
+t_talent_pve_desc2_3002	拾取水晶额外积分[e4ac01]+20	拾取水晶額外積分[e4ac01]+20	NOTYET
+t_talent_pve_desc2_3003	物品拾取范围[e4ac01]+20%	物品拾取範圍[e4ac01]+20%	NOTYET
+t_talent_pve_desc2_3004	拾取水晶回复生命[5bd300]+10	拾取水晶回復生命[5bd300]+10	NOTYET
+t_talent_pve_desc2_3005	拾取技能球升2级概率[e4ac01]+10%	拾取技能球升2級概率[e4ac01]+10%	NOTYET
+t_talent_pve_desc2_3006	拾取能力球升2级概率[e4ac01]+10%	拾取能力球升2級概率[e4ac01]+10%	NOTYET
+t_talent_pve_desc2_3007	血瓶回复量[5bd300]+80%	血瓶回復量[5bd300]+80%	NOTYET
+t_talent_pve_desc2_3008	拾取水晶2倍积分概率[e4ac01]+10%	拾取水晶2倍積分概率[e4ac01]+10%	NOTYET
+t_talent_pve_desc2_3009	拾取能力球增加积分[e4ac01]+600	拾取能力球增加積分[e4ac01]+600	NOTYET
+t_talent_pve_desc2_3010	拾取能力雪球回复生命[5bd300]+40	拾取能力雪球回復生命[5bd300]+40	NOTYET
+t_talent_pve_desc2_3011	护盾抵挡伤害次数[5bd300]+2	護盾抵擋傷害次數[5bd300]+2	NOTYET
+t_talent_pve_desc2_3012	每10000积分攻击[ee3b3b]+8	每10000積分攻擊[ee3b3b]+8	NOTYET
+t_talent_pve_desc2_3013	每10000积分生命[5bd300]+40	每10000積分生命[5bd300]+40	NOTYET
+t_talent_pve_desc2_3014	拾取能力雪球获得护盾概率[e4ac01]+40%	拾取能力雪球獲得護盾概率[e4ac01]+40%	NOTYET
+t_talent_pve_desc2_3015	能力雪球最大等级提升[e4ac01]+4	能力雪球最大等級提升[e4ac01]+4	NOTYET
+t_talent_pve_desc3_1001	"攻击[ee3b3b]+2,生命值[5bd300]+10,"	"攻擊[ee3b3b]+2,生命值[5bd300]+10,"	NOTYET
+t_talent_pve_desc3_1002	"攻击[ee3b3b]+12,攻击[ee3b3b]+15%"	"攻擊[ee3b3b]+12,攻擊[ee3b3b]+15%"	NOTYET
+t_talent_pve_desc3_1003	"生命值[5bd300]+60,生命值[5bd300]+15%"	"生命值[5bd300]+60,生命值[5bd300]+15%"	NOTYET
+t_talent_pve_desc3_1004	"攻击[ee3b3b]+12,普通雪球射程[e4ac01]+15000"	"攻擊[ee3b3b]+12,普通雪球射程[e4ac01]+15000"	NOTYET
+t_talent_pve_desc3_1005	"攻击[ee3b3b]+6,生命值[5bd300]+30,移速[e4ac01]+15%"	"攻擊[ee3b3b]+6,生命值[5bd300]+30,移速[e4ac01]+15%"	NOTYET
+t_talent_pve_desc3_1006	"生命值[5bd300]+60,伤害减免[5bd300]+15%"	"生命值[5bd300]+60,傷害減免[5bd300]+15%"	NOTYET
+t_talent_pve_desc3_1007	"攻击[ee3b3b]+12,暴击率[ee3b3b]+15%"	"攻擊[ee3b3b]+12,暴擊率[ee3b3b]+15%"	NOTYET
+t_talent_pve_desc3_1008	"攻击[ee3b3b]+6,生命值[5bd300]+30,无视防御概率[ee3b3b]+60%"	"攻擊[ee3b3b]+6,生命值[5bd300]+30,無視防禦概率[ee3b3b]+60%"	NOTYET
+t_talent_pve_desc3_1009	"攻击[ee3b3b]+6,生命值[5bd300]+30,普通雪球命中回复生命[5bd300]+30"	"攻擊[ee3b3b]+6,生命值[5bd300]+30,普通雪球命中回復生命[5bd300]+30"	NOTYET
+t_talent_pve_desc3_1010	"生命值[5bd300]+60,每秒回复生命[5bd300]+15"	"生命值[5bd300]+60,每秒回復生命[5bd300]+15"	NOTYET
+t_talent_pve_desc3_1011	"攻击[ee3b3b]+24,每击杀一名敌人攻击[ee3b3b]+3"	"攻擊[ee3b3b]+24,每擊殺一名敵人攻擊[ee3b3b]+3"	NOTYET
+t_talent_pve_desc3_1012	"攻击[ee3b3b]+12,生命值[5bd300]+60,每击杀一名敌人生命[5bd300]+15"	"攻擊[ee3b3b]+12,生命值[5bd300]+60,每擊殺一名敵人生命[5bd300]+15"	NOTYET
+t_talent_pve_desc3_1013	"攻击[ee3b3b]+12,生命值[5bd300]+60,触发死亡时，生命变为1，无敌7秒，冷却120秒"	"攻擊[ee3b3b]+12,生命值[5bd300]+60,觸發死亡時，生命變為1，無敵7秒，冷卻120秒"	NOTYET
+t_talent_pve_desc3_1014	"攻击[ee3b3b]+12,生命值[5bd300]+60,免疫控制概率[5bd300]+60%"	"攻擊[ee3b3b]+12,生命值[5bd300]+60,免疫控制概率[5bd300]+60%"	NOTYET
+t_talent_pve_desc3_1015	"生命值[5bd300]+120,免疫普攻概率[5bd300]+30%"	"生命值[5bd300]+120,免疫普攻概率[5bd300]+30%"	NOTYET
+t_talent_pve_desc3_2001	变雪人冷却时间减少[e4ac01]+30%	變雪人冷卻時間減少[e4ac01]+30%	NOTYET
+t_talent_pve_desc3_2002	技能伤害增加[ee3b3b]+15%	技能傷害增加[ee3b3b]+15%	NOTYET
+t_talent_pve_desc3_2003	技能冷却时间减少[e4ac01]+30%	技能冷卻時間減少[e4ac01]+30%	NOTYET
+t_talent_pve_desc3_2004	技能伤害增加[ee3b3b]+15%	技能傷害增加[ee3b3b]+15%	NOTYET
+t_talent_pve_desc3_2005	拾取技能球升2级概率[e4ac01]+60%	拾取技能球升2級概率[e4ac01]+60%	NOTYET
+t_talent_pve_desc3_2006	控制敌人时间延长[ee3b3b]+30%	控制敵人時間延長[ee3b3b]+30%	NOTYET
+t_talent_pve_desc3_2007	技能伤害增加[ee3b3b]+15%	技能傷害增加[ee3b3b]+15%	NOTYET
+t_talent_pve_desc3_2008	攻击与自己拥有相同技能的目标伤害[ee3b3b]+60%	攻擊與自己擁有相同技能的目標傷害[ee3b3b]+60%	NOTYET
+t_talent_pve_desc3_2009	释放技能回复生命[5bd300]+300	釋放技能回復生命[5bd300]+300	NOTYET
+t_talent_pve_desc3_2010	技能冷却期间减伤[5bd300]+24%	技能冷卻期間減傷[5bd300]+24%	NOTYET
+t_talent_pve_desc3_2011	技能伤害增加[ee3b3b]+30%	技能傷害增加[ee3b3b]+30%	NOTYET
+t_talent_pve_desc3_2012	对技能释放者反弹伤害[5bd300]+60%	對技能釋放者反彈傷害[5bd300]+60%	NOTYET
+t_talent_pve_desc3_2013	释放技能回复至满生命值概率[5bd300]+15%	釋放技能回復至滿生命值概率[5bd300]+15%	NOTYET
+t_talent_pve_desc3_2014	对自己当前的技能免疫概率[5bd300]+60%	對自己當前的技能免疫概率[5bd300]+60%	NOTYET
+t_talent_pve_desc3_2015	释放技能免除冷却概率[e4ac01]+30%	釋放技能免除冷卻概率[e4ac01]+30%	NOTYET
+t_talent_pve_desc3_3001	移速[e4ac01]+4500	移速[e4ac01]+4500	NOTYET
+t_talent_pve_desc3_3002	拾取水晶额外积分[e4ac01]+30	拾取水晶額外積分[e4ac01]+30	NOTYET
+t_talent_pve_desc3_3003	物品拾取范围[e4ac01]+30%	物品拾取範圍[e4ac01]+30%	NOTYET
+t_talent_pve_desc3_3004	拾取水晶回复生命[5bd300]+15	拾取水晶回復生命[5bd300]+15	NOTYET
+t_talent_pve_desc3_3005	拾取技能球升2级概率[e4ac01]+15%	拾取技能球升2級概率[e4ac01]+15%	NOTYET
+t_talent_pve_desc3_3006	拾取能力球升2级概率[e4ac01]+15%	拾取能力球升2級概率[e4ac01]+15%	NOTYET
+t_talent_pve_desc3_3007	血瓶回复量[5bd300]+120%	血瓶回復量[5bd300]+120%	NOTYET
+t_talent_pve_desc3_3008	拾取水晶2倍积分概率[e4ac01]+15%	拾取水晶2倍積分概率[e4ac01]+15%	NOTYET
+t_talent_pve_desc3_3009	拾取能力球增加积分[e4ac01]+900	拾取能力球增加積分[e4ac01]+900	NOTYET
+t_talent_pve_desc3_3010	拾取能力雪球回复生命[5bd300]+60	拾取能力雪球回復生命[5bd300]+60	NOTYET
+t_talent_pve_desc3_3011	护盾抵挡伤害次数[5bd300]+3	護盾抵擋傷害次數[5bd300]+3	NOTYET
+t_talent_pve_desc3_3012	每10000积分攻击[ee3b3b]+12	每10000積分攻擊[ee3b3b]+12	NOTYET
+t_talent_pve_desc3_3013	每10000积分生命[5bd300]+60	每10000積分生命[5bd300]+60	NOTYET
+t_talent_pve_desc3_3014	拾取能力雪球获得护盾概率[e4ac01]+60%	拾取能力雪球獲得護盾概率[e4ac01]+60%	NOTYET
+t_talent_pve_desc3_3015	能力雪球最大等级提升[e4ac01]+6	能力雪球最大等級提升[e4ac01]+6	NOTYET
+t_battle_msg_101	集合，速攻雪怪！	集合，速攻雪怪！	Fall in! Attack the Boss!
+t_battle_msg_102	跟着我，带你飞~	跟著我，帶你飛~	Follow me!
+t_battle_msg_103	敌人很强，猥琐发育。	敵人很強，猥瑣發育。	"Enemy is stronger, keep away."
+t_battle_msg_104	救我，我被包围了！	救我，我被包圍了！	"Help me, I am in trouble!"
+t_rank_type_desc_0	账号等级不少于5级	賬號等級不少於5級	Required Lv.5
+t_rank_type_desc_1	成就等级不少于4级（否则显示为0）	成就等級不少於4級（否則顯示為0）	"Required Honor Lv.4, otherwise displayed as 0"
+t_rank_type_desc_2	单场最高得分不少于50000（否则显示为0），不含自嗨模式	單場最高得分不少於50000（否則顯示為0），不含自嗨模式	"Required 50000 score at least in single game to get on the list(Practice not involved), otherwise displayed as 0"
+t_rank_type_desc_3	单场最高击杀数不少于8次（否则显示为0），不含自嗨模式	單場最高擊殺數不少於8次（否則顯示為0），不含自嗨模式	"Kill 8 others at least in single game to get on the list(Practice not involved), otherwise displayed as 0"
+t_rank_type_desc_4	单场连杀数不少于5次（否则显示为0），不含自嗨模式	單場連殺數不少於5次（否則顯示為0），不含自嗨模式	"Kill 5 others at least insistently without death in single game to get on the list(Practice not involved), otherwise displayed as 0"
+t_guide_init_01	欢迎来到新手教程！		"Welcome to the tutorial of PoPo, here we go!"
+t_guide_init_02	点击拖动轮盘移动		Drag the wheel to move your hero
+t_guide_init_03	移动角色到目标点		Move to the destination
+t_guide_init_04	任务:使用普攻命中敌人5次		Mission: Hit the enemy 5 times
+t_guide_init_05	连续点击普攻按钮		Tap the attack button quickly
+t_guide_init_06	长按进行蓄力		Keep pressing the button to charge
+t_guide_init_07	长按普通按钮进行充能，充能完成能大大提升攻击和射程		Charge-attack is more powerful with longer range
+t_guide_init_08	长按进行蓄力		Keep pressing the button to charge
+t_guide_init_09	任务:使用蓄力攻击命中敌人2次		Mission: Hit the enemy 2 times by the charge-attack
+t_guide_init_10	"战场的祭坛定期刷新新技能道具,前往拾取技能道具"		"Magic spell will be called by the altar regularly in battlefield, pick it up"
+t_guide_init_11	"释放道具技能消耗能量,请在战场中收集能量水晶"		"Release a magic spell will expend energy bar, and you can collect the crystal to boost your energy"
+t_guide_init_12	现在有一格能量了 可以释放一级技能		"You have a filled energy bar, try to release the magic spell"
+t_guide_init_13	任务:使用技能命中敌人1次		Mission: Hit the enemy 1 time by the magic spell
+t_guide_init_14	点击释放技能		Tap to release magic spell
+t_guide_init_15	技能为一次性道具，使用后需要重新拾取		"Magic spell is an one-time prop, you have to pick another one to use"
+t_guide_init_16	能量槽越多，释放技能等级越高，威力越大，请收集更多水晶吧		Release a magic spell will expend all of your filled energy bars. Collect more crystal and release the most powerful spell
+t_guide_init_17	任务:使用三级技能命中敌人1次		Mission: Hit the enemy 1 time by the most powerful magic spell 
+t_guide_init_18	点击释放技能		Tap to release magic spell
+t_guide_init_19	冲锋和雪人是每个角色的通用技能，始终消耗一个能量，有各自冷却时间		"Rush and Snowman are initial magic spells for each hero, they both have CD time but expand only one energy bar invariably"
+t_guide_init_20	冲锋：在持续时间内大幅度提升移动速度		Rush: Grant yourself bonus movement speed for 2 seconds
+t_guide_init_21	任务:请在3秒内到达目的地		Mission: Arrive at your destination in 3 seconds
+t_guide_init_22	雪人：在持续时间内免疫一切伤害，并持续回复生命		Snowman: Transfigure yourself into a stationary snowman which can heal itself in an invulnerable state during the duration
+t_guide_init_23	任务:请在7秒内保持存活		Mission: Survive 7 seconds
+t_guide_init_24	再次点击雪人按钮可以结束雪人状态，或等到持续时间结束自动解除		"Tap the snowman button again to transfigure yourself back, or you can wait the duration is over"
+t_guide_init_25	战场会定时刷新雪怪，雪怪被击败会掉落大量资源，请尽快前往		"The boss will appear regularly, it will provide massive battle resource after being killed. Follow the lead and finish it!"
+t_guide_init_26	任务:击败雪怪（雪怪免疫技能伤害）		Mission: Kill the boss (Boss cannot be harmed by magic spells)
+t_guide_init_27	点击查看强力buff，翅膀持有者死亡后会传递给击杀者		Tap the buff icon to view the wing's ability. The wing can be robbed through killing the last carrier
+t_guide_init_28	你已完成所有教程，现在开始实战训练吧		All tutorials complete. Let's begin an actual combat!
+t_guide_init_29	点击图标学习天赋		Tap an icon to unlock an ability
+t_guide_init_30	拾取水晶同时增加经验，每次升级获得一次天赋加点机会		"Picking the crystal can also increase your exp, you have a chance to unlock an ability each time you level up"
+t_penguin_name_2001	小豆豆	小豆豆	Wendy
+t_penguin_name_2002	小豆豆	小豆豆	Wendy
+t_penguin_name_2003	小豆豆	小豆豆	Wendy
+t_penguin_name_2004	小豆豆	小豆豆	Wendy
+t_penguin_name_2005	小豆豆	小豆豆	Wendy
+t_penguin_name_2006	豆豆	豆豆	Tracy
+t_penguin_name_2007	豆豆	豆豆	Tracy
+t_penguin_name_2008	豆豆	豆豆	Tracy
+t_penguin_name_2009	豆豆	豆豆	Tracy
+t_penguin_name_2010	豆豆	豆豆	Tracy
+t_penguin_name_2011	大豆豆	大豆豆	Cathy
+t_penguin_name_2012	大豆豆	大豆豆	Cathy
+t_penguin_name_2013	大豆豆	大豆豆	Cathy
+t_penguin_name_2014	大豆豆	大豆豆	Cathy
+t_penguin_name_2015	大豆豆	大豆豆	Cathy
+t_boss_attr_name_10001	雪怪	雪怪	Boss
+t_boss_attr_name_10002	雪怪	雪怪	Boss
+t_boss_attr_name_10003	雪怪	雪怪	Boss
+t_boss_attr_name_10004	雪怪	雪怪	Boss
+t_boss_attr_name_10005	雪怪	雪怪	Boss

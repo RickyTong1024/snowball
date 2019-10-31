@@ -1,0 +1,91 @@
+syntax = "proto2";
+import "battle_his.proto";
+
+package protocol.game;
+
+message msg_battle_player_info
+{
+	required uint64 guid		= 1;
+	required string name		= 2;
+	required int32 role_id		= 3;
+	required int32 role_level	= 4;
+	required int32 sex			= 5;
+	required int32 avatar		= 6;
+	required int32 toukuang		= 8;
+	repeated int32 fashion		= 9;
+	required int32 region_id	= 10;
+	required int32 cup			= 11;
+	repeated int32 attr_type	= 14;
+	repeated int32 attr_param1	= 15;
+	repeated int32 attr_param2	= 16;
+	repeated int32 attr_param3	= 17;
+	optional int32 camp			= 18;
+	required int32 name_color	= 19;
+}
+
+message req_rc_rm_create_room
+{
+	required uint64 battle_guid		= 1;
+	required int32 battle_type		= 2;
+}
+
+message rep_rc_rm_create_room
+{
+	required string udp_ip			= 1;
+	required int32 udp_port			= 2;
+	required string tcp_ip			= 3;
+	required int32 tcp_port			= 4;
+}
+
+message push_rc_rm_set_player_room
+{
+	required uint64 guid			= 1;
+	required uint64 battle_guid		= 2;
+	required string code			= 3;
+	required msg_battle_player_info player	= 4;
+}
+
+message push_rm_rc_battle_end
+{
+	required uint64 battle_guid		= 1;
+	required bytes result			= 2;
+}
+
+message push_r_rm_created
+{
+	required uint64 battle_guid		= 1;
+}
+
+message push_rc_hall_battle_end
+{
+	required int32 type				= 1;
+	repeated uint64 guids			= 2;
+	required bytes result			= 3;
+}
+
+message smsg_battle_end
+{
+	required int32 box_id			= 1;
+	optional dhc.battle_his_t	battle_his	= 2;
+	required int32 gold				= 3;
+	required int32 exp				= 4;
+	required int32 cup				= 5;
+}
+
+message cmsg_offline_battle
+{
+	required int32 fight		= 1;
+}
+
+message cmsg_offline_battle_end
+{
+	required int32 rank			= 1;
+}
+
+message smsg_offline_battle_end
+{
+	required int32 box_id			= 1;
+	required int32 gold				= 2;
+	required int32 exp				= 3;
+	required int32 cup				= 4;
+}

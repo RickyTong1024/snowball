@@ -1,0 +1,9 @@
+INT	STRING	STRING	INT	INT	INT	INT
+id	天数	day	type	value1	value2	value3
+1	第一天	t_sign_name_1	1	1	88	
+2	第二天	t_sign_name_2	1	2	18	
+3	第三天	t_sign_name_3	1	4	20	
+4	第四天	t_sign_name_4	2	30010003	1	
+5	第五天	t_sign_name_5	1	2	28	
+6	第六天	t_sign_name_6	2	50010001	1	
+7	第七天	t_sign_name_7	2	30010004	1	

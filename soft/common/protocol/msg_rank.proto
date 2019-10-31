@@ -1,0 +1,39 @@
+syntax = "proto2";
+import "rank.proto";
+
+package protocol.game;
+
+message push_hall_rank_update
+{
+	required int32 id					= 1;
+	required uint64 player_guid			= 2;
+	required string name				= 3;
+	required int32  sex					= 4;
+	required int32  level				= 5;
+	required int32 avatar        	    = 6;
+	required int32 toukuang				= 7;
+	required int32 region_id			= 8;
+	required int32 name_color			= 9;
+	required int32	value				= 10;
+}
+
+message push_rank_hall_cache
+{
+	repeated int32 id			= 1;
+	repeated dhc.rank_t ranks	= 2;
+}
+
+message cmsg_rank
+{
+	required int32	id	= 1;
+}
+
+message smsg_rank
+{
+	required dhc.rank_t rank	= 1;
+}
+
+message push_hall_rank_forbidden
+{
+	required uint64 guid	= 1;
+}

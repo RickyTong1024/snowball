@@ -1,0 +1,52 @@
+{"frames": {
+
+"guangxian.png":
+{
+	"frame": {"x":531,"y":2,"w":316,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":25},
+	"sourceSize": {"w":316,"h":25}
+},
+"xjldb_001.png":
+{
+	"frame": {"x":849,"y":2,"w":143,"h":277},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":277},
+	"sourceSize": {"w":143,"h":277}
+},
+"xjldb_002.png":
+{
+	"frame": {"x":2,"y":2,"w":527,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":527,"h":81},
+	"sourceSize": {"w":527,"h":81}
+},
+"xjldb_003.png":
+{
+	"frame": {"x":531,"y":29,"w":262,"h":354},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":262,"h":354},
+	"sourceSize": {"w":264,"h":356}
+},
+"xjldb_004.png":
+{
+	"frame": {"x":795,"y":281,"w":176,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":305},
+	"sourceSize": {"w":176,"h":305}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "GainPanel.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1e83f5e40e101e0e9d0a3d6d43669edc:1/1$"
+}
+}

@@ -1,0 +1,32 @@
+syntax = "proto2";
+package protocol.game;
+
+message msg_name_list {
+	required string name	= 1;
+	repeated uint64 guids	= 2;
+}
+
+message msg_name_player {
+	optional uint64 guid				= 1;
+	optional string name				= 2;
+	optional int32	sex					= 3;
+	optional int32 level				= 4;
+	optional int32 cup					= 5;
+	optional int32 avatar_on        	= 7;
+	optional int32 toukuang_on        	= 8;
+	optional int32 region_id	      	= 9;
+	optional int32 name_color			= 10;
+}
+
+message push_hall_name_insert {
+	required uint64 guid	= 1;
+	required string name	= 2;
+}
+
+message req_social_name_search {
+	required string name	= 1;
+}
+
+message rep_social_name_search {
+	repeated msg_name_player players	= 1;
+}

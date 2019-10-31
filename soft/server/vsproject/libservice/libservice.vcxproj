@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\src\libservice\dbc.h" />
+    <ClInclude Include="..\..\src\libservice\dfa_algorith.h" />
+    <ClInclude Include="..\..\src\libservice\dhc.h" />
+    <ClInclude Include="..\..\src\libservice\gtool.h" />
+    <ClInclude Include="..\..\src\libservice\leak.h" />
+    <ClInclude Include="..\..\src\libservice\log.h" />
+    <ClInclude Include="..\..\src\libservice\logic_service.h" />
+    <ClInclude Include="..\..\src\libservice\packet.h" />
+    <ClInclude Include="..\..\src\libservice\pool.h" />
+    <ClInclude Include="..\..\src\libservice\rpc.pb.h" />
+    <ClInclude Include="..\..\src\libservice\rpc_client.h" />
+    <ClInclude Include="..\..\src\libservice\rpc_server.h" />
+    <ClInclude Include="..\..\src\libservice\rpc_service.h" />
+    <ClInclude Include="..\..\src\libservice\scheme.h" />
+    <ClInclude Include="..\..\src\libservice\server_env.h" />
+    <ClInclude Include="..\..\src\libservice\service.h" />
+    <ClInclude Include="..\..\src\libservice\service_inc.h" />
+    <ClInclude Include="..\..\src\libservice\service_interface.h" />
+    <ClInclude Include="..\..\src\libservice\sig.h" />
+    <ClInclude Include="..\..\src\libservice\singleton.h" />
+    <ClInclude Include="..\..\src\libservice\tcp_handler.h" />
+    <ClInclude Include="..\..\src\libservice\tcp_service.h" />
+    <ClInclude Include="..\..\src\libservice\timer.h" />
+    <ClInclude Include="..\..\src\libservice\tpacket.h" />
+    <ClInclude Include="..\..\src\libservice\typedefs.h" />
+    <ClInclude Include="..\..\src\libservice\udp_handler.h" />
+    <ClInclude Include="..\..\src\libservice\udp_service.h" />
+    <ClInclude Include="..\..\src\libservice\utils.h" />
+    <ClInclude Include="..\..\src\libservice\windumper.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\src\libservice\dbc.cpp" />
+    <ClCompile Include="..\..\src\libservice\dfa_algorith.cpp" />
+    <ClCompile Include="..\..\src\libservice\dhc.cpp" />
+    <ClCompile Include="..\..\src\libservice\gtool.cpp" />
+    <ClCompile Include="..\..\src\libservice\log.cpp" />
+    <ClCompile Include="..\..\src\libservice\logic_service.cpp" />
+    <ClCompile Include="..\..\src\libservice\packet.cpp" />
+    <ClCompile Include="..\..\src\libservice\pool.cpp" />
+    <ClCompile Include="..\..\src\libservice\rpc.pb.cc" />
+    <ClCompile Include="..\..\src\libservice\rpc_client.cpp" />
+    <ClCompile Include="..\..\src\libservice\rpc_server.cpp" />
+    <ClCompile Include="..\..\src\libservice\rpc_service.cpp" />
+    <ClCompile Include="..\..\src\libservice\scheme.cpp" />
+    <ClCompile Include="..\..\src\libservice\server_env.cpp" />
+    <ClCompile Include="..\..\src\libservice\service.cpp" />
+    <ClCompile Include="..\..\src\libservice\sig.cpp" />
+    <ClCompile Include="..\..\src\libservice\tcp_handler.cpp" />
+    <ClCompile Include="..\..\src\libservice\tcp_service.cpp" />
+    <ClCompile Include="..\..\src\libservice\timer.cpp" />
+    <ClCompile Include="..\..\src\libservice\tpacket.cpp" />
+    <ClCompile Include="..\..\src\libservice\udp_handler.cpp" />
+    <ClCompile Include="..\..\src\libservice\udp_service.cpp" />
+    <ClCompile Include="..\..\src\libservice\utils.cpp" />
+    <ClCompile Include="..\..\src\libservice\windumper.cpp" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{EEC4324E-75BB-4E1A-AE33-5E766F535E2A}</ProjectGuid>
+    <ProjectName>libservice</ProjectName>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>NotSet</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>NotSet</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>NotSet</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>$(IncludePath)</IncludePath>
+    <LibraryPath>$(LibraryPath)</LibraryPath>
+    <IntDir>.\Debug\</IntDir>
+    <OutDir>..\..\libs\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>$(IncludePath)</IncludePath>
+    <LibraryPath>$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>..\..\libs\</OutDir>
+    <IntDir>.\Release\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;ZLIB_WINAPI;ASMV;ASMINF;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(ACE_ROOT);$(BOOST_ROOT);$(PROTOBUF_ROOT)\src;$(MYSQLPP_ROOT)\lib;$(MYSQL_ROOT)\include;$(RAKNET_ROOT)\source;$(ZLIB_ROOT);$(ZMQ_ROOT)\include</AdditionalIncludeDirectories>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <Lib>
+      <AdditionalDependencies>libzmqd.lib;raknetd.lib;aced.lib;mysqlppd.lib;libprotobufd.lib;zlibd.lib</AdditionalDependencies>
+    </Lib>
+    <Lib>
+      <AdditionalLibraryDirectories>..\..\libs;$(BOOST_ROOT)\stage\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <OutputFile>$(OutDir)$(TargetName)d$(TargetExt)</OutputFile>
+    </Lib>
+    <ProjectReference>
+      <LinkLibraryDependencies>true</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(MYSQL_ROOT)\include;..\..\deps\mysql++;..\..\deps\zlib;..\..\deps\protobuf;..\..\deps\zmq;$(BOOST_ROOT);$(ACE_ROOT);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <Lib>
+      <AdditionalDependencies>libprotobuf.lib;libzmq.lib;aced.lib;zlib.lib;mysqlpp.lib</AdditionalDependencies>
+    </Lib>
+    <Lib>
+      <AdditionalLibraryDirectories>..\..\libs;$(BOOST_ROOT)\stage\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+    </Lib>
+    <ProjectReference>
+      <LinkLibraryDependencies>true</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(MYSQL_ROOT)\include;..\..\deps\mysql++;..\..\deps\zlib;..\..\deps\zmq;..\..\deps\protobuf;$(BOOST_ROOT);$(ACE_ROOT);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+    <Lib>
+      <AdditionalDependencies>libprotobuf.lib;libzmq.lib;aced.lib;zlib.lib;mysqlpp.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>..\..\libs;$(BOOST_ROOT)\stage\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

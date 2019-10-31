@@ -1,0 +1,266 @@
+syntax = "proto2";
+import "msg_battle.proto";
+
+package protocol.game;
+
+message req_hall_rc_single_battle
+{
+	required msg_battle_player_info player	= 1;
+}
+
+message rep_hall_rc_single_battle
+{
+	required string udp_ip			= 1;
+	required int32 udp_port			= 2;
+	required string tcp_ip			= 3;
+	required int32 tcp_port			= 4;
+	required string code		= 5;
+	required int32 is_new		= 6;
+}
+
+message smsg_single_battle
+{
+	required string udp_ip			= 1;
+	required int32 udp_port			= 2;
+	required string tcp_ip			= 3;
+	required int32 tcp_port			= 4;
+	required string code	= 5;
+	required int32 is_new	= 6;
+}
+
+message req_team_rc_multi_battle
+{
+	required int32 team_id		= 1;
+	repeated msg_battle_player_info player	= 2;
+}
+
+message rep_team_rc_multi_battle
+{
+	required string udp_ip			= 1;
+	required int32 udp_port			= 2;
+	required string tcp_ip			= 3;
+	required int32 tcp_port			= 4;
+	repeated uint64 guid		= 5;
+	repeated string code		= 6;
+}
+
+message smsg_multi_battle
+{
+	required string udp_ip			= 1;
+	required int32 udp_port			= 2;
+	required string tcp_ip			= 3;
+	required int32 tcp_port			= 4;
+	required string code	= 5;
+	required int32 num		= 6;
+}
+
+message smsg_has_battle
+{
+	required string udp_ip			= 1;
+	required int32 udp_port			= 2;
+	required string tcp_ip			= 3;
+	required int32 tcp_port			= 4;
+	required string code	= 5;
+}
+
+message req_hall_rc_has_battle
+{
+	required uint64 guid		= 1;
+}
+
+message rep_hall_rc_has_battle
+{
+	required int32 is_new		= 1;
+	required string udp_ip			= 2;
+	required int32 udp_port			= 3;
+	required string tcp_ip			= 4;
+	required int32 tcp_port			= 5;
+	required string code		= 6;
+}
+
+message msg_team_player
+{
+	required uint64 guid			= 1;
+	required string name			= 2;
+	required int32 sex				= 3;
+	required int32 avatar			= 4;
+	required int32 toukuang			= 6;
+	required int32 cup				= 7;
+	required int32 name_color		= 8;
+}
+
+message msg_team_member
+{
+	required int32 member_type		= 1;
+	required msg_battle_player_info	player		= 2;
+}
+
+message msg_team
+{
+	required int32 team_id			= 1;
+	repeated msg_team_member member		= 2;
+}
+
+message push_team_hall_error
+{
+	required uint64 player_guid		= 1;
+	required int32 code				= 2;
+	optional string text			= 3;
+}
+
+message push_hall_team_create
+{
+	required msg_battle_player_info player	= 1;
+}
+
+message push_team_hall_create
+{
+	required uint64 player_guid		= 1;
+	required msg_team team			= 2;
+}
+
+message smsg_team_create
+{
+	required msg_team team			= 1;
+}
+
+message smsg_team_tuijian
+{
+	repeated msg_team_player players	= 1;
+}
+
+message cmsg_team_join
+{
+	required uint64 player_guid		= 1;
+}
+
+message push_hall_team_join
+{
+	required uint64 player_guid				= 1;
+	required msg_battle_player_info player	= 2;
+}
+
+message push_team_hall_join
+{
+	required uint64 player_guid		= 1;
+	required msg_team team			= 2;
+}
+
+message smsg_team_join
+{
+	required msg_team team			= 1;
+}
+
+message push_team_hall_other_join
+{
+	repeated uint64 guids	= 1;
+	required msg_team_member member	= 2;
+}
+
+message smsg_team_other_join
+{
+	required msg_team_member member	= 1;
+}
+
+message push_hall_team_exit
+{
+	required uint64 player_guid		= 1;
+	required int32 mauto			= 2;
+}
+
+message push_team_hall_exit
+{
+	repeated uint64 guids			= 1;
+	required uint64 leader_guid		= 2;
+	required uint64 player_guid		= 3;
+}
+
+message smsg_team_exit
+{
+	required uint64 leader_guid		= 1;
+	required uint64 player_guid		= 2;
+}
+
+message cmsg_team_kick
+{
+	required uint64 target_guid		= 1;
+}
+
+message push_hall_team_kick
+{
+	required uint64 player_guid		= 1;
+	required uint64 target_guid		= 2;
+}
+
+message push_team_hall_kick
+{
+	repeated uint64 guids			= 1;
+	required uint64 player_guid		= 2;
+}
+
+message smsg_team_kick
+{
+	required uint64 player_guid		= 1;
+}
+
+message cmsg_team_invert
+{
+	required uint64 target_guid		= 1;
+}
+
+message push_hall_team_invert
+{
+	required uint64 player_guid		= 1;
+	required uint64 target_guid		= 2;
+}
+
+message push_team_hall_invert
+{
+	required uint64 target_guid		= 1;
+	required msg_team_player player	= 2;
+}
+
+message smsg_team_invert
+{
+	required msg_team_player player	= 1;
+}
+
+message cmsg_team_chat
+{
+	required string text			= 1;
+}
+
+message push_hall_team_chat
+{
+	required uint64 player_guid		= 1;
+	required string text			= 2;
+}
+
+message push_team_hall_chat
+{
+	repeated uint64 guids			= 1;
+	required uint64 player_guid		= 2;
+	required string text			= 3;
+}
+
+message smsg_team_chat
+{
+	required uint64 player_guid		= 1;
+	required string text			= 2;
+}
+
+message push_hall_team_multi_battle
+{
+	required uint64 player_guid		= 1;
+}
+
+message push_team_hall_multi_battle
+{
+	repeated uint64 guids		= 1;
+	required string udp_ip			= 2;
+	required int32 udp_port			= 3;
+	required string tcp_ip			= 4;
+	required int32 tcp_port			= 5;
+	repeated string code		= 6;
+	required int32 num			= 7;
+}

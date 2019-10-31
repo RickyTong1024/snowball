@@ -1,0 +1,36 @@
+{"frames": {
+
+"zdmsxz_001.png":
+{
+	"frame": {"x":2,"y":448,"w":281,"h":444},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":444},
+	"sourceSize": {"w":315,"h":444}
+},
+"zdmsxz_002.png":
+{
+	"frame": {"x":2,"y":2,"w":315,"h":444},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":315,"h":444},
+	"sourceSize": {"w":315,"h":444}
+},
+"zdmsxz_003.png":
+{
+	"frame": {"x":285,"y":448,"w":275,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":20,"w":275,"h":424},
+	"sourceSize": {"w":315,"h":444}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "ModePanel.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:31b864838b5e707443912ef9dc2da92e$"
+}
+}

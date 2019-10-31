@@ -1,0 +1,234 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Boss_MadScientist_skill01_hit02
+  m_Shader: {fileID: 4800000, guid: 20592a0dc94f1d243927c510191e0876, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Tex01
+        second:
+          m_Texture: {fileID: 2800000, guid: f07f6c223aa93fc4e9b22cd13e73ea52, type: 3}
+          m_Scale: {x: 1, y: .800000012}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Tex02
+        second:
+          m_Texture: {fileID: 2800000, guid: 29a675bf1f350774f93de9f6ed5cb66e, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _alpha
+        second:
+          m_Texture: {fileID: 2800000, guid: e1b17716d8f071348852dbbf8c73b461, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Mask
+        second:
+          m_Texture: {fileID: 2800000, guid: 2c736c8dfbbd181418f219f2538f8dfa, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _T01
+        second:
+          m_Texture: {fileID: 2800000, guid: f07f6c223aa93fc4e9b22cd13e73ea52, type: 3}
+          m_Scale: {x: 1, y: .800000012}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _niuqu
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _T02
+        second:
+          m_Texture: {fileID: 2800000, guid: 897cb943bad335f438b6a81292e7f28a, type: 3}
+          m_Scale: {x: 1, y: .100000001}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DisT01
+        second:
+          m_Texture: {fileID: 2800000, guid: b3196f3751355b046b33e95ca89ba335, type: 3}
+          m_Scale: {x: 10, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MaskAlpha
+        second:
+          m_Texture: {fileID: 2800000, guid: e1b17716d8f071348852dbbf8c73b461, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _mask01
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _niuqu_T01
+        second:
+          m_Texture: {fileID: 2800000, guid: 2c7ac9bf84de5814895a74fc98585000, type: 3}
+          m_Scale: {x: 1, y: .5}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _T01Dis
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _FrontTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BackTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _LeftTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _RightTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _UpTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DownTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Cutoff
+        second: .5
+      data:
+        first:
+          name: _RimPow
+        second: 2
+      data:
+        first:
+          name: _Tex_power
+        second: 1
+      data:
+        first:
+          name: _niuqudu
+        second: .200000003
+      data:
+        first:
+          name: _niuqu_sudu
+        second: -2
+      data:
+        first:
+          name: _PanY_T02
+        second: 1
+      data:
+        first:
+          name: _PanY_DisT01
+        second: -.5
+      data:
+        first:
+          name: _DisT01Power
+        second: .200000003
+      data:
+        first:
+          name: _IntensityA
+        second: 1
+      data:
+        first:
+          name: _T02_sudu
+        second: 0
+      data:
+        first:
+          name: _Intensity
+        second: 1.5
+      data:
+        first:
+          name: _uvpan_t02
+        second: -3
+      data:
+        first:
+          name: _T01DisPower
+        second: 0
+      data:
+        first:
+          name: _PanY_T01Dis
+        second: 1
+      data:
+        first:
+          name: _Rim
+        second: 2
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _RimColor
+        second: {r: .0220588446, g: .0220588446, b: .0220588446, a: 1}
+      data:
+        first:
+          name: _Color_T01
+        second: {r: 0, g: .373833567, b: .558823526, a: 1}
+      data:
+        first:
+          name: _Color_T02
+        second: {r: 0, g: .751724005, b: 1, a: 1}
+      data:
+        first:
+          name: _Color_Rim
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _Color_alpha
+        second: {r: 1, g: 1, b: 1, a: 1}

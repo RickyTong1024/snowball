@@ -1,0 +1,84 @@
+{"frames": {
+
+"snow_ball01.png":
+{
+	"frame": {"x":426,"y":292,"w":205,"h":268},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":2,"w":205,"h":268},
+	"sourceSize": {"w":215,"h":316}
+},
+"snow_ball02.png":
+{
+	"frame": {"x":420,"y":596,"w":209,"h":286},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":9,"w":209,"h":286},
+	"sourceSize": {"w":215,"h":316}
+},
+"snow_ball03.png":
+{
+	"frame": {"x":2,"y":638,"w":203,"h":316},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":203,"h":316},
+	"sourceSize": {"w":215,"h":316}
+},
+"snow_ball04.png":
+{
+	"frame": {"x":207,"y":638,"w":211,"h":296},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":211,"h":296},
+	"sourceSize": {"w":215,"h":316}
+},
+"snow_ball05.png":
+{
+	"frame": {"x":420,"y":2,"w":209,"h":288},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":209,"h":288},
+	"sourceSize": {"w":215,"h":316}
+},
+"snow_ball06.png":
+{
+	"frame": {"x":215,"y":300,"w":209,"h":294},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":209,"h":294},
+	"sourceSize": {"w":215,"h":316}
+},
+"snow_ball07.png":
+{
+	"frame": {"x":215,"y":2,"w":203,"h":296},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":203,"h":296},
+	"sourceSize": {"w":215,"h":316}
+},
+"snow_ball08.png":
+{
+	"frame": {"x":2,"y":320,"w":211,"h":316},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":211,"h":316},
+	"sourceSize": {"w":215,"h":316}
+},
+"snow_ball09.png":
+{
+	"frame": {"x":2,"y":2,"w":211,"h":316},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":211,"h":316},
+	"sourceSize": {"w":215,"h":316}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "HallEffect.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a5eecd3fd453d6756339640d51e85acf$"
+}
+}

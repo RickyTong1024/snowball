@@ -1,0 +1,12 @@
+syntax = "proto2";
+package dhc;
+
+message social_list_t {
+	optional uint64 guid					= 1;
+	repeated uint64 player_guids			= 2;
+	repeated uint64 player_times			= 3;
+	
+	repeated uint64 player_bgift_guids		= 4;
+	repeated int32	player_bgift_nums		= 5;
+	optional uint64 gold_refresh_time		= 6;
+}

@@ -1,0 +1,24 @@
+syntax = "proto2";
+package dhc;
+
+//using datetime
+
+message battle_result_t {
+	optional uint64 guid			= 1;
+	optional int32 type				= 2;
+	repeated uint64 player_guids	= 3;
+	repeated string names			= 4;
+	repeated int32 role_ids			= 5;
+	repeated int32 sexs				= 6;
+	repeated int32 avatars			= 7;
+	repeated int32 ranks			= 9;
+	repeated int32 shas				= 10;
+	repeated int32 lshas			= 11;
+	repeated int32 dies				= 12;
+	repeated int32 scores			= 13;
+	repeated int32 cups				= 14;
+	repeated int32 cup_adds			= 15;
+	repeated int32 achieves			= 16;
+	repeated int32 use_skills		= 17;
+	repeated int32 use_tanlents		= 18;
+}

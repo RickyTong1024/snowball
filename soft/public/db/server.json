@@ -1,0 +1,91 @@
+{
+	"server": {
+		"connect": [
+			{"id":"connect","host":"172.16.12.53","port":3601,"tcp_host":"47.99.214.213","tcp_port":13601,"reactor":"epoll"}
+		],
+		"login": [
+			{"id":"login1","host":"172.16.12.53","port":3801}
+		],
+		"gate": [
+			{"id":"gate1","host":"172.16.12.53","port":3701,"tcp_host":"47.99.214.213","tcp_port":13701,"reactor":"epoll"},
+			{"id":"gate2","host":"172.16.12.53","port":3702,"tcp_host":"47.99.214.213","tcp_port":13702,"reactor":"epoll"},
+			{"id":"gate3","host":"172.16.12.53","port":3703,"tcp_host":"47.99.214.213","tcp_port":13703,"reactor":"epoll"},
+			{"id":"gate4","host":"172.16.12.53","port":3704,"tcp_host":"47.99.214.213","tcp_port":13704,"reactor":"epoll"}
+		],
+		"hall": [
+			{"id":"hall1","host":"172.16.12.53","port":3901},
+			{"id":"hall2","host":"172.16.12.53","port":3902},
+			{"id":"hall3","host":"172.16.12.53","port":3903},
+			{"id":"hall4","host":"172.16.12.53","port":3904}
+		],
+		"center": [
+			{"id":"center","host":"172.16.12.53","port":4001}
+		],
+		"room_center": [
+			{"id":"room_center","host":"172.16.12.53","port":4101}
+		],
+		"room_master": [
+			{"id":"room_master1","host":"172.16.12.52","port":4201,"room_host":"47.99.166.61"}
+		],
+		"back_pipe": [
+			{"id":"back_pipe1","host":"172.16.12.53","port":4301}
+		],
+		"login_pipe": [
+			{"id":"login_pipe1","host":"172.16.12.53","port":4401}
+		],
+		"libao_pipe": [
+			{"id":"libao_pipe1","host":"172.16.12.53","port":4501}
+		],
+		"recharge_pipe": [
+			{"id":"recharge_pipe1","host":"172.16.12.53","port":4601}
+		],
+		"team": [
+			{"id":"team","host":"172.16.12.53","port":4701}
+		],
+		"name": [
+			{"id":"name","host":"172.16.12.53","port":4801}
+		],
+		"social": [
+			{"id":"social","host":"172.16.12.53","port":4901}
+		],
+		"rank": [
+			{"id":"rank","host":"172.16.12.53","port":5001}
+		]
+	},
+	"db" : {
+		"snowball_gtool": [
+			{"id":"snowball_gtool","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_gtool","port":3306}
+		],
+		"snowball_account": [
+			{"id":"snowball_account","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_account","port":3306}
+		],
+		"snowball_battle": [
+			{"id":"snowball_battle","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_battle","port":3306}
+		],
+		"snowball_player": [
+			{"id":"snowball_player1","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_player1","port":3306},
+			{"id":"snowball_player2","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_player2","port":3306},
+			{"id":"snowball_player3","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_player3","port":3306},
+			{"id":"snowball_player4","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_player4","port":3306},
+			{"id":"snowball_player5","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_player5","port":3306},
+			{"id":"snowball_player6","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_player6","port":3306},
+			{"id":"snowball_player7","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_player7","port":3306},
+			{"id":"snowball_player8","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_player8","port":3306},
+			{"id":"snowball_player9","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_player9","port":3306},
+			{"id":"snowball_player10","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_player10","port":3306},
+			{"id":"snowball_player11","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_player11","port":3306},
+			{"id":"snowball_player12","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_player12","port":3306},
+			{"id":"snowball_player13","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_player13","port":3306},
+			{"id":"snowball_player14","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_player14","port":3306},
+			{"id":"snowball_player15","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_player15","port":3306},
+			{"id":"snowball_player16","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_player16","port":3306},
+			{"id":"snowball_player17","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_player17","port":3306},
+			{"id":"snowball_player18","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_player18","port":3306},
+			{"id":"snowball_player19","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_player19","port":3306},
+			{"id":"snowball_player20","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_player20","port":3306}
+		],
+		"snowball_social": [
+			{"id":"snowball_social","host":"172.16.12.53","username":"root","password":"1qaz2wsx@39299911","db":"snowball_social","port":3306}
+		]
+	}
+}

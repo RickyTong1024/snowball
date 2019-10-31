@@ -1,0 +1,35 @@
+syntax = "proto2";
+import "acc.proto";
+
+package protocol.game;
+
+message cmsg_login
+{
+	required string username	= 1;
+	required string password	= 2;
+	required string pt 			= 3;
+}
+
+message smsg_login
+{
+	required dhc.acc_t acc		= 1;
+	optional int32 code			= 2;
+}
+
+message cmsg_switch_account
+{
+	required string username	= 1;
+	required string password	= 2;
+}
+
+message cmsg_perfect_account
+{
+	required string username	= 1;
+	required string password	= 2;
+}
+
+message cmsg_relogin_player
+{
+	required uint64 guid		= 1;
+	required int32 code			= 2;
+}

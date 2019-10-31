@@ -1,0 +1,102 @@
+INT	STRING	STRING	STRING	INT	INT	INT
+ID	属性说明	属性描述	属性描述lang	异常状态	ICON1	ICON2
+1	生命	生命 +{N1}	t_battle_attr_desc_1			
+2	生命百分比	生命 +{N1}%	t_battle_attr_desc_2			
+3	攻击	攻击 +{N1}	t_battle_attr_desc_3			
+4	攻击百分比	攻击 +{N1}%	t_battle_attr_desc_4			
+5	防御	防御 +{N1}	t_battle_attr_desc_5			
+6	防御百分比	防御 +{N1}%	t_battle_attr_desc_6			
+7	移速	移速 +{N1}	t_battle_attr_desc_7			
+8	移速百分比	移速 +{N1}%	t_battle_attr_desc_8	2	js_01	js_02
+9	暴击百分比	暴击率 +{N1}%	t_battle_attr_desc_9			
+10	每秒回血	每秒回复生命 +{N1}	t_battle_attr_desc_10			
+11	每秒回血百分比	每秒回复生命 +{N1}%	t_battle_attr_desc_11			
+12	射程	普通雪球射程 +{N1}	t_battle_attr_desc_12			
+13	射程百分比	普通雪球射程 +{N1}%	t_battle_attr_desc_13			
+14	增伤百分比	对敌人造成伤害 +{N1}%	t_battle_attr_desc_14			
+15	减伤百分比	伤害减免 +{N1}%	t_battle_attr_desc_15			
+16	技能增伤百分比	技能伤害增加 +{N1}%	t_battle_attr_desc_16			
+17	技能减伤百分比	对技能减伤 +{N1}%	t_battle_attr_desc_17			
+18	无视防御概率	无视防御概率 +{N1}%	t_battle_attr_desc_18			
+19	杀敌回血	击杀回复生命 +{N1}	t_battle_attr_desc_19			
+20	杀敌回血百分比	击杀回复生命 +{N1}%	t_battle_attr_desc_20			
+21	免疫负面buff概率	免疫控制概率 +{N1}%	t_battle_attr_desc_21			
+22	免疫普攻概率	免疫普攻概率 +{N1}%	t_battle_attr_desc_22			
+23	技能冷却减少百分比	技能冷却时间减少 +{N1}%	t_battle_attr_desc_23			
+24	变雪人冷却减少百分比	变雪人冷却时间减少 +{N1}%	t_battle_attr_desc_24			
+25	buff时间延长百分比	控制敌人时间延长 +{N1}%	t_battle_attr_desc_25			
+26	释放技能回血	释放技能回复生命 +{N1}	t_battle_attr_desc_26			
+27	释放技能回满血概率	释放技能回复至满生命值概率 +{N1}%	t_battle_attr_desc_27			
+28	技能冷却期间减伤百分比	技能冷却期间减伤 +{N1}%	t_battle_attr_desc_28			
+29	技能命中反弹百分比	对技能释放者反弹伤害 +{N1}%	t_battle_attr_desc_29			
+30	释放技能不计算冷却概率	释放技能免除冷却概率 +{N1}%	t_battle_attr_desc_30			
+31	拾取水晶额外增加积分	拾取水晶额外积分 +{N1}	t_battle_attr_desc_31			
+32	拾取水晶额外增加积分百分比	拾取水晶额外积分 +{N1}%	t_battle_attr_desc_32			
+33	物品吸附范围百分比	物品拾取范围 +{N1}%	t_battle_attr_desc_33			
+34	拾取水晶回血	拾取水晶回复生命 +{N1}	t_battle_attr_desc_34			
+35	血瓶回复量百分比	血瓶回复量 +{N1}%	t_battle_attr_desc_35			
+36	拾取能力球增加积分	拾取能力球增加积分 +{N1}	t_battle_attr_desc_36			
+37	能力球最大等级	能力雪球最大等级提升 +{N1}	t_battle_attr_desc_37			
+38	死亡后保留积分百分比	死亡后积分保留 +{N1}%	t_battle_attr_desc_38			
+39	普攻吸血百分比	普攻生命偷取 +{N1}%	t_battle_attr_desc_39			
+40	技能吸血百分比	技能生命偷取 +{N1}%	t_battle_attr_desc_40			
+41	每损失20%生命攻击增加百分比	每损失20%生命攻击增加 +{N1}%	t_battle_attr_desc_41			
+42	技能每飞行1米增加伤害百分比	技能每飞行1米伤害增加 +{N1}%	t_battle_attr_desc_42			
+43	拾取能力球升2级概率	拾取能力球升2级概率 +{N1}%	t_battle_attr_desc_43			
+44	拾取技能球升2级概率	拾取技能球升2级概率 +{N1}%	t_battle_attr_desc_44			
+45	拾取水晶2倍积分概率	拾取水晶2倍积分概率 +{N1}%	t_battle_attr_desc_45			
+46	普攻伤害增加百分比	普通雪球伤害增加 +{N1}%	t_battle_attr_desc_46			
+47	男性生命	男性生命 +{N1}	t_battle_attr_desc_47			
+48	女性生命	女性生命 +{N1}	t_battle_attr_desc_48			
+49	男性生命百分比	男性生命 +{N1}%	t_battle_attr_desc_49			
+50	女性生命百分比	女性生命 +{N1}%	t_battle_attr_desc_50			
+51	男性攻击	男性攻击 +{N1}	t_battle_attr_desc_51			
+52	女性攻击	女性攻击 +{N1}	t_battle_attr_desc_52			
+53	男性攻击百分比	男性攻击 +{N1}%	t_battle_attr_desc_53			
+54	女性攻击百分比	女性攻击 +{N1}%	t_battle_attr_desc_54			
+55	男性防御	男性防御 +{N1}	t_battle_attr_desc_55			
+56	女性防御	女性防御 +{N1}	t_battle_attr_desc_56			
+57	男性防御百分比	男性防御 +{N1}%	t_battle_attr_desc_57			
+58	女性防御百分比	女性防御 +{N1}%	t_battle_attr_desc_58			
+59	男性移速	男性移速 +{N1}	t_battle_attr_desc_59			
+60	女性移速	女性移速 +{N1}	t_battle_attr_desc_60			
+61	男性移速百分比	男性移速 +{N1}%	t_battle_attr_desc_61			
+62	女性移速百分比	女性移速 +{N1}%	t_battle_attr_desc_62			
+63	男性射程	男性射程 +{N1}	t_battle_attr_desc_63			
+64	女性射程	女性射程 +{N1}	t_battle_attr_desc_64			
+65	男性射程百分比	男性射程 +{N1}%	t_battle_attr_desc_65			
+66	女性射程百分比	女性射程 +{N1}%	t_battle_attr_desc_66			
+67	男性增伤	男性增伤 +{N1}	t_battle_attr_desc_67			
+68	女性增伤	女性增伤 +{N1}	t_battle_attr_desc_68			
+69	男性减伤	男性减伤 +{N1}	t_battle_attr_desc_69			
+70	女性减伤	女性减伤 +{N1}	t_battle_attr_desc_70			
+71	杀敌增加积分百分比	击杀所得积分 +{N1}%	t_battle_attr_desc_71			
+72	普攻伤害增加	普通雪球伤害 +{N1}	t_battle_attr_desc_72			
+73	每损失20%生命攻击增加	每损失20%生命攻击 +{N1}	t_battle_attr_desc_73			
+74	普通雪球命中回复生命	普通雪球命中回复生命 +{N1}	t_battle_attr_desc_74			
+75	每10000积分攻击增加	每10000积分攻击 +{N1}	t_battle_attr_desc_75			
+76	每10000积分生命增加	每10000积分生命 +{N1}	t_battle_attr_desc_76			
+77	拾取能力球回复生命	拾取能力雪球回复生命 +{N1}	t_battle_attr_desc_77			
+78	护盾抵挡伤害次数	护盾抵挡伤害次数 +{N1}	t_battle_attr_desc_78			
+79	拾取能力雪球获得护盾概率	拾取能力雪球获得护盾概率 +{N1}%	t_battle_attr_desc_79			
+80	对方携带相同技能，伤害增加百分比	攻击与自己拥有相同技能的目标伤害 +{N1}%	t_battle_attr_desc_80			
+81	击杀加生命	每击杀一名敌人生命 +{N1}	t_battle_attr_desc_81			
+82	击杀加生命百分比	每击杀一名敌人生命 +{N1}%	t_battle_attr_desc_82			
+83	击杀加攻击	每击杀一名敌人攻击 +{N1}	t_battle_attr_desc_83			
+84	击杀加攻击百分比	每击杀一名敌人攻击 +{N1}%	t_battle_attr_desc_84			
+85	击杀加防御	每击杀一名敌人防御 +{N1}	t_battle_attr_desc_85			
+86	击杀加防御百分比	每击杀一名敌人防御 +{N1}%	t_battle_attr_desc_86			
+87	击杀加移速	每击杀一名敌人移速 +{N1}	t_battle_attr_desc_87			
+88	击杀加移速百分比	每击杀一名敌人移速 +{N1}%	t_battle_attr_desc_88			
+89	对身上携带的技能免疫概率	对自己当前的技能免疫概率 +{N1}%	t_battle_attr_desc_89			
+90	受伤增加	受到伤害增加 +{N1}%	t_battle_attr_desc_90			
+91	散射概率	普攻散射概率 +{N1}%	t_battle_attr_desc_91			
+92	攻击速度增加百分比	攻击速度 +{N1}%	t_battle_attr_desc_92			
+93	蓄力时间减少百分比	蓄力时间 -{N1}%	t_battle_attr_desc_93			
+101	致盲	致盲	t_battle_attr_desc_101	1	zm_01	zm_02
+102	晕眩	晕眩	t_battle_attr_desc_102	1	xy_01	xy_02
+103	混乱	混乱	t_battle_attr_desc_103	1	hl_01	hl_02
+104	冻结	冻结	t_battle_attr_desc_104	1	bd_01	bd_02
+105	无敌	无敌	t_battle_attr_desc_105			
+106	无敌冷却	无敌冷却	t_battle_attr_desc_106			
+107	隐身	隐身	t_battle_attr_desc_107			

@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 7dc819fed620c4b4cb69f6a084283a16
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: icebone01
+    100002: icebone02
+    100004: icebone03
+    100006: icebone04
+    100008: icebone05
+    100010: icebone06
+    100012: iceCube03_debris
+    100014: //RootNode
+    100016: iceCube03_debris01
+    100018: iceCube03_debris02
+    100020: iceCube03_debris03
+    100022: iceCube03_debris04
+    100024: iceCube03_debris05
+    100026: iceCube03_debris06
+    100028: iceHub002
+    400000: icebone01
+    400002: icebone02
+    400004: icebone03
+    400006: icebone04
+    400008: icebone05
+    400010: icebone06
+    400012: //RootNode
+    400014: iceCube03_debris
+    400016: iceCube03_debris01
+    400018: iceCube03_debris02
+    400020: iceCube03_debris03
+    400022: iceCube03_debris04
+    400024: iceCube03_debris05
+    400026: iceCube03_debris06
+    400028: iceHub002
+    4300000: iceCube03_debris06
+    4300002: iceCube03_debris05
+    4300004: iceCube03_debris04
+    4300006: iceCube03_debris03
+    4300008: iceCube03_debris02
+    4300010: iceCube03_debris01
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: iceCube03_debris01
+    13700002: iceCube03_debris02
+    13700004: iceCube03_debris03
+    13700006: iceCube03_debris04
+    13700008: iceCube03_debris05
+    13700010: iceCube03_debris06
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

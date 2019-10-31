@@ -1,0 +1,19 @@
+syntax = "proto2";
+package dhc;
+
+//using index player_guid 0
+
+message battle_his_t {
+	optional uint64 guid			= 1;
+	optional uint64 player_guid		= 2;
+	optional uint64 battle_guid		= 3;
+	optional int32 role_id			= 4;
+	optional int32 type				= 5;
+	optional int32 rank				= 6;
+	optional int32 sha				= 7;
+	optional int32 lsha				= 8;
+	optional int32 die				= 9;
+	optional int32 score			= 10;
+	optional uint64 time			= 11;
+	optional int32 achieve			= 12;
+}

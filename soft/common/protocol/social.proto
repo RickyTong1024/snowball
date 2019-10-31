@@ -1,0 +1,29 @@
+syntax = "proto2";
+package dhc;
+
+//using index player_guid 0
+
+message social_t {
+	optional uint64 guid				= 1;
+	optional uint64 player_guid			= 2;
+	optional uint64 target_guid			= 3;
+	optional string name				= 4;
+	optional int32  cup					= 5;
+	optional int32 avatar        	    = 7;
+	optional int32 toukuang				= 8;
+	optional int32 region_id			= 9;
+	optional int32	level				= 10;
+	optional int32	sex					= 11;
+	optional int32  stype				= 12;
+	optional int32  sflag				= 13;
+	optional string verify				= 14;
+	optional int32  gold				= 15;
+	repeated string  msgs				= 16;
+	repeated uint64  msgtimes			= 17;
+	optional uint64 ttime				= 18;
+	optional int32	name_color			= 19;
+	optional int32	achieve_point		= 21;
+	optional int32	max_score			= 22;
+	optional int32	max_sha				= 23;
+	optional int32	max_lsha			= 24;
+}

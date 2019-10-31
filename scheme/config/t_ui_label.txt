@@ -1,0 +1,847 @@
+STRING	STRING	STRING	STRING
+代号	简体中文	繁體中文	English
+AchieveAnimation_001	恭喜达成新成就		Congratulations
+AchieveAnimation_002	成新成就		
+AchieveAnimation_003	 确定		OK
+AchieveAnimation_004	分享		Share
+AchieveAnimation_005	成就等级		Honor Level
+AchieveAnimation_006	12312		
+AchieveAnimation_007	一局对战中击杀1一		
+AvaIconPanel_001	使用中		Using
+AvatarPanel_001	系统头像		Avatar
+AvatarPanel_002	描述		Detail
+AvatarPanel_003	111		
+AvatarPanel_004	使用		Use
+AvatarPanel_005	1.11E+32		
+AvatarPanel_006	头像框详情		Detail
+AvatarPanel_007	系统头像框		Rim
+AvatarPanel_008	使用中		Using
+AvatarPanel_009	头像		Avatar
+AvatarPanel_010	头像框		Rim
+AvatarPanel_011	头像		Avatar
+BackPanel_001	6111111		
+BackPanel_002	11111		
+BackPanel_003	1		
+BackPanel_004	999/1999		
+BackPanel_005	一二三四一二		
+BackPanel_006	99999999		
+BackPanel_007	99999999		
+BackPanel_008	99999999		
+BattlePanel_001	99		
+BattlePanel_002	名字最大八个大字		
+BattlePanel_003	名字最		
+BattlePanel_004	99		
+BattlePanel_005	名字最大八个大字		
+BattlePanel_006	名字最		
+BattlePanel_007	99		
+BattlePanel_008	名字最大八个大字		
+BattlePanel_009	名字最		
+BattlePanel_010	15125		
+BattlePanel_011	15125		
+BattlePanel_012	15125		
+BattlePanel_013	免疫		Immune
+BattlePanel_014	Lv.25		
+BattlePanel_015	5		
+BattlePanel_016	5		
+BattlePanel_017	5		
+BattlePanel_018	5		
+BattlePanel_019	秒		s
+BattlePanel_020	[c2e5ed]移速[57FC5B]+20%[-][c2e5ed]，输出伤害[57FC5B]+50%[-][c2e5ed]，减伤[57FC5B]+30%[-][c2e5ed]，免控概率[57FC5B]+20%[-]		"[c2e5ed]Move Speed [57FC5B]+20%[-][c2e5ed], Damage [57FC5B]+50%[-][c2e5ed], Damage Reduction [57FC5B]+30%[-][c2e5ed], Immunity of Control[57FC5B]+20%[-]"
+BattlePanel_021	1.23E+20		
+BattlePanel_022	10/110		
+BattlePanel_023	雪怪		Boss
+BattlePanel_024	11:00		
+BattlePanel_025	攻击力		Attack
+BattlePanel_026	[5bd300]+30%		
+BattlePanel_027	攻击力		Attack
+BattlePanel_028	[5bd300]+30%		
+BattlePanel_029	攻击力		Attack
+BattlePanel_030	[5bd300]+30%		
+BattlePanel_031	攻击力		Attack
+BattlePanel_032	[5bd300]+30%		
+BattlePanel_033	攻击力		Attack
+BattlePanel_034	[5bd300]+30%		
+BattlePanel_035	1.23E+11		
+BattlePanel_036	全场最佳		MVP
+BattlePanel_037	获胜队伍中表现最佳玩家		Most valuable player of winners
+BattlePanel_038	超        神		Godlike
+BattlePanel_039	不死亡情况下连杀8人以上		Not killed even kill more than 8 players
+BattlePanel_040	人  头  王		Top Killer
+BattlePanel_041	全场击杀次数最多		Kill the most players
+BattlePanel_042	123123123		
+BattlePanel_043	123		
+BattlePanel_044	123		
+BattlePanel_045	双杀		Double kill
+BattlePanel_046	雪怪10s后离开战场		The boss will leave after 10 seconds
+BattlePanel_047	10:00		8:00
+BattlePanel_048	500		
+BattlePanel_049	500		
+BattlePanel_050	5000000		
+BattlePanel_051	得分榜		Score
+BattlePanel_052	击杀榜		Kill
+BattlePanel_053	名字最多八个大字		
+BattlePanel_054	999999		
+BattlePanel_055	名字最多八个大字		
+BattlePanel_056	999999		
+BattlePanel_057	名字最多八个大字		
+BattlePanel_058	999999		
+BattlePanel_059	4		4
+BattlePanel_060	名字最多八个大字		
+BattlePanel_061	999999		
+BattlePanel_062	5		5
+BattlePanel_063	名字最多八个大字		
+BattlePanel_064	999999		
+BattlePanel_065	1		1
+BattlePanel_066	名字最多八个大字		
+BattlePanel_067	999999		
+BattlePanel_068	正在说话...		Recording…
+BattlePanel_069	取消施法		Cancel
+BattlePanel_070	FPS:		FPS:
+BattlePanel_071	12		12
+BattlePanel_072	2000		
+BattlePanel_073	Ping:		Ping:
+BattlePanel_074	12		12
+BattlePanel_075	点击继续		Tap to continue
+BattlePanel_076	你被名字最多八个大字杀死了		Slain by
+BattlePanel_077	34		
+BattlePanel_078	复活		Reviving
+BattlePanel_079	返回大厅		Back to hall
+BattlePanel_080	返回大厅		Back to hall
+BattlePanel_081	排名		Rank
+BattlePanel_082	用户		Player
+BattlePanel_083	得分		Score
+BattlePanel_084	击杀/死亡		Kill/Death
+BattlePanel_085	奖杯		Cup
+BattlePanel_086	奖励		Reward
+BattlePanel_087	好友		Interaction
+BattlePanel_088	1		1
+BattlePanel_089	玩家名字最长八字		
+BattlePanel_090	玩家名字最长八字		
+BattlePanel_091	999999		
+BattlePanel_092	1月2日		"2nd, Feb"
+BattlePanel_093	(+55)		(+55)
+BattlePanel_094	获取上限		Max
+BattlePanel_095	[ff8a00](双倍)[-]		[ff8a00](Double)[-]
+BattlePanel_096	本轮结算		Result
+BattlePanel_097	详情		Detail
+BattlePanel_098	属性		Property
+BattlePanel_099	名字		Name
+BattlePanel_100	稀有		Rare
+BattlePanel_101	1.11E+104		
+BattlePanel_102	生命		Health
+BattlePanel_103	100[56DF77]+111[-]		
+BattlePanel_104	防御		Defense
+BattlePanel_105	100[ff0000]+111[-]		
+BattlePanel_106	移速		Move Speed
+BattlePanel_107	100[ff0000]+111[-]		
+BattlePanel_108	回血		Health Regeneration
+BattlePanel_109	100[ff0000]+111[-]		
+BattlePanel_110	暴击		Critical Rate
+BattlePanel_111	100[ff0000]+111[-]		
+BattlePanel_112	射程		Range
+BattlePanel_113	100[ff0000]+111[-]		
+BattlePanel_114	攻击		Attack
+BattlePanel_115	100[ff0000]+111[-]		
+BattlePanel_116	3		
+BattlePanel_117	个人战绩		My data
+BattlePanel_118	确认		OK
+BattlePanel_119	分享		Share
+BattlePanel_120	玩家		Name
+BattlePanel_121	玩家角色		Hero
+BattlePanel_122	出战角色		Hero
+BattlePanel_123	玩家排名		Rank
+BattlePanel_124	最终排名		Rank
+BattlePanel_125	玩家排名		Rank
+BattlePanel_126	最终得分		Score
+BattlePanel_127	玩家排名		Rank
+BattlePanel_128	获得经验		Exp
+BattlePanel_129	玩家排名		Rank
+BattlePanel_130	击杀人数		Kill
+BattlePanel_131	玩家排名		Rank
+BattlePanel_132	被击杀数		Death
+BattlePanel_133	111		
+BattlePanel_134	获得金币		Gold
+BattlePanel_135	玩家排名		Rank
+BattlePanel_136	确认		OK
+BattlePanel_137	完成引导		Finished
+BattlePanel_138	"恭喜你完成引导,接下来就看你大展身手咯~~"		
+BattlePanel_139	图形		Graphics
+BattlePanel_140	画质:		Quality:
+BattlePanel_141	普通		Normal
+BattlePanel_142	较高		Medium
+BattlePanel_143	极高		High
+BattlePanel_144	特效:		Effect:
+BattlePanel_145	普通		Normal
+BattlePanel_146	精美		Excellent
+BattlePanel_147	确认		OK
+BattlePanel_148	按住方向轮盘移动角色到目标地点		
+BattlePanel_149	按住方向轮盘移动角色到目标地点		
+BattlePanel_150	确认		OK
+BattlePanel_151	跳过教程		Skip all tutorial
+BattlePanel_152	此操作将会立即结束教程，确定不需要学习一下么~		You will leave the tutorial
+BattlePanel_153	点击屏幕继续		Tap to continue
+BattlePanel_154	分享		Share
+BattlePanel_155	欢迎来到冰雪世界，请跟随软妹的语音进行操作吧~		"Welcome, follow the tutorial and learn how to play"
+BattlePanel_156	点击此处继续		Tap here to continue
+BattlePanel_157	0/10		
+BattlePanel_158	确认		OK
+BattlePanel_159	任务失败，重新开始		"Mission failed, try again"
+BuyPanel_001	-10		-10
+BuyPanel_002	10		10
+BuyPanel_003	999999		
+BuyPanel_004	花费		Cost
+BuyPanel_005	1/99		
+BuyPanel_006	请选择购买数量：		Amount：
+BuyPanel_007	确认		OK
+BuyPanel_008	取消		Cancel
+BuyPanel_009	道具名称		Item name
+BuyPanel_010	99999		
+BuyPanel_011	拥有		Have 
+BuyPanel_012	99999		
+BuyPanel_013	单价		Price
+BuyPanel_014	购买		Buy
+BuyPanel_015	兑换		Exchange
+BuyPanel_016	骨头		
+BuyPanel_017	骨头1111111111111111111111111111		
+BuyPanel_018	x698		
+ChatPanel_001	点击输入你要说的话		Tap to input
+ChatPanel_002	确认		OK
+ChatPanel_003	最多输入30个汉字		30 letters limited
+ChatPanel_004	喇叭		Trumpet
+ChatPanel_005	剩余数量：		Have
+ChatPanel_006	9999		
+ChatPanel_007	取消		Cancel
+ChatPanel_008	New Label		
+ChatPanel_009	30		
+ChatPanel_010	黄金11111111111111111111111111111111111111111111111111111111111111111111111111111111		
+ChatPanel_011	角色		Hero
+ChatPanel_012	x99		
+ChatPanel_013	发送		Send
+ChatPanel_014	您有1条新消息		1 new message(s)
+ChatPanel_015	点击输入你要说的话		Tap to input
+ChatPanel_016	综合		Public
+ChatPanel_017	频道		Channel
+ChatPanel_018	系统		System
+ChestPanel_001	99		
+ChestPanel_002	99		
+ChestPanel_003	99		
+ChestPanel_004	99		
+ChestPanel_005	2		
+ChestPanel_006	New Label		
+ChestPanel_007	111		
+ChestPanel_008	New Label		
+ChestPanel_009	111		
+ChestPanel_010	99		
+ChestPanel_011	99		
+ChestPanel_012	99		
+ChestPanel_013	99		
+ChestPanel_014	120		
+ChestPanel_015	金币		Gold
+ChestPanel_016	120-240		
+ChestPanel_017	物品		Item
+ChestPanel_018	120-240		
+ChestPanel_019	稀有以上物品		Rare or better item
+ChestPanel_020	至少包含：		At least：
+ChestPanel_021	120-240		
+ChestPanel_022	金币		Gold
+ChestPanel_023	120-240		
+ChestPanel_024	物品		Item
+ChestPanel_025	打开		Open
+ChestPanel_026	99		
+ChestPanel_027	立即打开		Open now
+ChestPanel_028	解锁倒计时:		Unlock time: 
+ChestPanel_029	20:20:20		
+ChestPanel_030	99		
+ChestPanel_031	购买		Buy
+ChestPanel_032	超级神奇宝箱		
+ChestPanel_033	开始解锁		Unlock
+ChestPanel_034	12小时		12 hours
+ChestPanel_035	购买宝箱11111111111111111111111111111111111111111111		
+ChestPanel_036	开启宝箱		Open chest
+ChestShowPanel_001	x999		
+ChestShowPanel_002	立即打开		Open now
+ChestShowPanel_003	2:52:00		
+ChestShowPanel_004	点击解锁		Unlock
+ChestShowPanel_005	打开		Open
+ChestShowPanel_006	宝箱位		Chest slot
+ChestShowPanel_007	宝石宝箱		
+ChestShowPanel_008	解锁时间		Spend time
+ChestShowPanel_009	1月3日		
+ChestShowPanel_010	今日可开启1次，每日05:00重置		"Remaining [-][f01c1c]1[-][C2E5ED] time(s), reset at [-][57FC5B]5:00 am[-][C2E5ED] daily"
+ChestShowPanel_011	[3AB9FC]打开需要完成[-][57FC5B]3[-][3AB9FC]场个人竞技或团队竞技		[3AB9FC]Required to play the Melee or Conflict [-][57FC5B]3[-][3AB9FC] times
+ChestShowPanel_012	战斗宝箱		Daily Chest
+ChestShowPanel_013	打开		Open
+common_panel_001	New Label		
+common_panel_002	8		
+CupPanel_001	奖杯		Cup
+CupPanel_002	本赛季		This season
+CupPanel_003	结算倒计时：		Countdown
+CupPanel_004	结算的奖励以邮件方式发放		Season reward will be send by mail
+CupPanel_005	New Label		
+CupPanel_006	New Label		
+CupPanel_007	赛季奖励		Season prize
+CupPanel_008	当前奖杯		Current
+DetailPanel_001	钻石		Diamond
+DetailPanel_002	1.11E+52		
+DetailPanel_003	道具详情		Detail
+DetailPanel_004	钻石		Diamond
+DetailPanel_005	拥有		Have
+DetailPanel_006	New Label		
+ForeBattle_001	战斗准备		
+ForeBattle_002	天赋		
+ForeBattle_003	技能一		
+ForeBattle_004	技能二		
+ForeBattle_005	点击刷新		Refresh
+ForeBattle_006	x10		
+ForeBattle_007	免费		Free
+ForeBattle_008	进入战场后，初始状态可拥有一个天赋和两个技能，每场3次机会刷新		
+ForeBattle_009	本场刷新次数		
+ForeBattle_010	2月3日		
+ForeBattle_011	12		
+ForeBattle_012	秒后进入战场...		
+ForeBattle_013	立即进入		
+FriendPanel_001	好友		Friend
+FriendPanel_002	11		
+FriendPanel_003	黑名单		Blacklist
+FriendPanel_004	睡熟世俗事实上是		
+FriendPanel_005	在线		Online
+FriendPanel_006	1		
+FriendPanel_007	11		
+FriendPanel_008	推荐好友		RCMD
+FriendPanel_009	搜索玩家		Search
+FriendPanel_010	申请列表		Request
+FriendPanel_011	好友馈赠		Gift
+FriendPanel_012	当前在线  20 / 60		on-line
+FriendPanel_013	您当前没有任何好友可通过推荐添加好友或者搜索好友		"You have no friends, tap the Search or RCMD to find someone"
+FriendPanel_014	搜索玩家		Search
+FriendPanel_015	没有搜索到该玩家，请检查是否输入错误		"No results, check the name please"
+FriendPanel_016	请输入玩家的昵称		Input a player's nickname
+FriendPanel_017	搜索玩家		Search
+FriendPanel_018	1		
+FriendPanel_019	睡熟世俗事实上是		
+FriendPanel_020	推荐好友		RCMD
+FriendPanel_021	换一批		Refresh
+FriendPanel_022	没有可推荐的玩家		None
+FriendPanel_023	好友申请		Request
+FriendPanel_024	1		
+FriendPanel_025	睡熟世俗事实上是		
+FriendPanel_026	同意		Agree
+FriendPanel_027	拒绝		Ignore
+FriendPanel_028	验证消息2222		
+FriendPanel_029	申请列表为空		Empty
+FriendPanel_030	不接受好友申请		Ignore all
+FriendPanel_031	1		
+FriendPanel_032	睡熟世俗事实上是		
+FriendPanel_033	向您馈赠了		
+FriendPanel_034	200		
+FriendPanel_035	好友馈赠		Gift
+FriendPanel_036	一键领取		Claim all
+FriendPanel_037	没有好友馈赠可领取		No gifts from friends
+FriendPanel_038	你不想理睬对方！		Ignore
+FriendPanel_039	清空黑名单		Clear
+FriendPanel_040	发送		Send
+FriendPanel_041	您有1条新消息		1 new message(s)
+FriendPanel_042	点击输入你要说的话		Tap to input
+FriendPanel_043	New Label		New Label
+FriendPanel_044	1.11E+37		
+FriendPanel_045	30		
+FriendPanel_046	2017/5/10 10:12		
+FriendPanel_047	New Label		New Label
+FriendPanel_048	30		
+FriendPanel_049	2017/5/10 10:12		
+GainPanel_001	恭喜您		Congratulations
+GainPanel_002	点击屏幕继续		Tap to continue
+GainPanel_003	获得了		!
+HallPanel_001	11		
+HallPanel_002	综合		Public
+HallPanel_003	1.11E+32		
+HallPanel_004	11111		
+HallPanel_005	角色		Hero
+HallPanel_006	1		
+HallPanel_007	背包		Bag
+HallPanel_008	任务		Course
+HallPanel_009	1		
+HallPanel_010	成就		Honor
+HallPanel_011	11		
+HallPanel_012	排行榜		Rank
+HallPanel_013	技能		Skill
+HallPanel_014	宝箱		Chest
+HallPanel_015	分享		Share
+HallPanel_016	夺宝		Treasure
+HallPanel_017	福利		Privilege
+HallPanel_018	首充		First##Recharge
+HallPanel_019	冰法七月		
+HallPanel_020	冰法111111111111111111111111111111111111111111		
+HallPanel_021	21321321		
+HallPanel_022	1.11E+117		
+HallPanel_023	SINGLE MODE		Online
+HallPanel_024	团队竞技		Conflict
+HallPanel_025	团队竞技		Conflict
+HallPanel_026	1月3日		
+HallPanel_027	每日5:00重置双倍次数		
+HallPanel_028	战斗结算双倍收益剩余次数（3级后不包括离线练习）		Remaining double settlement times(Practice not involved after Lv.3):
+HallPanel_029	$18 		
+HallPanel_030	每日在此领取		Daily Reward
+HallPanel_031	年卡		Year Card
+HallPanel_032	名字专属颜色		Exclusive color of name
+HallPanel_033	年卡会员头像框		Exclusive rim
+HallPanel_034	3倍签到奖励		Sign-in rewards x3
+HallPanel_035	减少宝箱解锁时间30%		Unlocking chest time -30%
+HallPanel_036	赛季奖杯结算奖励2倍		Season settlement rewards x2
+HallPanel_037	首次充值年卡赠送角色		Claim only once
+HallPanel_038	[ffcd00]冷风		[ffcd00]Husky
+HallPanel_039	首次充值年卡赠送角色		Claim only once
+HallPanel_040	[ffcd00]敖饼		[ffcd00]Dragon
+HallPanel_041	首次充值年卡赠送		Claim only once
+HallPanel_042	[ffcd00]雪炮-神龙		[ffcd00]Gun-Dragon
+HallPanel_043	每日在此领取		Daily Reward
+HallPanel_044	成为月卡会员		BUY NOW
+HallPanel_045	成为年卡会员		BUY NOW
+HallPanel_046	$18 		
+HallPanel_047	每日在此领取		Daily Reward
+HallPanel_048	名字专属颜色		Exclusive color of name
+HallPanel_049	月卡会员头像框		Exclusive rim
+HallPanel_050	3倍签到奖励		Sign-in rewards x3
+HallPanel_051	减少宝箱解锁时间20%		Unlocking chest time -20%
+HallPanel_052	赛季奖杯结算奖励2倍		Season settlement rewards x2
+HallPanel_053	首次充值月卡赠送角色		Claim only once
+HallPanel_054	[ffcd00]冷风		[ffcd00]Husky
+HallPanel_055	月卡		Month Card
+HallPanel_056	每日在此领取		Daily Reward
+HallPanel_057	专属福利		Privileges
+HallPanel_058	第一次的感觉是最棒的		The first feeling is the best!
+HallPanel_059	首次充值任意金额，即送限定角色		Recharge any amount of diamonds can claim the special hero
+HallPanel_060	立即充值		Recharge now
+HallPanel_061	槽里马		Alpaca
+HallPanel_062	视频		Video
+HallPanel_063	道具		Item
+HallPanel_064	战斗		BATTLE
+IconPanel_001	2		
+IconPanel_002	2		
+IconPanel_003	已签订		Used
+IconPanel_004	道具名称		Item name
+IconPanel_005	99		
+IconPanel_006	2		
+IconPanel_007	New Label		New Label
+IconPanel_008	6		
+IconPanel_009	至尊		
+IconPanel_010	6		
+IconPanel_011	至尊		
+IconPanel_012	11111		
+IconPanel_013	已装备		Used
+ItemPanel_001	空荡荡的背包		Empty bag
+ItemPanel_002	道具		
+ItemPanel_003	已装备		Used
+ItemPanel_004	9999999		
+ItemPanel_005	售价		Price
+ItemPanel_006	道具名称		Item name
+ItemPanel_007	数量		Amount
+ItemPanel_008	道具详情		Detail
+ItemPanel_009	1.11E+61		
+ItemPanel_010	倒计时：		Countdown:
+ItemPanel_011	倒计时：		Countdown:
+ItemPanel_012	出售		Sell
+ItemPanel_013	使用		Use
+ItemPanel_014	出售		Sell
+ItemPanel_015	出售		Sell
+LevelTask_001	成长历程		Progress
+LevelTask_002	1		
+LevelTask_003	每日任务		Daily target
+LevelTask_004	1		
+LevelTask_005	等级5		Level 
+LevelTask_006	等级加成		Bonus
+LevelTask_007	123		
+LevelTask_008	等级奖励		Reward
+LevelTask_009	11		
+LevelTask_010	11		
+LevelTask_011	11		
+LevelTask_012	领取		Claim
+LevelTask_013	已领取		Claimed
+LevelTask_014	12312312		
+LevelTask_015	x1		
+LevelTask_016	前往领奖		Go claim
+LevelTask_017	尚未达到该等级，无法解锁该等级的专属任务哦		Unlock at the required level
+LevelTask_018	- 无任务 -		Empty
+LevelTask_019	12312312312		
+LevelTask_020	0/3		0/3
+LevelTask_021	领取		Claim
+LevelTask_022	已领取		Claimed
+LevelTask_023	- 无任务 -		Empty
+LevelTask_024	12312312312		
+LevelTask_025	0/3		0/3
+LevelTask_026	领取		Claim
+LevelTask_027	已领取		Claimed
+LevelTask_028	- 无任务 -		Empty
+LevelTask_029	12312312312		
+LevelTask_030	0/3		0/3
+LevelTask_031	领取		Claim
+LevelTask_032	已领取		Claimed
+LevelTask_033	111		
+LevelTask_034	22		
+LevelTask_035	111		
+LevelTask_036	11		
+LevelTask_037	今日活跃度		Energy Today
+LevelTask_038	5		5
+LevelTask_039	30		30
+LevelTask_040	2		2
+LevelTask_041	活动名称		Event
+LevelTask_042	活动描述		Detail
+LevelTask_043	已领取		Claimed
+LevelTask_044	1月3日		
+LevelTask_045	领取		Claim
+LevelUpPanel_001	等级提升		Level up
+LevelUpPanel_002	等级		Level
+LevelUpPanel_003	2		
+LevelUpPanel_004	等级		Level
+LevelUpPanel_005	2		
+LoadPanel_001	New Label		
+LoadPanel_002	"抵制不良游戏,拒绝盗版游戏。注意自我保护,谨防受骗上当。适度游戏益脑, 沉迷游戏伤身。合理安排时间, 享受健康生活。"		Search PoPo in facebook fan page to join us.
+LoadPanel_003	战斗结束时获得宝箱的品质是随机的，部分角色可以提升高品质宝箱获得几率		Higher rank of one game can get better chest after settlement.
+LoadPanel_004	"抵制不良游戏,拒绝盗版游戏。注意自我保护,谨防受骗上当。适度游戏益脑, 沉迷游戏伤身。合理安排时间, 享受健康生活。"		Search PoPo in facebook fan page to join us.
+MailPanel_001	一键删除		Quick Delete
+MailPanel_002	一键领取		Quick Claim
+MailPanel_003	邮件		Mail
+MailPanel_004	2017		
+MailPanel_005	邮件		Mail
+MailPanel_006	删除		Delete
+MailPanel_007	邮件		Mail
+MailPanel_008	6		6
+MailPanel_009	有效期：		Count down:
+MailPanel_010	领取		Claim
+MailPanel_011	没有邮件		No Message
+MailPanel_012	系统邮件		System
+MaskPanel_001	11111		
+MessagePanel_001	收到服务器消息了!!		
+NewAchievePanel_001	100/100		
+NewAchievePanel_002	成就等级 		Level 
+NewAchievePanel_003	2		
+NewAchievePanel_004	全国排名:未上榜		--
+NewAchievePanel_005	5 level reward		
+NewAchievePanel_006	领   取		Claim
+NewAchievePanel_007	查看所有奖励		View all
+NewAchievePanel_008	吞食天地		
+NewAchievePanel_009	2017 06 07 获得		
+NewAchievePanel_010	34		
+NewAchievePanel_011	%s级奖励		Required Lv.s%
+NewAchievePanel_012	已领取		Claimed
+NewAchievePanel_013	成就名称		Name
+NewAchievePanel_014	成就积分		Point
+NewAchievePanel_015	20		
+NewAchievePanel_016	吞噬大环境		
+NewAchievePanel_017	100/1000		
+NewAchievePanel_018	成就积分		Point
+NewAchievePanel_019	20		
+NewAchievePanel_020	吞噬大环境		
+NewAchievePanel_021	100/1000		
+NoticePanel_001	1111:00:00		
+NoticePanel_002	1111		
+NoticePanel_003	拒绝		Ignore
+NoticePanel_004	接受		OK
+NoticePanel_005	New Label		
+NoticePanel_006	组队邀请		Invitation
+NoticePanel_007	(30s)		(30s)
+NoticePanel_008	添加好友验证信息		Request
+NoticePanel_009	确认		OK
+NoticePanel_010	请输入验证信息（最多15字）		Tap to input request
+NoticePanel_011	交个朋友吧~~		"Hi, I wanna play with you"
+NoticePanel_012	取消		Cancel
+RankPanel_001	奖杯榜		Cup
+RankPanel_002	成就榜		Honor
+RankPanel_003	高分榜		Score
+RankPanel_004	击杀榜		Kill
+RankPanel_005	连杀榜		Combo
+RankPanel_006	世界		Server
+RankPanel_007	好友		Friends
+RankPanel_008	1		
+RankPanel_009	11		
+RankPanel_010	最长6个值是		
+RankPanel_011	值是		
+RankPanel_012	钻石屋		
+RankPanel_013	111		
+RankPanel_014	排名		Rank
+RankPanel_015	玩家信息		Player
+RankPanel_016	地区		Region
+RankPanel_017	奖杯		Cup
+RankPanel_018	1.23E+16		
+RankPanel_019	1		
+RankPanel_020	11		
+RankPanel_021	最长6个值是		
+RankPanel_022	值是		
+RankPanel_023	钻石屋		
+RankPanel_024	111		
+RankPanel_025	123123		
+RankPanel_026	暂无数据		No data
+RoleGetPanel_001	小妹		
+RoleGetPanel_002	确定		OK
+RoleGetPanel_003	分享		Share
+RolePanel_002	112/999		
+RolePanel_003	出战中		Ready
+RolePanel_004	满星		Max
+RolePanel_005	满星		Max
+RolePanel_006	升星		Upgrade
+RolePanel_007	合成		Summon
+RolePanel_008	未拥有		Locked
+RolePanel_009	出战		Go
+RolePanel_010	已出战		Ready
+RolePanel_011	升星		Upgrade
+RolePanel_012	出战中		Ready
+RolePanel_013	1300		
+RolePanel_014	1300		
+RolePanel_015	黄盖		
+RolePanel_016	1300		
+RolePanel_017	1300		
+RolePanel_018	1300		
+RolePanel_019	1300		
+RolePanel_020	账号经验		Account EXP
+RolePanel_021	80		
+RolePanel_022	99999		
+RolePanel_023	升星		Upgrade
+RolePanel_024	1300		
+RolePanel_025	1300		
+RolePanel_026	1300		
+RolePanel_027	1300		
+RolePanel_028	出战中		Ready
+RolePanel_029	Lv.5		Lv.5
+RolePanel_030	Lv.5		Lv.5
+RolePanel_031	角色		Hero
+RolePanel_032	稀有		Rare
+RolePanel_033	论		
+RolePanel_034	生命		Health
+RolePanel_035	5800		
+RolePanel_036	攻击		Attack
+RolePanel_037	5800		
+RolePanel_038	防御		Defense
+RolePanel_039	5800		
+RolePanel_040	射程		Range
+RolePanel_041	5800		
+RolePanel_042	移速		Speed
+RolePanel_043	5800		
+SelectPanel_001	确认		OK
+SelectPanel_002	取消		Cancel
+SelectPanel_003	确认		OK
+SelectPanel_004	提示		Tips
+SellPanel_001	出售		Sell
+SellPanel_002	道具名称		Item name
+SellPanel_003	拥有		Have
+SellPanel_004	99999		
+SellPanel_005	99999		
+SellPanel_006	单价		Price
+SellPanel_007	-10		-10
+SellPanel_008	10		10
+SellPanel_009	售价		Price
+SellPanel_010	999999		
+SellPanel_011	1/99		
+SellPanel_012	请选择出售数量		Amount
+SellPanel_013	确认		OK
+SellPanel_014	取消		Cancel
+SetPanel_001	礼包码		Code
+SetPanel_002	点击输入礼包码		Tap to input the CDKEY
+SetPanel_003	领取		Claim
+SetPanel_004	声音		Sound
+SetPanel_005	声音：		Sound：
+SetPanel_006	音效		Sound effect
+SetPanel_007	音乐		Music
+SetPanel_008	注销		Logout
+SetPanel_009	声音设置		Sound
+SetPanel_010	活动		Event
+SetPanel_011	官网		Website
+SetPanel_012	礼包码		Code
+SetPanel_013	客服		Service
+SetPanel_014	论坛		Forum
+SetPanel_015	系统公告		Notice
+SetPanel_016	图形		Graphics
+SetPanel_017	分享		Share
+SetPanel_018	系统设置		Setting
+SetPanel_019	系统公告		Notice
+SetPanel_020	New Label		New Label
+SetPanel_021	当前没有公告		No notice
+SetPanel_022	系统公告		Notice
+SetPanel_023	我知道了		OK
+SetPanel_024	图形		Graphics
+SetPanel_025	画质:		Quality:
+SetPanel_026	普通		Normal
+SetPanel_027	较高		High
+SetPanel_028	极高		Ultra
+SetPanel_029	特效:		Effect:
+SetPanel_030	普通		Normal
+SetPanel_031	精美		Ultra
+SetPanel_032	确认		OK
+SharePanel_001	分享		Share
+SharePanel_002	分享到微信		Share in Wechat
+SharePanel_003	分享到朋友圈		Share in Circle of Friends
+SharePanel_004	分享到微博		Share in Weibo
+SharePanel_005	分享到QQ		Share in QQ
+SharePanel_006	分享到QQ空间		Share in QQ Zone
+SharePanel_007	取消		Cancel
+SharePanel_008	我的二维码		My QR code
+SharePanel_009	分享		Share
+SharePanel_010	领取		Claim
+SharePanel_011	特别奖励		Extra Reward
+SharePanel_012	每天完成1次分享即可领取支援宝箱哦！		Share only once can claim the chest
+SharePanel_013	1.11E+23		
+SharePanel_014	复制链接		Copy Link
+SharePanel_015	立即分享		Share Now
+SharePanel_016	每天每个好友点击你的分享就能获得2个雪花同一名好友不重复计算		You can obtain 2 snowflakes              after each one of your friends tapping your share link daily.
+SharePanel_017	New Label		
+SharePanel_018	今日获得		Current
+ShopPanel_001	道具		
+ShopPanel_002	冰棍		
+ShopPanel_003	50		
+ShopPanel_004	已拥有		Have
+ShopPanel_005	11111		
+ShopPanel_006	冰棍		
+ShopPanel_007	冰棍		
+ShopPanel_008	50		
+ShopPanel_009	剩余30天		Countdown 30 days
+ShopPanel_010	50		
+ShopPanel_011	50		
+ShopPanel_012	50		
+ShopPanel_013	冰棍		
+ShopPanel_014	50		
+ShopPanel_015	已拥有		Unlocked
+ShopPanel_016	x2		
+ShopPanel_017	惊喜礼盒		
+ShopPanel_018	50		
+ShopPanel_019	夺宝		Treasure
+ShopPanel_020	X		
+ShopPanel_021	今日限购  0/10		Remaining times today: 
+ShopPanel_022	今日限购  0/10		Remaining times today: 
+ShopPanel_023	抽中已拥有的皮肤将返还50%雪花		You will get 50% snowflakes of the original price feedback after unlocking the same skin repeatedly
+SignPanel_001	金币		Gold
+SignPanel_002	第一天		Day 1
+SignPanel_003	金币		Gold
+SignPanel_004	第一天		Day 1
+SignPanel_005	领取		Claim
+StartPanel_001	账号设置		Account
+StartPanel_002	附送		Attach
+StartPanel_003	修改密码		Modify
+StartPanel_004	账号登陆		Login
+StartPanel_005	注册账号		Register
+StartPanel_006	返回		Back
+StartPanel_007	"抵制不良游戏,拒绝盗版游戏。注意自我保护,谨防受骗上当。适度游戏益脑, 沉迷游戏伤身。合理安排时间, 享受健康生活。"		Search PoPo in facebook fan page to join us.
+StartPanel_008	6~18位字符		6 ～ 18 letters
+StartPanel_009	用户名		Username
+StartPanel_010	6~18位字符		6 ～ 18 letters
+StartPanel_011	密码		Password
+StartPanel_012	6~18位字符		6 ～ 18 letters
+StartPanel_013	确认密码		Confirm
+StartPanel_014	确认		OK
+StartPanel_015	账号注册		Register
+StartPanel_016	随机账号		Quick Register
+StartPanel_017	6~18位字符		6 ～ 18 letters
+StartPanel_018	用户名		Username
+StartPanel_019	6~18位字符		6 ～ 18 letters
+StartPanel_020	密码		Password
+StartPanel_021	确认		OK
+StartPanel_022	账号登陆		Login
+StartPanel_023	6~18位字符		6 ～ 18 letters
+StartPanel_024	用户名		Username
+StartPanel_025	6~18位字符		6 ～ 18 letters
+StartPanel_026	原密码		Password
+StartPanel_027	6~18位字符		6 ～ 18 letters
+StartPanel_028	新密码		New Password
+StartPanel_029	确认		OK
+StartPanel_030	修改密码		Modify password
+StartPanel_031	6~18位字符		6 ～ 18 letters
+StartPanel_032	确认密码		Confirm
+StartPanel_033	"抵制不良游戏,拒绝盗版游戏。注意自我保护,谨防受骗上当。适度游戏益脑, 沉迷游戏伤身。合理安排时间, 享受健康生活。"		Search PoPo in facebook fan page to join us.
+StartPanel_034	New Label		
+StartPanel_035	当前版本:		Version:
+StartPanel_036	开始游戏		Start
+TeamPanel_001	好友		Friends
+TeamPanel_002	推荐		RCMD
+TeamPanel_003	点击这里开始小队聊天		Tap in your word
+TeamPanel_004	发送		Send
+TeamPanel_005	开始匹配		Start
+TeamPanel_006	New Label		
+TeamPanel_007	[队长]		[Capt.]
+TeamPanel_008	11		
+TeamPanel_009	11111111		
+TeamPanel_010	New Label		
+TeamPanel_011	邀请		Invite
+TeamPanel_012	New Label		
+TeamPanel_013	当前没有可邀请的对象		No players to invite
+TopPanel_001	一二三四一二三四		
+TopPanel_002	999/1999		
+TopPanel_003	1		
+TopPanel_004	钻石屋		
+TopPanel_005	6		
+TopPanel_006	1.00E+13		
+TopPanel_007	99999999		
+TopPanel_008	99999999		
+UsePanel_001	使用		Use
+UsePanel_002	99999		
+UsePanel_003	拥有		Have
+UsePanel_004	道具名称		Name
+UsePanel_005	-10		-10
+UsePanel_006	10		10
+UsePanel_007	1/99		
+UsePanel_008	请选择使用数量		Amount
+UsePanel_009	确认		OK
+UsePanel_010	取消		Cancel
+ZonePanel_001	2.11E+15		
+ZonePanel_002	30		
+ZonePanel_003	2.11E+15		
+ZonePanel_004	999999		
+ZonePanel_005	角色数量		Heroes
+ZonePanel_006	总览		Info
+ZonePanel_007	999999		
+ZonePanel_008	头像数量		Avatars
+ZonePanel_009	999999		
+ZonePanel_010	头框数量		Rims
+ZonePanel_011	999999		
+ZonePanel_012	对战场数		Battles
+ZonePanel_013	奖杯		Cup
+ZonePanel_014	9		
+ZonePanel_015	历史最高		Best
+ZonePanel_016	账号加成		Bonus
+ZonePanel_017	更换头像		Avatar
+ZonePanel_018	修改昵称		Rename
+ZonePanel_019	编辑资料		Edit
+ZonePanel_020	点击这里编辑个性签名		Tap to edit
+ZonePanel_021	这个人好像无话可说21322132		
+ZonePanel_022	加入黑名单		Ignore
+ZonePanel_023	添加好友		Add Friend
+ZonePanel_024	空间首页		Personal Page
+ZonePanel_025	修改昵称		Rename
+ZonePanel_026	使用[00ffff]改名卡[-]来修改你的账号昵称		Use [00ffff]Rename Card[-] to change your nickname
+ZonePanel_027	点击昵称可自定义输入		Tap the name to edit
+ZonePanel_028	点击输入		Tap to input
+ZonePanel_029	确认		OK
+ZonePanel_030	取消		Cancel
+ZonePanel_031	点击昵称可自定义输入		Tap the name to edit
+ZonePanel_032	编辑资料		Edit
+ZonePanel_033	确认		OK
+ZonePanel_034	性别		Gender
+ZonePanel_035	国家/地区		Country / Region
+ZonePanel_036	省份		State
+ZonePanel_037	城市		City
+ZonePanel_038	取消		Cancel
+ZonePanel_039	首页		Main
+ZonePanel_040	历史		History
+ZonePanel_041	历史		History
+ZonePanel_042	9999		
+ZonePanel_043	99		
+ZonePanel_044	99		
+ZonePanel_045	2160000		
+ZonePanel_046	个人竞技		Singel Mode
+ZonePanel_047	15小时亲		
+ZonePanel_048	2		
+ZonePanel_049	历史战绩		Record
+ZonePanel_050	排名		Rank
+ZonePanel_051	时间		Time
+ZonePanel_052	死亡		Death
+ZonePanel_053	得分		Score
+ZonePanel_054	击杀		Kill
+ZonePanel_055	模式		Mode
+ZonePanel_056	近期无参战记录		No Record
+ZonePanel_057	成就		Honor
+ZonePanel_058	未达成任何成就		No Record
+ZonePanel_059	吞食天地		
+ZonePanel_060	New Label		
+ZonePanel_061	全场最佳		MVP
+ZonePanel_062	获胜队伍中表现最佳玩家		Get the best score of winners' team
+ZonePanel_063	超神		Godlike
+ZonePanel_064	不死亡情况下连杀8人以上		Beat 8 or more players without death
+ZonePanel_065	人头王		Dominator
+ZonePanel_066	全场击杀次数最多		Beat the most amount of players

@@ -1,0 +1,25 @@
+rq=`date +%Y%m%d`
+mysqldump -uroot -proot snowball_gtool > /root/app/updatebak/snowball_gtool_$rq.sql
+mysqldump -uroot -proot snowball_account > /root/app/updatebak/snowball_account_$rq.sql
+mysqldump -uroot -proot snowball_battle > /root/app/updatebak/snowball_battle_$rq.sql
+mysqldump -uroot -proot snowball_player20 > /root/app/updatebak/snowball_social_$rq.sql
+mysqldump -uroot -proot snowball_player1 > /root/app/updatebak/snowball_player1_$rq.sql
+mysqldump -uroot -proot snowball_player2 > /root/app/updatebak/snowball_player2_$rq.sql
+mysqldump -uroot -proot snowball_player3 > /root/app/updatebak/snowball_player3_$rq.sql
+mysqldump -uroot -proot snowball_player4 > /root/app/updatebak/snowball_player4_$rq.sql
+mysqldump -uroot -proot snowball_player5 > /root/app/updatebak/snowball_player5_$rq.sql
+mysqldump -uroot -proot snowball_player6 > /root/app/updatebak/snowball_player6_$rq.sql
+mysqldump -uroot -proot snowball_player7 > /root/app/updatebak/snowball_player7_$rq.sql
+mysqldump -uroot -proot snowball_player8 > /root/app/updatebak/snowball_player8_$rq.sql
+mysqldump -uroot -proot snowball_player9 > /root/app/updatebak/snowball_player9_$rq.sql
+mysqldump -uroot -proot snowball_player10 > /root/app/updatebak/snowball_player10_$rq.sql
+mysqldump -uroot -proot snowball_player11 > /root/app/updatebak/snowball_player11_$rq.sql
+mysqldump -uroot -proot snowball_player12 > /root/app/updatebak/snowball_player12_$rq.sql
+mysqldump -uroot -proot snowball_player13 > /root/app/updatebak/snowball_player13_$rq.sql
+mysqldump -uroot -proot snowball_player14 > /root/app/updatebak/snowball_player14_$rq.sql
+mysqldump -uroot -proot snowball_player15 > /root/app/updatebak/snowball_player15_$rq.sql
+mysqldump -uroot -proot snowball_player16 > /root/app/updatebak/snowball_player16_$rq.sql
+mysqldump -uroot -proot snowball_player17 > /root/app/updatebak/snowball_player17_$rq.sql
+mysqldump -uroot -proot snowball_player18 > /root/app/updatebak/snowball_player18_$rq.sql
+mysqldump -uroot -proot snowball_player19 > /root/app/updatebak/snowball_player19_$rq.sql
+mysqldump -uroot -proot snowball_player20 > /root/app/updatebak/snowball_player20_$rq.sql

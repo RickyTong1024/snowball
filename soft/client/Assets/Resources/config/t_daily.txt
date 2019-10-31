@@ -1,0 +1,10 @@
+INT	STRING	STRING	STRING	STRING	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT
+id	name	name	decs	desc	type	计数	类型(同成就)	参数1	参数2	参数3	参数4	奖励type	value1	value2	value3	type	value1	value2	value3	type	value1	value2	value3
+1	每日一战	t_daily_task_name_1	完成1局大乱斗	t_daily_task_desc_1	3	1	30					1	8	5		1	3	10					
+2	队伍需要我	t_daily_task_name_2	完成1局雪地会战	t_daily_task_desc_2	3	1	130					1	8	10		1	3	20					
+3	勤能补拙	t_daily_task_name_3	完成3局大乱斗	t_daily_task_desc_3	3	3	30					1	8	20		1	3	20		1	4	5	
+4	联合起来更强大	t_daily_task_name_4	完成3局雪地会战	t_daily_task_desc_4	3	3	130					1	8	20		1	3	40					
+5	开黑更精彩	t_daily_task_name_5	与其他玩家组队进入2局对战	t_daily_task_desc_5	3	2	41	1				1	8	20		1	3	40		1	4	5	
+6	强大的回报	t_daily_task_name_6	击败10名其他玩家	t_daily_task_desc_6	2	10	5					1	8	10		1	3	20					
+7	胜利代表着实力	t_daily_task_name_7	大乱斗，取得1次第一名	t_daily_task_desc_7	2	1	9	1				1	8	10		1	3	20					
+8	实力碾压	t_daily_task_name_8	一局战斗中击败5名玩家	t_daily_task_desc_8	2	1	6	5				1	8	15		1	3	30		1	4	5	

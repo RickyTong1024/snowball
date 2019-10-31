@@ -1,0 +1,13 @@
+syntax = "proto2";
+package dhc;
+
+//using autoinc
+//using datetime
+//using index orderno 8
+
+message recharge_t {
+	optional uint64 guid		= 1;
+	optional string orderno		= 2;
+	optional int32 rid			= 3;
+	optional uint64 player_guid	= 4;
+}

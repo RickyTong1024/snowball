@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: d0b58acf285f3034c8059244130ce6ae
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CATRigbone001
+    100002: CATRigbone002
+    100004: CATRigbone003
+    100006: CATRigbone004
+    100008: CATRigbone005
+    100010: CATRigbone006
+    100012: CATRigbone007
+    100014: CATRigbone008
+    100016: CATRigbone009
+    100018: CATRigbone010
+    100020: CATRigbone011
+    100022: CATRigbone012
+    100024: CATRigbone013
+    100026: CATRigbone014
+    100028: CATRigHub
+    100030: //RootNode
+    100032: iceCube_debris01
+    100034: iceCube_debris010
+    100036: iceCube_debris011
+    100038: iceCube_debris012
+    100040: iceCube_debris013
+    100042: iceCube_debris014
+    100044: iceCube_debris02
+    100046: iceCube_debris03
+    100048: iceCube_debris04
+    100050: iceCube_debris05
+    100052: iceCube_debris06
+    100054: iceCube_debris07
+    100056: iceCube_debris08
+    100058: iceCube_debris09
+    400000: CATRigbone001
+    400002: CATRigbone002
+    400004: CATRigbone003
+    400006: CATRigbone004
+    400008: CATRigbone005
+    400010: CATRigbone006
+    400012: CATRigbone007
+    400014: CATRigbone008
+    400016: CATRigbone009
+    400018: CATRigbone010
+    400020: CATRigbone011
+    400022: CATRigbone012
+    400024: CATRigbone013
+    400026: CATRigbone014
+    400028: CATRigHub
+    400030: //RootNode
+    400032: iceCube_debris01
+    400034: iceCube_debris010
+    400036: iceCube_debris011
+    400038: iceCube_debris012
+    400040: iceCube_debris013
+    400042: iceCube_debris014
+    400044: iceCube_debris02
+    400046: iceCube_debris03
+    400048: iceCube_debris04
+    400050: iceCube_debris05
+    400052: iceCube_debris06
+    400054: iceCube_debris07
+    400056: iceCube_debris08
+    400058: iceCube_debris09
+    4300000: iceCube_debris03
+    4300002: iceCube_debris011
+    4300004: iceCube_debris012
+    4300006: iceCube_debris07
+    4300008: iceCube_debris013
+    4300010: iceCube_debris06
+    4300012: iceCube_debris04
+    4300014: iceCube_debris010
+    4300016: iceCube_debris05
+    4300018: iceCube_debris014
+    4300020: iceCube_debris08
+    4300022: iceCube_debris02
+    4300024: iceCube_debris09
+    4300026: iceCube_debris01
+    7400000: iceCube_debris
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: iceCube_debris01
+    13700002: iceCube_debris010
+    13700004: iceCube_debris011
+    13700006: iceCube_debris012
+    13700008: iceCube_debris013
+    13700010: iceCube_debris014
+    13700012: iceCube_debris02
+    13700014: iceCube_debris03
+    13700016: iceCube_debris04
+    13700018: iceCube_debris05
+    13700020: iceCube_debris06
+    13700022: iceCube_debris07
+    13700024: iceCube_debris08
+    13700026: iceCube_debris09
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0
+    animationPositionError: 0
+    animationScaleError: 0
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: iceCube_debris
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub
+        weight: 1
+      - path: CATRigHub/CATRigbone001
+        weight: 1
+      - path: CATRigHub/CATRigbone002
+        weight: 1
+      - path: CATRigHub/CATRigbone003
+        weight: 1
+      - path: CATRigHub/CATRigbone004
+        weight: 1
+      - path: CATRigHub/CATRigbone005
+        weight: 1
+      - path: CATRigHub/CATRigbone006
+        weight: 1
+      - path: CATRigHub/CATRigbone007
+        weight: 1
+      - path: CATRigHub/CATRigbone008
+        weight: 1
+      - path: CATRigHub/CATRigbone009
+        weight: 1
+      - path: CATRigHub/CATRigbone010
+        weight: 1
+      - path: CATRigHub/CATRigbone011
+        weight: 1
+      - path: CATRigHub/CATRigbone012
+        weight: 1
+      - path: CATRigHub/CATRigbone013
+        weight: 1
+      - path: CATRigHub/CATRigbone014
+        weight: 1
+      - path: iceCube_debris01
+        weight: 1
+      - path: iceCube_debris02
+        weight: 1
+      - path: iceCube_debris03
+        weight: 1
+      - path: iceCube_debris04
+        weight: 1
+      - path: iceCube_debris05
+        weight: 1
+      - path: iceCube_debris06
+        weight: 1
+      - path: iceCube_debris07
+        weight: 1
+      - path: iceCube_debris08
+        weight: 1
+      - path: iceCube_debris09
+        weight: 1
+      - path: iceCube_debris010
+        weight: 1
+      - path: iceCube_debris011
+        weight: 1
+      - path: iceCube_debris012
+        weight: 1
+      - path: iceCube_debris013
+        weight: 1
+      - path: iceCube_debris014
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

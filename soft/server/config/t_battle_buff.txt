@@ -1,0 +1,27 @@
+INT	STRING	INT	STRING	STRING	STRING	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT
+id	id	id	id	id	id	id	id	id	id	id	id	id	id	id	id	id	id	id
+1001	变雪人					1	10	100										-1
+1002	冰冻3秒	6	Unit_hit_iceCube03_freeze	Unit_hit_iceCube03_crush		1	104	1										3000
+1003	晕眩3秒	4	Unit_DebuffLoop_stun		Bip001 HeadNub	1	102	1										3000
+1005	致盲6秒	3	Unit_DebuffLoop_blind		Bip001 HeadNub	1	101	1										6000
+1006	混乱4.5秒	5	Unit_DebuffLoop_chaos		Bip001 HeadNub	1	103	1										4500
+1007	减速1秒	1	Unit_DebuffLoop_SlowDown			1	8	-30										1000
+1008	点燃5秒	9	Unit_DebuffLoop_burning		Bip001 HeadNub	1	90	30										5000
+1009	加速2秒	2				1	7	36000										2000
+1010	回复5秒	10	Unit_buff_recover			1	11	20										5000
+1011	回复	10				1	10	25										1000
+1012	回复	10				1	10	100										1000
+1013	回复	10				1	10	250										1000
+2001	减速2秒	1	Unit_DebuffLoop_SlowDown			1	8	-30										2000
+2002	混乱1.5秒	5	Unit_DebuffLoop_chaos		Bip001 HeadNub	1	103	1										1500
+2003	冰冻1秒	6	Unit_hit_iceCube03_freeze	Unit_hit_iceCube03_crush		1	104	1										1000
+2004	致盲3秒	3	Unit_DebuffLoop_blind		Bip001 HeadNub	1	101	1										3000
+2005	晕眩1秒	4	Unit_DebuffLoop_stun		Bip001 HeadNub	1	102	1										1000
+2006	无敌	8	Unit_buff_Invincible	Unit_buff_Invincible_end		1	105	1										0
+3001	盾	7	Unit_buff_shield	Unit_hit_ShieldCollapse														-1
+3002	无敌冷却	0				1	106	1										120000
+3003	隐身	0				1	107	1	1	8	30							3000
+3004	隐身(嫦娥)1	0				1	107	1	1	8	30	1	10	50				5000
+3005	隐身(嫦娥)2	0				1	107	1	1	8	30	1	10	75				7500
+3006	隐身(嫦娥)3	0				1	107	1	1	8	30	1	10	100				10000
+4001	雪怪精魄	11	Unit_buff_IceWing		Bip001 Spine1	1	8	20	1	14	50	1	15	30	1	21	20	60000

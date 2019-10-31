@@ -1,0 +1,126 @@
+INT	STRING	STRING	STRING	STRING	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	STRING	INT
+id	name	name	desc	desc	type	前置成就	账号计数	类型	参数1	参数2	参数3	参数4	成就积分	总星数	当前星数	icon1	lock
+101	广聚豪杰	t_achievement_name_101	拥有5个角色	t_achievement_desc_101	1		5	1	2				10	4	1	hz_icon1	
+102	广聚豪杰	t_achievement_name_102	拥有10个角色	t_achievement_desc_102	1	101	10	1	2				20	4	2	hz_icon2	
+103	广聚豪杰	t_achievement_name_103	拥有15个角色	t_achievement_desc_103	1	102	15	1	2				30	4	3	hz_icon3	
+104	广聚豪杰	t_achievement_name_104	拥有20个角色	t_achievement_desc_104	1	103	20	1	2				40	4	4	hz_icon4	
+105	基情四射	t_achievement_name_105	拥有5位男性角色	t_achievement_desc_105	1		5	1	0				10	4	1	hz_icon1	
+106	基情四射	t_achievement_name_106	拥有10位男性角色	t_achievement_desc_106	1	105	10	1	0				20	4	2	hz_icon2	
+107	基情四射	t_achievement_name_107	拥有15位男性角色	t_achievement_desc_107	1	106	15	1	0				30	4	3	hz_icon3	
+108	基情四射	t_achievement_name_108	拥有20位男性角色	t_achievement_desc_108	1	107	20	1	0				40	4	4	hz_icon4	
+109	倾城倾国	t_achievement_name_109	拥有5位女性角色	t_achievement_desc_109	1		5	1	1				10	4	1	hz_icon1	
+110	倾城倾国	t_achievement_name_110	拥有10位女性角色	t_achievement_desc_110	1	109	10	1	1				20	4	2	hz_icon2	
+111	倾城倾国	t_achievement_name_111	拥有15位女性角色	t_achievement_desc_111	1	110	15	1	1				30	4	3	hz_icon3	
+112	倾城倾国	t_achievement_name_112	拥有20位女性角色	t_achievement_desc_112	1	111	20	1	1				40	4	4	hz_icon4	
+113	雪地小伙伴	t_achievement_name_113	拥有8名普通角色	t_achievement_desc_113	1		8	1	2	1			20	1	1	hz_icon1	
+114	精英聚集	t_achievement_name_114	拥有2名稀有角色	t_achievement_desc_114	1		2	1	2	2			10	3	1	hz_icon1	
+115	精英聚集	t_achievement_name_115	拥有4名稀有角色	t_achievement_desc_115	1	114	4	1	2	2			20	3	2	hz_icon2	
+116	精英聚集	t_achievement_name_116	拥有6名稀有角色	t_achievement_desc_116	1	115	6	1	2	2			30	3	3	hz_icon3	
+117	名人堂	t_achievement_name_117	拥有1名史诗角色	t_achievement_desc_117	1		1	1	2	3			20	3	1	hz_icon1	
+118	名人堂	t_achievement_name_118	拥有3名史诗角色	t_achievement_desc_118	1	117	3	1	2	3			30	3	2	hz_icon2	
+119	名人堂	t_achievement_name_119	拥有5名史诗角色	t_achievement_desc_119	1	118	5	1	2	3			40	3	3	hz_icon3	
+201	等级达人	t_achievement_name_201	账号等级达到10级	t_achievement_desc_201	1		10	2					10	3	1	hz_icon1	
+202	等级达人	t_achievement_name_202	账号等级达到20级	t_achievement_desc_202	1	201	20	2					20	3	2	hz_icon2	
+203	等级达人	t_achievement_name_203	账号等级达到30级	t_achievement_desc_203	1	202	30	2					30	3	3	hz_icon3	
+301	亲密无间之酷酷	t_achievement_name_301	酷酷升至5星	t_achievement_desc_301	1		5	3	1001				10	1	1	hz_icon1	
+302	亲密无间之妮妮	t_achievement_name_302	妮妮升至5星	t_achievement_desc_302	1		5	3	1002				10	1	1	hz_icon1	
+303	亲密无间之小狸	t_achievement_name_303	小狸升至5星	t_achievement_desc_303	1		5	3	1003				10	1	1	hz_icon1	
+304	亲密无间之浣浣	t_achievement_name_304	浣浣升至5星	t_achievement_desc_304	1		5	3	1004				10	1	1	hz_icon1	
+305	亲密无间之牛牛	t_achievement_name_305	牛牛升至5星	t_achievement_desc_305	1		5	3	1005				10	1	1	hz_icon1	
+306	亲密无间之喵酱	t_achievement_name_306	喵酱升至5星	t_achievement_desc_306	1		5	3	1006				10	1	1	hz_icon1	
+307	亲密无间之乐乐	t_achievement_name_307	乐乐升至5星	t_achievement_desc_307	1		5	3	1007				10	1	1	hz_icon1	
+308	亲密无间之雪儿	t_achievement_name_308	雪儿升至5星	t_achievement_desc_308	1		5	3	1008				10	1	1	hz_icon1	
+309	亲密无间之甄姬	t_achievement_name_309	甄姬升至5星	t_achievement_desc_309	1		5	3	2001				20	1	1	hz_icon1	1
+310	亲密无间之黄盖	t_achievement_name_310	黄盖升至5星	t_achievement_desc_310	1		5	3	2002				20	1	1	hz_icon1	
+311	亲密无间之嫦娥	t_achievement_name_311	嫦娥升至5星	t_achievement_desc_311	1		5	3	2003				20	1	1	hz_icon1	
+312	亲密无间之周瑜	t_achievement_name_312	周瑜升至5星	t_achievement_desc_312	1		5	3	2004				20	1	1	hz_icon1	1
+313	亲密无间之武则天	t_achievement_name_313	武则天升至5星	t_achievement_desc_313	1		5	3	2005				20	1	1	hz_icon1	1
+314	亲密无间之吕布	t_achievement_name_314	吕布升至5星	t_achievement_desc_314	1		5	3	3001				30	1	1	hz_icon1	1
+315	亲密无间之貂蝉	t_achievement_name_315	貂蝉升至5星	t_achievement_desc_315	1		5	3	3002				30	1	1	hz_icon1	1
+316	亲密无间之孙悟空	t_achievement_name_316	孙悟空升至5星	t_achievement_desc_316	1		5	3	3003				30	1	1	hz_icon1	1
+317	亲密无间之紫霞	t_achievement_name_317	紫霞升至5星	t_achievement_desc_317	1		5	3	3004				30	1	1	hz_icon1	1
+318	亲密无间之槽里马	t_achievement_name_318	槽里马升至5星	t_achievement_desc_318	1		5	3	2006				30	1	1	hz_icon1	
+319	亲密无间之冷风	t_achievement_name_319	冷风升至5星	t_achievement_desc_319	1		5	3	3005				30	1	1	hz_icon1	1
+320	亲密无间之敖饼	t_achievement_name_320	敖饼升至5星	t_achievement_desc_320	1		5	3	3006				30	1	1	hz_icon1	1
+501	终结者	t_achievement_name_501	累计击败其他玩家200次	t_achievement_desc_501	2		200	5					10	5	1	hz_icon1	
+502	终结者	t_achievement_name_502	累计击败其他玩家500次	t_achievement_desc_502	2	501	500	5					20	5	2	hz_icon2	
+503	终结者	t_achievement_name_503	累计击败其他玩家1000次	t_achievement_desc_503	2	502	1000	5					30	5	3	hz_icon3	
+504	终结者	t_achievement_name_504	累计击败其他玩家2000次	t_achievement_desc_504	2	503	2000	5					40	5	4	hz_icon4	
+505	终结者	t_achievement_name_505	累计击败其他玩家5000次	t_achievement_desc_505	2	504	5000	5					50	5	5	hz_icon5	
+601	势不可挡	t_achievement_name_601	一局对战中击败其他玩家8次	t_achievement_desc_601	2		1	6	8				10	5	1	hz_icon1	
+602	势不可挡	t_achievement_name_602	一局对战中击败其他玩家10次	t_achievement_desc_602	2	601	1	6	10				20	5	2	hz_icon2	
+603	势不可挡	t_achievement_name_603	一局对战中击败其他玩家12次	t_achievement_desc_603	2	602	1	6	12				30	5	3	hz_icon3	
+604	势不可挡	t_achievement_name_604	一局对战中击败其他玩家14次	t_achievement_desc_604	2	603	1	6	14				40	5	4	hz_icon4	
+605	势不可挡	t_achievement_name_605	一局对战中击败其他玩家16次	t_achievement_desc_605	2	604	1	6	16				50	5	5	hz_icon5	
+701	连环击破	t_achievement_name_701	一局对战中连续击败6名玩家	t_achievement_desc_701	2		1	7	6				10	5	1	hz_icon1	
+702	连环击破	t_achievement_name_702	一局对战中连续击败7名玩家	t_achievement_desc_702	2	701	1	7	7				20	5	2	hz_icon2	
+703	连环击破	t_achievement_name_703	一局对战中连续击败8名玩家	t_achievement_desc_703	2	702	1	7	8				30	5	3	hz_icon3	
+704	连环击破	t_achievement_name_704	一局对战中连续击败9名玩家	t_achievement_desc_704	2	703	1	7	9				40	5	4	hz_icon4	
+705	连环击破	t_achievement_name_705	一局对战中连续击败10名玩家	t_achievement_desc_705	2	704	1	7	10				50	5	5	hz_icon5	
+801	全身而退	t_achievement_name_801	一局大乱斗中没有死亡过	t_achievement_desc_801	2		1	8					10	1	1	hz_icon1	
+901	全场最佳	t_achievement_name_901	大乱斗，获得10次第一名	t_achievement_desc_901	2		10	9					10	5	1	hz_icon1	
+902	全场最佳	t_achievement_name_902	大乱斗，获得50次第一名	t_achievement_desc_902	2	901	50	9					20	5	2	hz_icon2	
+903	全场最佳	t_achievement_name_903	大乱斗，获得100次第一名	t_achievement_desc_903	2	902	100	9					30	5	3	hz_icon3	
+904	全场最佳	t_achievement_name_904	大乱斗，获得200次第一名	t_achievement_desc_904	2	903	200	9					40	5	4	hz_icon4	
+905	全场最佳	t_achievement_name_905	大乱斗，获得300次第一名	t_achievement_desc_905	2	904	300	9					50	5	5	hz_icon5	
+1101	球来球挡	t_achievement_name_1101	使用滚雪球单次抵消掉敌人的3次雪球	t_achievement_desc_1101	2		1	11	200401	2	100101	3	10	1	1	hz_icon1	
+1102	天外浩劫	t_achievement_name_1102	使用陨石单次击败2名敌人	t_achievement_desc_1102	2		1	11	200901	1	1	2	10	1	1	hz_icon1	
+1103	死亡如风	t_achievement_name_1103	使用龙卷风单次吹飞3名敌人	t_achievement_desc_1103	2		1	11	200801	1		3	10	1	1	hz_icon1	
+1104	无处可逃	t_achievement_name_1104	使用暴风雪单次击败2名敌人	t_achievement_desc_1104	2		1	11	200701	1	1	2	10	1	1	hz_icon1	
+1105	雷霆万钧	t_achievement_name_1105	使用闪电球单次命中3名敌人	t_achievement_desc_1105	2		1	11	200301	1		3	10	1	1	hz_icon1	
+1201	无招胜有招	t_achievement_name_1201	不使用任何技能的情况下完成一局对战	t_achievement_desc_1201	2		1	12					10	1	1	hz_icon1	
+1301	道法自然	t_achievement_name_1301	一局对战中只使用技能击败敌人	t_achievement_desc_1301	2		1	13					10	1	1	hz_icon1	
+1401	攻防一体	t_achievement_name_1401	使用滚雪球抵挡敌人雪球100次	t_achievement_desc_1401	2		100	14	200401	2	100101		10	1	1	hz_icon1	
+1601	雪人必须死	t_achievement_name_1601	普通雪球命中雪人500次	t_achievement_desc_1601	2		500	16					10	1	1	hz_icon1	
+1701	男性公敌	t_achievement_name_1701	一局对战中击败男性角色8次	t_achievement_desc_1701	2		1	17	0	8			10	1	1	hz_icon1	
+1702	女性公敌	t_achievement_name_1702	一局对战中击败女性角色8次	t_achievement_desc_1702	2		1	17	1	8			10	1	1	hz_icon1	
+1801	兄弟走好	t_achievement_name_1801	一局对战中只击败男性角色，且不低于5次	t_achievement_desc_1801	2		1	18	0	5			10	1	1	hz_icon1	
+1802	辣手摧花	t_achievement_name_1802	一局对战中只击败女性角色，且不低于5次	t_achievement_desc_1802	2		1	18	1	5			10	1	1	hz_icon1	
+1901	三国眷侣之貂蝉	t_achievement_name_1901	使用貂蝉击败吕布50次	t_achievement_desc_1901	2		50	19	3002	3001			10	1	1	hz_icon1	1
+1902	三国眷侣之吕布	t_achievement_name_1902	使用吕布击败貂蝉50次	t_achievement_desc_1902	2		50	19	3001	3002			10	1	1	hz_icon1	1
+1903	西游眷侣之紫霞	t_achievement_name_1903	使用紫霞击败孙悟空50次	t_achievement_desc_1903	2		50	19	3004	3003			10	1	1	hz_icon1	1
+1904	西游眷侣之悟空	t_achievement_name_1904	使用孙悟空击败紫霞50次	t_achievement_desc_1904	2		50	19	3003	3004			10	1	1	hz_icon1	1
+1905	美人之争之甄姬	t_achievement_name_1905	使用甄姬击败貂蝉50次	t_achievement_desc_1905	2		50	19	2001	3002			10	1	1	hz_icon1	1
+1906	美人之争之貂蝉	t_achievement_name_1906	使用貂蝉击败甄姬50次	t_achievement_desc_1906	2		50	19	3002	2001			10	1	1	hz_icon1	1
+1907	暴走仙女之嫦娥	t_achievement_name_1907	使用嫦娥击败紫霞50次	t_achievement_desc_1907	2		50	19	2003	3004			10	1	1	hz_icon1	1
+1908	暴走仙女之紫霞	t_achievement_name_1908	使用紫霞击败嫦娥50次	t_achievement_desc_1908	2		50	19	3004	2003			10	1	1	hz_icon1	1
+1909	真假猴王	t_achievement_name_1909	使用孙悟空击败孙悟空50次	t_achievement_desc_1909	2		50	19	3003	3003			10	1	1	hz_icon1	1
+1910	苦肉计	t_achievement_name_1910	使用周瑜击败黄盖50次	t_achievement_desc_1910	2		50	19	2004	2002			10	1	1	hz_icon1	1
+1911	都督轻点	t_achievement_name_1911	使用黄盖击败周瑜50次	t_achievement_desc_1911	2		50	19	2002	2004			10	1	1	hz_icon1	1
+2001	女王驾到	t_achievement_name_2001	使用武则天击败男性角色50次	t_achievement_desc_2001	2		50	20	2005	0			10	1	1	hz_icon1	1
+2101	你死我活	t_achievement_name_2101	一局对战中击败同一名玩家5次	t_achievement_desc_2101	2		1	21	5				10	3	1	hz_icon1	
+2102	你死我活	t_achievement_name_2102	一局对战中击败同一名玩家7次	t_achievement_desc_2102	2	2101	1	21	7				20	3	2	hz_icon2	
+2103	你死我活	t_achievement_name_2103	一局对战中击败同一名玩家10次	t_achievement_desc_2103	2	2102	1	21	10				30	3	3	hz_icon3	
+2201	空中拦截	t_achievement_name_2201	击败5次空中的敌人	t_achievement_desc_2201	2		5	22					10	2	1	hz_icon1	
+2202	空中拦截	t_achievement_name_2202	击败10次空中的敌人	t_achievement_desc_2202	2	2201	10	22					20	2	2	hz_icon2	
+2301	料事如神	t_achievement_name_2301	单次致盲状态下击败1名敌人	t_achievement_desc_2301	2		1	23	101	1			10	1	1	hz_icon1	
+2302	走位犀利	t_achievement_name_2302	单次混乱状态下击败1名敌人	t_achievement_desc_2302	2		1	23	103	1			10	1	1	hz_icon1	
+2501	秀翻全场	t_achievement_name_2501	一局对战中自己生命值低于10%状态下击败2名敌人	t_achievement_desc_2501	2		1	25	10	2			10	2	1	hz_icon1	
+2502	秀翻全场	t_achievement_name_2502	一局对战中自己生命值低于10%状态下击败3名敌人	t_achievement_desc_2502	2	2501	1	25	10	3			20	2	2	hz_icon2	
+2601	捡漏王	t_achievement_name_2601	一局对战中补刀3名生命值低于20%敌人	t_achievement_desc_2601	2		1	26	20	3			10	1	1	hz_icon1	
+2701	全民公敌	t_achievement_name_2701	一局对战中击败过4名不同敌人	t_achievement_desc_2701	2		1	27	4				10	2	1	hz_icon1	
+2702	全民公敌	t_achievement_name_2702	一局对战中击败过5名不同敌人	t_achievement_desc_2702	2	2701	1	27	5				20	2	2	hz_icon2	
+2801	巨人克星	t_achievement_name_2801	一局大乱斗中击败排行第一名的敌人3次	t_achievement_desc_2801	2		1	28	1	3			10	3	1	hz_icon1	
+2802	巨人克星	t_achievement_name_2802	一局大乱斗中击败排行第一名的敌人4次	t_achievement_desc_2802	2	2801	1	28	1	4			20	3	2	hz_icon2	
+2803	巨人克星	t_achievement_name_2803	一局大乱斗中击败排行第一名的敌人5次	t_achievement_desc_2803	2	2802	1	28	1	5			30	3	3	hz_icon3	
+2901	以德服人	t_achievement_name_2901	一局大乱斗中不击败任何人获得第一名	t_achievement_desc_2901	2		1	29					10	1	1	hz_icon1	
+3001	孤胆英雄	t_achievement_name_3001	累计参加50局大乱斗	t_achievement_desc_3001	3		50	30					10	5	1	hz_icon1	
+3002	孤胆英雄	t_achievement_name_3002	累计参加100局大乱斗	t_achievement_desc_3002	3	3001	100	30					20	5	2	hz_icon2	
+3003	孤胆英雄	t_achievement_name_3003	累计参加300局大乱斗	t_achievement_desc_3003	3	3002	300	30					30	5	3	hz_icon3	
+3004	孤胆英雄	t_achievement_name_3004	累计参加500局大乱斗	t_achievement_desc_3004	3	3003	500	30					40	5	4	hz_icon4	
+3005	孤胆英雄	t_achievement_name_3005	累计参加1000局大乱斗	t_achievement_desc_3005	3	3004	1000	30					50	5	5	hz_icon5	
+3201	以牙还牙	t_achievement_name_3201	死亡状态下击败1名敌人	t_achievement_desc_3201	2		1	32	1				10	2	1	hz_icon1	
+3202	以牙还牙	t_achievement_name_3202	死亡状态下击败2名敌人	t_achievement_desc_3202	2	3201	1	32	2				20	2	2	hz_icon2	
+3301	破釜沉舟	t_achievement_name_3301	一局大乱斗中不使用变雪人获得第一名	t_achievement_desc_3301	2		1	33					10	1	1	hz_icon1	
+3401	无处可藏	t_achievement_name_3401	一局对战中于草丛外击败藏身草丛中的2名敌人	t_achievement_desc_3401	2		1	34	2				10	2	1	hz_icon1	
+3402	无处可藏	t_achievement_name_3402	一局对战中于草丛外击败藏身草丛中的3名敌人	t_achievement_desc_3402	2	3401	1	34	3				20	2	2	hz_icon2	
+3501	奖杯达人	t_achievement_name_3501	达到白金奖杯	t_achievement_desc_3501	1		1	35	15				10	5	1	hz_icon1	
+3502	奖杯达人	t_achievement_name_3502	达到钻石奖杯	t_achievement_desc_3502	1	3501	1	35	25				20	5	2	hz_icon2	
+3503	奖杯达人	t_achievement_name_3503	达到大师奖杯	t_achievement_desc_3503	1	3502	1	35	40				30	5	3	hz_icon3	
+3504	奖杯达人	t_achievement_name_3504	达到冰魂奖杯	t_achievement_desc_3504	1	3503	1	35	55				40	5	4	hz_icon4	
+3505	奖杯达人	t_achievement_name_3505	达到至尊奖杯	t_achievement_desc_3505	1	3504	1	35	85				50	5	5	hz_icon5	
+13011	团队精英	t_achievement_name_13011	累计参加50局雪地会战	t_achievement_desc_13011	3		50	130					10	5	1	hz_icon1	
+13012	团队精英	t_achievement_name_13012	累计参加100局雪地会战	t_achievement_desc_13012	3	13011	100	130					20	5	2	hz_icon2	
+13013	团队精英	t_achievement_name_13013	累计参加300局雪地会战	t_achievement_desc_13013	3	13012	300	130					30	5	3	hz_icon3	
+13014	团队精英	t_achievement_name_13014	累计参加500局雪地会战	t_achievement_desc_13014	3	13013	500	130					40	5	4	hz_icon4	
+13015	团队精英	t_achievement_name_13015	累计参加1000局雪地会战	t_achievement_desc_13015	3	13014	1000	130					50	5	5	hz_icon5	

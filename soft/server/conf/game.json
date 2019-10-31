@@ -1,0 +1,10 @@
+{
+	"qid" : 0,
+	"one_add" : 50000,
+	"tick" : 30,
+	"conf_path" : "../config",
+	"log" : "debug",
+	"lang" : "0",
+	"busy" : 2000,
+	"test" : 1
+}

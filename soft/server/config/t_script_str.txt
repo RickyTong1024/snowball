@@ -1,0 +1,383 @@
+STRING	STRING	STRING	STRING	STRING	STRING
+代号	简体中文	繁體中文	English	日本語	???
+AvatarPanel_001	使用中		Using		
+AvatarPanel_002	未解锁		Locked		
+AvatarPanel_003	使用		Use		
+AvatarPanel_004	[e4ac01]剩余时间：		[e4ac01]Countdown		
+AvatarPanel_005	头像		Avatar		
+AvatarPanel_006	头像框		Rim		
+AvatarPanel_007	你正在使用此头像		This avatar is using		
+AvatarPanel_008	你还未解锁此头像		This avatar is locked		
+AvatarPanel_009	你正在使用此头像框		This rim is using		
+AvatarPanel_010	你还未解锁此头像框		This rim is locked		
+BuyPanel_001	雪球皮肤		AMMO Skin		
+BuyPanel_002	雪炮皮肤		Gun Skin		
+BuyPanel_003	蓄力特效		Charge Effect		
+BuyPanel_004	已拥有 %s%s		Unlocked		
+BuyPanel_005	"你的 %s%s[-] 不足,是否充值?"		"Your %s%s[-] is not enough, go to recharge"		
+BuyPanel_006	充值		Recharge		
+BuyPanel_007	取消		Cancel		
+BuyPanel_008	%s%s[-] 不足		%s%s[-] is not enough		
+ChatPanel_001	不能使用非法字符		Illegal charaters		
+ChatPanel_002	发言不能为空		Cannot send an empty message		
+ChatPanel_003	最多只能输入30个汉字		No more than 30 letters		
+ChatPanel_004	大喇叭数量不足		Not enough Trumpet		
+ChatPanel_005	您有%s条未读信息！		You have %s new message(s)		
+ChatPanel_006	点击输入		Tap to input		
+ChestPanel_001	资源		Resource		
+ChestPanel_002	角色		Hero		
+ChestPanel_003	道具		Item		
+ChestPanel_004	碎片合成		Summon		
+ChestPanel_005	可以合成		Summon		
+ChestPanel_006	等级解锁		Locked		
+ChestPanel_007	商城购买		Buy		
+ChestPanel_008	可以升星		Upgarde		
+ChestPanel_009	已满星		Max		
+ChestPanel_010	新的道具		New Item		
+ChestPanel_011	另一个宝箱正在解锁		Another chest is unlocking		
+ChestPanel_012	未完成足够的战斗场数		Required more games to unlock		
+ChestPanel_013	"完成一次分享操作即可领取哦,快去召唤小伙伴吧"		"Share once to get, call friends now"		
+ChestPanel_014	"你的 %s%s[-] 不足,是否充值?"		"Your %s%s[-] is not enough, go to recharge"		
+ChestPanel_015	是		OK		
+ChestPanel_016	否		Cancel		
+ChestShowPanel_001	[3AB9FC]打开需要完成[-][57FC5B]3[-][3AB9FC]场大乱斗{nn}或雪地会战		[3AB9FC]Required to play the Melee or Conflict [-][57FC5B]3[-][3AB9FC] times		
+ChestShowPanel_002	[C2E5ED]解锁时间 %s		[C2E5ED]Unlocking time %s		
+ChestShowPanel_003	宝箱位		Chest slot		
+ChestShowPanel_004	[57FC5B]解锁完毕		[57FC5B]Unlocked		
+ChestShowPanel_005	[C2E5ED]今日可开启[-][f01c1c]0[-][C2E5ED]次，每日[-][57FC5B]05:00[-][C2E5ED]重置[-]		"[C2E5ED]Remaining [-][f01c1c]0[-][C2E5ED] time(s), reset at [-][57FC5B]5:00 am[-][C2E5ED] daily[-]"		
+ChestShowPanel_006	已领取		Claimed		
+ChestShowPanel_007	[C2E5ED]今日可开启[-][57FC5B]1[-][C2E5ED]次，每日[-][57FC5B]05:00[-][C2E5ED]重置[-]		"[C2E5ED]Remaining [-][f01c1c]1[-][C2E5ED] time(s), reset at [-][57FC5B]5:00 am[-][C2E5ED] daily[-]"		
+ChestShowPanel_008	可领取		Claim		
+CupPanel_001	大乱斗模式排名前%s，加1星		"Ranking above %s in Melee, star +1"		
+CupPanel_002	%s；排名未达到前%s，减1星		"%s; Ranking below %s, star -1"		
+CupPanel_003	雪地会战模式队伍排名前%s且个人得分达到%s，加1星		"Ranking above %s and personal score above %s in Conflict, star +1"		
+CupPanel_004	雪地会战模式队伍排名前%s，加1星		"Ranking above %s in Conflict, star +1"		
+CupPanel_005	%s；队伍排名未达到前%s，减1星		"%s; Ranking below %s, star -1"		
+DetailPanel_001	资源		Resource		
+DetailPanel_002	角色		Hero		
+DetailPanel_003	道具		Item		
+DetailPanel_004	[C2E5ED]拥有  %s		[C2E5ED]Have %s		
+DetailPanel_005	[57FC5B]已拥有		[57FC5B]Unlocked		
+DetailPanel_006	[7E90A4]未拥有		[7E90A4]Locked		
+DetailPanel_007	头像框		Rim		
+DetailPanel_008	雪球皮肤		AMMO Skin		
+DetailPanel_009	蓄力特效		Charge Effect		
+DetailPanel_010	雪炮皮肤		Gun Skin		
+FriendPanel_001	[07D0FA]在线		[07D0FA]Online		
+FriendPanel_002	[e4ac01]游戏中..		[e4ac01]Fighting		
+FriendPanel_003	[4C6373]离线		[4C6373]Offline		
+FriendPanel_004	好友		Friend		
+FriendPanel_005	黑名单		Blacklist		
+FriendPanel_006	您当前没有任何好友{nn}可通过推荐添加好友或者搜索好友		"Mr Lonely, try to make friends!"		
+FriendPanel_007	黑名单空空如也		"No one on the list, you are a nice guy!"		
+FriendPanel_008	验证消息：%s		Message: %s		
+FriendPanel_009	确定要删除好友[e4ac01] %s[-] 吗?		You will lose a firend named [e4ac01]%s[-]		
+FriendPanel_010	确定		OK		
+FriendPanel_011	取消		Cancel		
+FriendPanel_012	您已经原谅[e4ac01] %s[-] 了么?		You will forgvie this guy named [e4ac01]%s[-]		
+FriendPanel_013	今日赠送已达10次，无法继续赠送金币		"You have gifted gold 10 times today, please do it tomorrow"		
+FriendPanel_014	"您的黑名单数量已达上限,请解除部分屏蔽后再操作"		Your blacklist is full		
+FriendPanel_015	"您的好友数量已达上限,请删除部分好友再操作"		Your friend list is full		
+FriendPanel_016	已拒绝		Ignored		
+FriendPanel_017	已同意		Agreed		
+FriendPanel_018	不能使用非法字符		illegal character		
+FriendPanel_019	发言不能为空		Cannot send an empty message		
+FriendPanel_020	您已经原谅（解除屏蔽）这些玩家了么?		You will forgvie all of them		
+FriendPanel_021	黑名单为空		"No one on the list, you are a nice guy!"		
+FriendPanel_022	昵称长度必须为4-24个字符		Username must be 6 to 18 letters		
+FriendPanel_023	昵称中包含非法字符		Illegal character in username		
+FriendPanel_024	请输入玩家昵称		Input a player's nickname		
+FriendPanel_025	当前在线		Current		
+FriendPanel_026	赠送成功		Gift successfully		
+FriendPanel_027	您有%s条未读信息！		You have %s new message(s)		
+HallPanel_001	充值中		Recharging		
+HallPanel_002	充值成功		Recharge successfully 		
+HallPanel_003	系统		System		
+HallPanel_004	频道		Chanel		
+HallPanel_005	剩余时间：		Countdown:		
+HallPanel_006	立即领取		Claim		
+HallPanel_007	已领取		Claimed		
+HallPanel_008	成为月卡会员		To get		
+HallPanel_009	成为年卡会员		To get		
+HallPanel_010	你已是年卡会员无法成为月卡会员		You are already a year card member		
+HallPanel_011	你已领取过当天奖励了		You have claimed the reward today		
+HallPanel_012	立即充值		Recharge		
+HallPanel_013	立即领取		Claim		
+HallPanel_014	[c2e5ed]战斗结算双倍收益剩余次数（[ffcd00]3级[-]后自嗨模式结算不享受双倍收益）		[c2e5ed]Remaining times of double profit(Not involve the Practice after [ffcd00]Lv.3[-]):		
+HallPanel_015	[c2e5ed]每日[57FC5B] 5:00 [-]重置双倍次数		[c2e5ed]Reset at[57FC5B] 5:00 am [-]daily		
+HallPanel_016	%s级开放		Unlock at Lv.%s		
+HallPanel_017	此模式 [ffcd00]%s级[-] 开放		Required [ffcd00]Lv.%s[-] to unlock		
+HallPanel_018	与服务器断开连接		Disconnected		
+HallPanel_019	重新连接		Reconnect		
+HallPanel_020	比赛已结束		Game over		
+HallPanel_021	检测到您有一场比赛仍在进行，是否恢复比赛		"You are still in the game, resume it?"		
+HallPanel_022	恢复比赛		Resume		
+HallPanel_023	确定		OK		
+HallPanel_024	交个朋友吧~~		"Hi, I wanna play with you"		
+HallPanel_025	视频		Video		
+HallPanel_026	观看视频可以领取20钻石奖励，每日最多领取5次		"You can receive 20 diamonds after watching a video, 5 times limited daily"		
+HallPanel_027	跳过视频，无法获得奖励		Skipped Video		
+HallPanel_028	%s 后可再次观看领取钻石		It will be ready after %s		
+ItemPanel_001	道具		Item		
+ItemPanel_002	雪球		AMMO		
+ItemPanel_003	雪炮		Gun		
+ItemPanel_004	特效		Effect		
+ItemPanel_005	数量		Amount		
+ItemPanel_006	卸下		Remove		
+ItemPanel_007	装备		Use		
+ItemPanel_008	雪球皮肤		AMMO Skin		
+ItemPanel_009	蓄力特效		Charge Effect		
+ItemPanel_010	雪炮皮肤		Gun Skin		
+LevelTask_001	等级		Level 		
+LevelTask_002	专属任务		 Task		
+LevelTask_003	成长历程		Progress		
+LevelTask_004	每日任务		Daily Task		
+LoadPanel_001	加载中..（加载过程中不消耗流量）		Loading…		
+LoadPanel_002	加载中%s%%（加载过程中不消耗流量）		Loading %s%%		
+LoadPanel_003	加载完成		Load finished		
+LoginPanel_001	确定		OK		
+LoginPanel_002	"版本过低,请更新"		"Old version, please update"		
+LoginPanel_003	进入大厅失败		Login fail		
+LoginPanel_004	重新登录		Login again		
+LoginPanel_005	连接connect失败		Connect failed		
+LoginPanel_006	账号验证失败		Failed to verify account		
+LoginPanel_007	登录游戏失败		Failed to login		
+LoginPanel_008	进入大厅失败		Failed to enter the hall		
+LoginPanel_009	今日登陆奖励		Sign-in reward today		
+LoginPanel_010	天上掉馅饼啦！快来领走您的奖励吧		"Knock knock, here are gifts to you"		
+LoginPanel_011	进入大厅成功		Welcome		
+MailPanel_001	当前没有邮件		No mails now		
+MailPanel_002	"哇,只要动一下手指就可以把邮件里的宝贝全拿走,何乐而不为呢"		"Tap only once and you can gain all attachments, why not?"		
+MailPanel_003	确定		OK		
+MailPanel_004	取消		Cancel		
+MailPanel_005	"这样一来,所有读过的邮件都可以清除干净了!别担心,没有领取的邮件还是会等你领取的哦!"		Tap only once and you can delete all read mails without attachments		
+MaskPanel_001	连接中		Connecting		
+NewAchievePanel_001	%s级奖励		Required Lv.%s		
+NewAchievePanel_002	获得		Finished		
+NewAchievePanel_003	未获得		Unfinished		
+NewAchievePanel_004	已领取		Claimed		
+NewAchievePanel_005	已完成		Available		
+NewAchievePanel_006	未完成		Unavailable		
+NewAchievePanel_007	查看成就		View Honor		
+NewAchievePanel_008	查看所有奖励		View all rewards		
+NoticePanel_001	"您的好友数量已达上限,请删除部分好友再操作"		Your friend list is full		
+NoticePanel_002	确定		OK		
+NoticePanel_003	交个朋友吧~~		"Hi, I wanna play with you"		
+NoticePanel_004	请输入验证信息		Input the message		
+NoticePanel_005	成功向对方发送好友请求		Send successfully		
+RankPanel_001	奖杯		Cup		
+RankPanel_002	成就积分		Honor Point		
+RankPanel_003	最高得分		Best Score		
+RankPanel_004	最高击杀		Most Kill		
+RankPanel_005	最高连杀		Best Combo		
+RankPanel_006	未知		Unknown		
+RankPanel_007	未上榜		--		
+RankPanel_008	今日赠送已达10次，无法继续赠送金币		"You have gifted gold 10 times today, please do it tomorrow"		
+RankPanel_009	已经赠送过该玩家!		Cannot gift gold to the same player twice		
+RankPanel_010	赠送成功		Gift successfully		
+RankPanel_011	成功向对方发送好友请求		Send successfully		
+RolePanel_001	满星		Max		
+RolePanel_002	级领取		Unlock##at Lv.%s		
+RolePanel_003	可领取		Available		
+RolePanel_004	商城购买		Buy		
+RolePanel_005	首充礼包		First##Recharge		
+RolePanel_006	福利礼包		Privilege		
+RolePanel_007	合成		Summon		
+RolePanel_008	前往领取		Go get		
+RolePanel_009	购买		Buy		
+RolePanel_010	前往		Go get		
+RolePanel_011	角色碎片不足，无法升星		Not enough hero shard		
+RolePanel_012	金币不足，无法升星		Not enough gold		
+RolePanel_013	角色碎片不足		Not enough hero shard		
+RolePanel_014	账号等级%s才能领取		Required Lv.%s		
+RolePanel_015	您还没有解锁此角色！		This hero is locked		
+SetPanel_001	公告拉取中		Loading the notice		
+SetPanel_002	公告拉取失败		Fail to load the notice		
+SetPanel_003	请输入礼包码		Input the gift code		
+SetPanel_004	领取成功		Claim successfully		
+SharePanel_001	复制链接成功		Copy successfully		
+SharePanel_002	已领取		Claimed		
+SharePanel_003	查看		View		
+SharePanel_004	领取		Claim		
+ShopPanel_001	道具		Item		
+ShopPanel_002	角色		Hero		
+ShopPanel_003	皮肤		Skin		
+ShopPanel_004	夺宝		Treasure		
+ShopPanel_005	充值		Recharge		
+ShopPanel_006	剩余		Remaining		
+ShopPanel_007	本期奖励剩余时间：		Lottery this period countdown:		
+ShopPanel_008	%s今日限购 [-]%s%s/10		%s Remaining times [-]%s%s/10		
+ShopPanel_009	每天最多夺宝十次哦		Snatch treasure up to 10 times daily		
+ShopPanel_010	"你的 %s%s[-] 不足,是否充值?"		"Your %s%s[-] is not enough, go to recharge"		
+ShopPanel_011	充值		Recharge		
+ShopPanel_012	取消		Cancel		
+ShopPanel_013	%s%s[-] 不足，无法夺宝		"%s%s[-] is not enough, go to recharge first"		
+ShopPanel_014	别心急嘛，%s后再续费吧		"Take easy, renew after %s days"		
+ShopPanel_015	充值中		Recharging		
+ShopPanel_016	冰雪大作战%s元礼包充值		%s dollar gift pack		
+ShopPanel_017	充值失败		Fail to recharge		
+ShopPanel_018	充值成功		Recharge successfully 		
+ShopPanel_019	该功能未开放，敬请期待		Not available		
+ShopPanel_020	敬请期待		Not available		
+SignPanel_001	你已经领取过当天奖励了		You have claimed the reward today		
+StartPanel_001	用户名:		Username:		
+StartPanel_002	登录中		Logining		
+StartPanel_003	账号登陆中		Logining		
+StartPanel_004	登陆成功		Login successfully		
+StartPanel_005	账号或密码长度错误		Username or password's lenth error		
+StartPanel_006	系统错误		System error		
+StartPanel_007	未注册的用户		Username unrecorded		
+StartPanel_008	账号或密码错误		Username or password error		
+StartPanel_009	用户名不能为空		Empty username		
+StartPanel_010	用户名不能小于6位字符		Username must be 6 to 18 letters		
+StartPanel_011	用户名不能大于18位字符		Username must be 6 to 18 letters		
+StartPanel_012	用户名格式不正确		Username error		
+StartPanel_013	请填写密码		Empty password		
+StartPanel_014	密码中不能包含非法字符		Illegal characters in password		
+StartPanel_015	俩次输入的密码不一致		The second password must be the same as the first one		
+StartPanel_016	账号注册中		Registering		
+StartPanel_017	注册成功		Register successfully		
+StartPanel_018	账号已存在		ID exists		
+StartPanel_019	修改密码成功		Modify password successfully		
+TeamPanel_001	在线		Online		
+TeamPanel_002	游戏中		Fighting		
+TeamPanel_003	已邀请		Invited		
+TeamPanel_004	离线		Offline		
+TeamPanel_005	组队中		In team		
+TeamPanel_006	确定要退出组队吗？		You will leave this team		
+TeamPanel_007	确定		OK		
+TeamPanel_008	取消		Cancel		
+TeamPanel_009	充值将离开当前队伍，是否继续充值？		Leave the team to recharge		
+TeamPanel_010	不能使用非法字符		Illegal characters		
+TeamPanel_011	发言不能为空		Cannot send an empty message		
+TeamPanel_012	[e4ac01]%s[-] 离开了房间		[e4ac01]%s[-] left the team		
+TeamPanel_013	[e4ac01]%s[-] 被赶出了房间		[e4ac01]%s[-] is kicked out		
+TeamPanel_014	好友		Friend		
+TeamPanel_015	推荐		Recommend		
+TeamPanel_016	[e4ac01]%s[-] 加入了房间		[e4ac01]%s[-] join the team		
+TeamPanel_017	[e4ac01]%s[-] 被任命为队长		[e4ac01]%s[-] becomes captain		
+TeamPanel_018	您被赶出了房间		You are kicked out		
+TeamPanel_019	队伍解散了		Team is dismissed		
+ZonePanel_001	主页		Main		
+ZonePanel_002	成就		Honor		
+ZonePanel_003	历史		History		
+ZonePanel_004	每周战斗金币		Weekly fight gold		
+ZonePanel_005	资料未编辑		Not edited		
+ZonePanel_006	无		Nothing		
+ZonePanel_007	一切尽在不言中~~		No words to say		
+ZonePanel_008	丢失		Miss		
+ZonePanel_009	成就等级：		Honor Level:		
+ZonePanel_010	首次修改昵称免费		Free for the first time		
+ZonePanel_011	[c2e5ed]使用[ff41da]改名卡[-]来修改你的账号昵称		[c2e5ed]Use [ff41da]Rename Card[-] to change your nickname		
+ZonePanel_012	[ff41da]改名卡[-][c2e5ed]剩余数量：[-][57FC5B]		[c2e5ed]Remaining [ff41da]Rename Card[-]: [57FC5B]		
+ZonePanel_013	昵称长度需要在2~8之间		Nickname must be 2 to 8 characters		
+ZonePanel_014	昵称中不能包含非法字符		Illegal characters in nickname		
+ZonePanel_015	数量不足		Not enough rename card		
+ZonePanel_016	个性签名长度只能为1~60个字符		Signature must be 1 to 60 characters		
+ZonePanel_017	个性签名中不能包含非法字符		Illegal characters in your signature		
+ZonePanel_018	点击输入		Tap to input		
+function_001	天		d 		
+function_002	小时		h 		
+function_003	分钟		m 		
+function_004	月前		months ago		
+function_005	天前		d ago		
+function_006	小时前		h ago		
+function_007	分钟前		m ago		
+function_008	刚刚		right now		
+function_009	月		Month		
+function_010	日		Day		
+Message_001	充值成功!		Recharge successfully 		
+Message_002	与服务器通信超时		Communication with the server timed out		
+Message_003	确定		OK		
+Message_004	登录失效，请重新连接服务器		"Fail to login, please try again"		
+Message_005	重新连接		Reconnect		
+Message_006	您的账号在别处登录		Your account is logged on another device		
+Message_007	返回大厅		Back to hall		
+Message_008	你与 [e4ac01]%s[-] 已经成为好友关系		[e4ac01]%s[-] is your friend now		
+Message_009	已将 [e4ac01]%s[-] 加入黑名单		[e4ac01]%s[-] is on your blacklist		
+Message_010	好友 [e4ac01]%s[-] 上线了		[e4ac01]%s[-] is online		
+Message_011	分享成功		Thanks for your sharing		
+PlayerData_001	服务器信息加载中		Server information loading		
+PlayerData_002	服务器信息加载失败		Server information loading failed		
+PlayerData_003	重试		Retry		
+PlayerData_004	服务器响应超时		Server response timeout		
+PlayerData_005	"服务器连接失败,请检查网络连接"		"Server disconnected, check your network"		
+BattleTcp_001	正在进入房间		Entering the battlefield		
+BattleTcp_002	连接战斗服失败		Battle server disconnected		
+BattleTcp_003	确定		OK		
+BattleTcp_004	连接失败		Fail to connect		
+BattleTcp_005	返回大厅		Back to hall		
+BattleTcp_006	与服务器断开连接		Disconnected		
+BattleTcp_007	您的账号在别处登录		Your account is logged on another device		
+BattleTcp_008	战斗已结束		Battle finished		
+BattleTcp_009	正在尝试重连		Reconnecting		
+ConnectTcp_001	连接connect失败		Disconnected		
+ConnectTcp_002	确定		OK		
+GameTcp_001	正在尝试重连		Reconnecting		
+GameTcp_002	连接服务器失败		Disconnected		
+GameTcp_003	确定		OK		
+GameTcp_004	无法连接到服务器		Fail to connect the server		
+GameTcp_005	重新连接		Reconnecting		
+GameTcp_006	与服务器断开连接		Disconnected		
+GameTcp_007	返回大厅		Back to hall		
+Battle_001	能量不足，请继续收集晶体吧		"Not enough energy, collect more crystal"		
+BattlePanel_001	团队榜		Team		
+BattlePanel_002	击杀榜		Kill		
+BattlePanel_003	得分榜		Score		
+BattlePanel_004	等级		Level		
+BattlePanel_005	本周已达上限		Max		
+BattlePanel_006	双倍		Double		
+BattlePanel_007	今日双倍加成剩余 [00ff00]{0}[-] 次		Remaining double times: [00ff00]{0}[-]		
+BattlePanel_008	自嗨模式不增加		Not involve the Practice		
+BattlePanel_009	此操作将会立即结束教程，确定不需要学习一下么~		You will leave the tutorial		
+BattlePanel_010	确定		OK		
+BattlePanel_011	取消		Cancel		
+BattlePanel_012	是否返回大厅		Go back to hall		
+BattlePanel_013	属性		Property		
+BattlePanel_014	能量不足，请继续收集晶体吧		"Not enough energy, collect more crystal"		
+BattlePanel_015	已经加入黑名单!		Already on the blacklist		
+BattlePanel_016	你被 {0} 杀死了		You have been slain by {0}		
+BattlePanel_017	你死了		You are dead		
+BattlePanel_018	击败		Kill		
+BattlePanel_019	击败了		Kill		
+BattlePanel_020	超神		Legendary		
+BattlePanel_021	横扫千军		Godlike		
+BattlePanel_022	主宰比赛		Dominating		
+BattlePanel_023	无人能挡		Unstoppable		
+BattlePanel_024	光芒四射		Rampage		
+BattlePanel_025	实力初现		Killing Spree		
+BattlePanel_026	获取上限		Max		
+BattlePanel_027	双倍得分时间		Double Score		
+BattlePanel_028	本局即将结束		Battle terminates 		
+BattlePanel_029	雪怪即将降临战场（{0}）		The Boss is arriving ({0})		
+BattlePanel_030	雪怪即将脱离战场（{0}）		The Boss is leaving ({0})		
+BattlePlayers_001	免疫		Immune		
+BattlePlayers_002	击败		Kill		
+BattlePlayers_003	超神		Legendary		
+BattlePlayers_004	横扫千军		Godlike		
+BattlePlayers_005	主宰比赛		Dominating		
+BattlePlayers_006	无人能挡		Unstoppable		
+BattlePlayers_007	光芒四射		Rampage		
+BattlePlayers_008	实力初现		Killing Spree		
+BattlePlayers_009	得分+		Score +		
+UpdateGUI_001	下载进度..{0}%		Download…{0}%		
+UpdateGUI_002	版本对比中..		Version checking…		
+UpdateGUI_003	"版本对比失败,请检查网络连接"		"Failed to check version, check your network"		
+UpdateGUI_004	重试		Retry		
+UpdateGUI_005	版本过低，是否下载最新版本?		New update patch found		
+UpdateGUI_006	下载		Download		
+UpdateGUI_007	取消		Cancel		
+UpdateGUI_008	确定		OK		
+UpdateGUI_009	前往		Go		
+UpdateGUI_010	正在解包文件		Unzip files		
+UpdateGUI_011	解包完成!!!		Done		
+UpdateGUI_012	检查更新中..		Check version		
+UpdateGUI_013	网址解析错误		URL parsing error		
+UpdateGUI_014	发现{0}M的更新，是否下载？		"{0}M update patch, tap OK to download"		
+UpdateGUI_015	资源更新中		Updating		
+UpdateGUI_016	下载完成!		Download successfully		
+UpdateGUI_017	下载失败		Failed to download		
+UpdateGUI_018	版本文件下载失败		Failed to download update patch		
+UpdateGUI_019	下载安装包		Download patch		
+UpdateGUI_020	正在下载文件:>		Downloading files:>		
+UpdateGUI_021	"抵制不良游戏,拒绝盗版游戏。注意自我保护,谨防受骗上当。适度游戏益脑, 沉迷游戏伤身。合理安排时间, 享受健康生活。"		Search PoPo in facebook to follow us		

@@ -1,0 +1,15 @@
+syntax = "proto2";
+package protocol.game;
+
+message push_gate_connect_player_num
+{
+	required string ip	= 1;
+	required int32 port	= 2;
+	required int32 num	= 3;
+}
+
+message smsg_request_gate
+{
+	required string ip		= 1;
+	required int32 port		= 2;
+}

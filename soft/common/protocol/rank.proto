@@ -1,0 +1,15 @@
+syntax = "proto2";
+package dhc;
+
+message rank_t {
+	optional uint64 guid				= 1;
+	repeated uint64 player_guid			= 2;
+	repeated string name				= 3;
+	repeated int32  sex					= 4;
+	repeated int32	level				= 5;
+	repeated int32 avatar        	    = 6;
+	repeated int32 toukuang				= 7;
+	repeated int32 region_id			= 8;
+	repeated int32 name_color			= 9;
+	repeated int32	value				= 10;
+}

@@ -1,0 +1,9 @@
+syntax = "proto2";
+package protocol.game;
+
+message cmsg_recharge_google {
+	required int32 id				= 1;
+	required string package_name	= 2;
+	required string product_id		= 3;
+	required string purchase_token	= 4;
+}

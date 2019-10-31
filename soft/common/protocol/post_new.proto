@@ -1,0 +1,18 @@
+syntax = "proto2";
+package dhc;
+
+//using autoinc
+//using index player_guid 0
+
+message post_new_t {
+	optional uint64	pid				= 1;	// 邮件pid
+	optional uint64	player_guid		= 2;	// 接收者guid
+	optional uint64	send_date		= 3;	// 发送日期
+	optional string	title			= 4;	// 邮件标题
+	optional string	text			= 5;	// 邮件正文
+	optional string	sender_name		= 6;	// 发件人
+	repeated int32 type				= 7;
+	repeated int32 value1			= 8;
+	repeated int32 value2			= 9;
+	repeated int32 value3			= 10;
+}

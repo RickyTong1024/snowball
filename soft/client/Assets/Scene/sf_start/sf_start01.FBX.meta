@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 913e9c800f5c06946a2c77213cf0cd76
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: stcj_bj
+    100004: stcj_db
+    100006: stcj_door
+    100008: stcj_mg01
+    100010: stcj_moon
+    100012: stcj_sdz
+    100014: stcj_shz01
+    100016: stcj_shz02
+    100018: stcj_sj01
+    100020: stcj_st01
+    100022: stcj_st02
+    100024: stcj_tz
+    100026: stcj_xwj002
+    100028: stcj_xwj01
+    100030: stcj_zhuzi01
+    100032: stcj_zhuzi02
+    100034: stcj_zhuzi03
+    100036: stcj_zhuzi04
+    100038: stcj_zhuzi05
+    100040: stcj_zhuzi06
+    100042: stcj_st03
+    100044: stcj_st04
+    400000: //RootNode
+    400002: stcj_bj
+    400004: stcj_db
+    400006: stcj_door
+    400008: stcj_mg01
+    400010: stcj_moon
+    400012: stcj_sdz
+    400014: stcj_shz01
+    400016: stcj_shz02
+    400018: stcj_sj01
+    400020: stcj_st01
+    400022: stcj_st02
+    400024: stcj_tz
+    400026: stcj_xwj002
+    400028: stcj_xwj01
+    400030: stcj_zhuzi01
+    400032: stcj_zhuzi02
+    400034: stcj_zhuzi03
+    400036: stcj_zhuzi04
+    400038: stcj_zhuzi05
+    400040: stcj_zhuzi06
+    400042: stcj_st03
+    400044: stcj_st04
+    2300000: stcj_bj
+    2300002: stcj_db
+    2300004: stcj_door
+    2300006: stcj_mg01
+    2300008: stcj_moon
+    2300010: stcj_sdz
+    2300012: stcj_shz01
+    2300014: stcj_shz02
+    2300016: stcj_sj01
+    2300018: stcj_st01
+    2300020: stcj_st02
+    2300022: stcj_tz
+    2300024: stcj_xwj002
+    2300026: stcj_xwj01
+    2300028: stcj_zhuzi01
+    2300030: stcj_zhuzi02
+    2300032: stcj_zhuzi03
+    2300034: stcj_zhuzi04
+    2300036: stcj_zhuzi05
+    2300038: stcj_zhuzi06
+    2300040: stcj_st03
+    2300042: stcj_st04
+    3300000: stcj_bj
+    3300002: stcj_db
+    3300004: stcj_door
+    3300006: stcj_mg01
+    3300008: stcj_moon
+    3300010: stcj_sdz
+    3300012: stcj_shz01
+    3300014: stcj_shz02
+    3300016: stcj_sj01
+    3300018: stcj_st01
+    3300020: stcj_st02
+    3300022: stcj_tz
+    3300024: stcj_xwj002
+    3300026: stcj_xwj01
+    3300028: stcj_zhuzi01
+    3300030: stcj_zhuzi02
+    3300032: stcj_zhuzi03
+    3300034: stcj_zhuzi04
+    3300036: stcj_zhuzi05
+    3300038: stcj_zhuzi06
+    3300040: stcj_st03
+    3300042: stcj_st04
+    4300000: stcj_door
+    4300002: stcj_bj
+    4300004: stcj_tz
+    4300006: stcj_db
+    4300008: stcj_sj01
+    4300010: stcj_st01
+    4300012: stcj_st02
+    4300014: stcj_moon
+    4300016: stcj_xwj01
+    4300018: stcj_mg01
+    4300020: stcj_xwj002
+    4300022: stcj_shz01
+    4300024: stcj_shz02
+    4300026: stcj_sdz
+    4300028: stcj_zhuzi01
+    4300030: stcj_zhuzi02
+    4300032: stcj_zhuzi03
+    4300034: stcj_zhuzi04
+    4300036: stcj_zhuzi05
+    4300038: stcj_zhuzi06
+    4300040: stcj_st03
+    4300042: stcj_st04
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: background
+    second: {fileID: 2100000, guid: 168ee05b63ab227428503e0d985edcaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door
+    second: {fileID: 2100000, guid: dbdb3f8253a62cf44b1d8ef3b3e9a7e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fuwenshidui
+    second: {fileID: 2100000, guid: ac5bb50909d38bb4cb2e110d1459284e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ground
+    second: {fileID: 2100000, guid: 4cf9b94ccb542bc4f99f60cc23933eaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jitai
+    second: {fileID: 2100000, guid: 383d2713d6363424a8615956f98688f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: moon
+    second: {fileID: 2100000, guid: 28a8c81c0e2454649909a3838a6183d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shuijing
+    second: {fileID: 2100000, guid: 452bfdde03e833544b647d90bd71a86f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: strone01
+    second: {fileID: 2100000, guid: 930a8229b5dcde34dab13b6febf1e9fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: strone02
+    second: {fileID: 2100000, guid: a561b9c106ea59c4989093ed1ca76cf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zhuzi
+    second: {fileID: 2100000, guid: 98ce69d14401d7743893485b9c497258, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

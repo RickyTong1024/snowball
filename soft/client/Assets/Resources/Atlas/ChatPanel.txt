@@ -1,0 +1,132 @@
+{"frames": {
+
+"lt_biaoq.png":
+{
+	"frame": {"x":400,"y":2,"w":69,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":71},
+	"sourceSize": {"w":69,"h":71}
+},
+"lt_dalaba.png":
+{
+	"frame": {"x":53,"y":44,"w":48,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":48,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"lt_dalaba2.png":
+{
+	"frame": {"x":53,"y":96,"w":28,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":28},
+	"sourceSize": {"w":28,"h":28}
+},
+"lt_haoyoudi.png":
+{
+	"frame": {"x":2,"y":2,"w":284,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":284,"h":40},
+	"sourceSize": {"w":284,"h":40}
+},
+"lt_hongdian.png":
+{
+	"frame": {"x":103,"y":91,"w":28,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":28},
+	"sourceSize": {"w":28,"h":28}
+},
+"lt_jdi.png":
+{
+	"frame": {"x":501,"y":37,"w":3,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":54},
+	"sourceSize": {"w":3,"h":54}
+},
+"lt_jlbdi.png":
+{
+	"frame": {"x":2,"y":44,"w":49,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":117},
+	"sourceSize": {"w":49,"h":117}
+},
+"lt_labadi.png":
+{
+	"frame": {"x":133,"y":91,"w":12,"h":12},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":12},
+	"sourceSize": {"w":12,"h":12}
+},
+"lt_ltdi.png":
+{
+	"frame": {"x":151,"y":44,"w":43,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":62},
+	"sourceSize": {"w":43,"h":62}
+},
+"lt_qipaodi2.png":
+{
+	"frame": {"x":103,"y":44,"w":46,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":45},
+	"sourceSize": {"w":46,"h":45}
+},
+"lt_tishidi.png":
+{
+	"frame": {"x":196,"y":44,"w":24,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":30},
+	"sourceSize": {"w":24,"h":30}
+},
+"lt_tydi.png":
+{
+	"frame": {"x":471,"y":37,"w":28,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":81},
+	"sourceSize": {"w":28,"h":81}
+},
+"lt_xiaoxidi.png":
+{
+	"frame": {"x":471,"y":2,"w":38,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":33},
+	"sourceSize": {"w":38,"h":33}
+},
+"lt_yydi.png":
+{
+	"frame": {"x":222,"y":44,"w":21,"h":4},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":4},
+	"sourceSize": {"w":21,"h":4}
+},
+"lt_zhizhen.png":
+{
+	"frame": {"x":288,"y":2,"w":110,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":71},
+	"sourceSize": {"w":110,"h":71}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "ChatPanel.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e039d098023b035ddf5cea16d1b10d57$"
+}
+}

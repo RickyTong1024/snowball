@@ -1,0 +1,15 @@
+STRING	INT
+name	数量
+skill_release_di	1
+skill_release_jian	1
+skill_release_quan	1
+skill_release_shan	6
+Unit_buff_EXP	3
+Unit_buff_Invincible	3
+Unit_buff_Invincible_end	3
+Unit_buff_recover	3
+Unit_buff_shield	3
+Unit_cast_Snowball	10
+Unit_hit_Snowball	10
+Unit_chargeAttack	5
+Unit_chargeAttack_complete	5

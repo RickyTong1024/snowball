@@ -1,0 +1,5 @@
+INT	INT	INT	INT
+id	id	id	buff
+0	1	99	1011
+1	100	499	1012
+2	500	9999	1013

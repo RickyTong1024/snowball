@@ -1,0 +1,13 @@
+INT	STRING	STRING	STRING	INT	STRING	STRING	INT	STRING	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT
+id	name	name	icon	color	desc1	desc2	time	itemicon	type	param1	param2	param3	type	param1	param2	param3	type	param1	param2	param3	lock
+1	蓝色头框	t_toukuang_name_1	tx_bg_01	1	t_toukuang_desc1_1	t_toukuang_desc2_1		tk001													
+2	红色激情	t_toukuang_name_2	tx_bg_02	1	t_toukuang_desc1_2	t_toukuang_desc2_2		tk002													
+3	金色年华	t_toukuang_name_3	tx_bg_03	1	t_toukuang_desc1_3	t_toukuang_desc2_3		tk003													
+101	生命礼赞	t_toukuang_name_101	spring	2	t_toukuang_desc1_101	t_toukuang_desc2_101		spring1	1	1		10									
+102	风暴之轮	t_toukuang_name_102	summer	2	t_toukuang_desc1_102	t_toukuang_desc2_102		summer1	2	200801	1	5									
+103	钻石星尘	t_toukuang_name_103	aum	2	t_toukuang_desc1_103	t_toukuang_desc2_103		aum1	3	2		1									
+104	永恒冻土	t_toukuang_name_104	winter	2	t_toukuang_desc1_104	t_toukuang_desc2_104		winter1	2	200701	1	5									
+105	地狱烈火	t_toukuang_name_105	fire	3	t_toukuang_desc1_105	t_toukuang_desc2_105		fire1	1	4		1									
+106	2018情人节	t_toukuang_name_106	qrj_txku	3	t_toukuang_desc1_106	t_toukuang_desc2_106		qrj_txku1	1	9		1									1
+201	月卡会员	t_toukuang_name_201	yk_txku	2	t_toukuang_desc1_201	t_toukuang_desc2_201	31	yk_txku1													1
+202	年卡会员	t_toukuang_name_202	nk_txku	3	t_toukuang_desc1_202	t_toukuang_desc2_202	372	nk_txku1													1

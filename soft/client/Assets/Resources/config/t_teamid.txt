@@ -1,0 +1,8 @@
+INT	STRING	STRING
+id	name	name
+0	蓝1EF2FA	t_teamid_name_0
+1	红FF676A	t_teamid_name_1
+2	紫FF64FF	t_teamid_name_2
+3	绿84FF5E	t_teamid_name_3
+4	橙FBA50B	t_teamid_name_4
+5	黄E6E600	t_teamid_name_5

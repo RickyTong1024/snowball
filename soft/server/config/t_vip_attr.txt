@@ -1,0 +1,4 @@
+INT	STRING	STRING	STRING	STRING	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT
+id	会员名	名字颜色	desc	desc	礼包ID	每日礼包ID	type	param1	param2	param3	type	param1	param2	param3	type	param1	param2	param3	type	param1	param2	param3	type	param1	param2	param3
+1	月卡	[F11EF1]	[c2e5ed]月卡会员特权：##减少宝箱解锁时间20%##连续登录奖励3倍##赛季奖杯结算奖励2倍##每日上线可领取登录奖励	t_vip_attr_desc_1	1002	100201	3	6		20	3	9		2	3	10		1								
+2	年卡	[FFCE01]	[c2e5ed]年卡会员特权：##减少宝箱解锁时间30%##连续登录奖励3倍##赛季奖杯结算奖励2倍##每日上线可领取登录奖励	t_vip_attr_desc_2	1003	100301	3	6		30	3	9		2	3	10		1								

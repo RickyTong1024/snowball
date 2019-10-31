@@ -1,0 +1,23 @@
+INT	STRING	STRING	INT	STRING	STRING	STRING	INT	INT
+id	name	name	id	icon	desc1	desc2	color	lock
+101101	雪怪头像	t_avatar_name_101101	101	ic_boss				
+1011001	酷酷头像	t_avatar_name_1011001	1001	ic_m002	t_avatar_desc1_1011001	t_avatar_desc2_1011001	1	
+1011002	妮妮头像	t_avatar_name_1011002	1002	ic_f002	t_avatar_desc1_1011002	t_avatar_desc2_1011002	1	
+1011003	小狸头像	t_avatar_name_1011003	1003	ic_m003	t_avatar_desc1_1011003	t_avatar_desc2_1011003	1	
+1011004	浣浣头像	t_avatar_name_1011004	1004	ic_f003	t_avatar_desc1_1011004	t_avatar_desc2_1011004	1	
+1011005	牛牛头像	t_avatar_name_1011005	1005	ic_m004	t_avatar_desc1_1011005	t_avatar_desc2_1011005	1	
+1011006	喵酱头像	t_avatar_name_1011006	1006	ic_f004	t_avatar_desc1_1011006	t_avatar_desc2_1011006	1	
+1011007	乐乐头像	t_avatar_name_1011007	1007	ic_m005	t_avatar_desc1_1011007	t_avatar_desc2_1011007	1	
+1011008	雪儿头像	t_avatar_name_1011008	1008	ic_f005	t_avatar_desc1_1011008	t_avatar_desc2_1011008	1	
+1012001	甄姬头像	t_avatar_name_1012001	2001	ic_f001	t_avatar_desc1_1012001	t_avatar_desc2_1012001	2	1
+1012002	黄盖头像	t_avatar_name_1012002	2002	ic_m008	t_avatar_desc1_1012002	t_avatar_desc2_1012002	2	
+1012003	嫦娥头像	t_avatar_name_1012003	2003	ic_f008	t_avatar_desc1_1012003	t_avatar_desc2_1012003	2	
+1012004	周瑜头像	t_avatar_name_1012004	2004	ic_m007	t_avatar_desc1_1012004	t_avatar_desc2_1012004	2	1
+1012005	武则天头像	t_avatar_name_1012005	2005	ic_f007	t_avatar_desc1_1012005	t_avatar_desc2_1012005	2	1
+1012006	槽里马头像	t_avatar_name_1012006	2006	ic_m009	t_avatar_desc1_1012006	t_avatar_desc2_1012006	2	
+1013001	吕布头像	t_avatar_name_1013001	3001	ic_m001	t_avatar_desc1_1013001	t_avatar_desc2_1013001	3	1
+1013002	貂蝉头像	t_avatar_name_1013002	3002	ic_f006	t_avatar_desc1_1013002	t_avatar_desc2_1013002	3	1
+1013003	孙悟空头像	t_avatar_name_1013003	3003	ic_m006	t_avatar_desc1_1013003	t_avatar_desc2_1013003	3	1
+1013004	紫霞头像	t_avatar_name_1013004	3004	ic_f009	t_avatar_desc1_1013004	t_avatar_desc2_1013004	3	1
+1013005	冷风头像	t_avatar_name_1013005	3005	ic_m010	t_avatar_desc1_1013005	t_avatar_desc2_1013005	3	1
+1013006	敖饼头像	t_avatar_name_1013006	3006	ic_m011	t_avatar_desc1_1013006	t_avatar_desc2_1013006	3	1

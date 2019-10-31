@@ -1,0 +1,7 @@
+STRING	STRING	STRING	STRING	STRING	STRING
+代号	简体中文	繁體中文	English	日本語	???
+cup_title	奖杯结算奖励		Season settlement		
+cup_text	您上周的结算为[00AA00]%s[-]，这是您的结算奖励，本周也请继续加油喔~		Wow, you got a [00AA00]%s[-] last season, here are your rewards. We are looking forward to your better performance.		
+sys_name	冰雪大作战		PoPo Team		
+sysinfo_aquire	[C2E5ED]恭喜玩家[-] %s [C2E5ED]获得了[-] %s		[C2E5ED]Congrats! [-]%s[C2E5ED] got [-]%s		
+sysinfo_cup	[C2E5ED]恭喜玩家[-] %s [C2E5ED]奖杯提升为[-] %s		[C2E5ED]Congrats! [-]%s[C2E5ED] unlocked [-]%s		

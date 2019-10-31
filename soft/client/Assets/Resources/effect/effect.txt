@@ -1,0 +1,88 @@
+scene_item_attackUP        场景buff  攻击提升
+scene_item_range           场景buff  射程提升
+scene_item_MultipleSnowball场景buff  多个雪球
+scene_item_speedUP         场景buff  移动速度提升
+scene_item_CastSpeedUP     场景buff  雪球投掷速度提升
+
+scene_item_LightningBall   技能道具  电球
+scene_item_bigSnowball     技能道具  雪球变大
+scene_item_Devil           技能道具  恶魔球
+scene_item_inkBall         技能道具  墨水球
+
+
+
+
+Unit_Release_Devil      施法特效  扇形恶魔群
+
+Unit_hit_iceCube_freeze 受击特效  冰封
+Unit_hit_iceCube_crush  受击特效  冰封结束冰块碎落
+
+Unit_cast_BigSnowball   投掷特效  大雪球
+Unit_hit_BigSnowball    受击特效  被大雪球击中
+
+Unit_Area_blizzard      区域特效  暴风雪
+
+Unit_hit_meteorite      受击特效  陨石击中地面地裂特效
+Unit_Release_meteorite  区域特效  陨石掉落
+
+Unit_cast_InkBall       投掷特效  投掷墨水
+
+Unit_cast_LightningBall 投掷特效  投掷电球
+
+Unit_cast_popsicle      投掷特效  投掷冰棍
+
+Unit_cast_tornado       投掷特效  龙卷风
+
+Unit_hit_LightningBall      受击特效 闪电球
+Unit_hitArea_LightningBall  受击特效 闪电球击中地面
+Unit_hit_ink                受击特效 墨水球
+Unit_hitArea_ink            受击特效 墨水球击中地面
+Unit_DebuffLoop_blind       受击特效 负面状态 致盲
+Unit_DebuffLoop_chaos       受击特效 负面状态 混乱
+Unit_DebuffLoop_stun        受击特效 负面状态 眩晕
+
+Unit_BuffLoop_SpeedUp       正面状态 移动速度提升
+Unit_DebuffLoop_SlowDown    负面状态 减速
+Unit_Release_snowman        施法特效 变身雪人 
+
+Unit_hit_iceCube03_crush    受击特效  冰封结束冰块碎落
+Unit_hit_iceCube03_freeze   受击特效  冰封
+
+scene_item_hugeSnowball     技能道具  大雪球 
+scene_item_popsicle         技能道具  棒冰
+scene_item_meteorite        技能道具  陨石
+scene_item_Medicine         道具      血瓶
+scene_item_shield           场景buff  防御提升
+
+Unit_buff_recover           技能buff  药品恢复
+scene_item_tornado          技能道具  龙卷风
+Unit_buff_shield            防御buff  护盾防御提高
+scene_item_Blizzard         技能道具  暴风雪
+
+Unit_LevelUP               角色升级特效
+Unit_createCharacter       合成角色特效
+Unit_buff_EXP              吃蓝色水晶特效
+Unit_die_snowman           雪人消失特效
+
+Unit_buff_Invincible        无敌
+Unit_buff_Invincible_end    无敌结束
+Unit_hit_ShieldCollapse     护盾击毁
+
+Unit_chargeAttack           2.5秒蓄力攻击
+Unit_chargeAttack_complete  蓄力完成后的状态
+Unit_buff_addSkill          学习技能后技能点飘到角色身上的效果
+
+
+
+castObj_octopus          投掷-章鱼
+Unit_hit_poison01        击中单位
+Unit_hitArea_poison01    击中地面
+
+castObj_demon            投掷-恶魔
+Unit_hit_explode01       击中单位
+Unit_hitArea_explode01   击中地面
+
+
+castObj_lightningBall    投掷-黄色电球
+Unit_hit_electric01      击中单位
+Unit_hitArea_electric01  击中地面

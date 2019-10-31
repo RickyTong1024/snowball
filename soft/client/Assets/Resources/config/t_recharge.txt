@@ -1,0 +1,12 @@
+INT	STRING	STRING	INT	INT	INT	STRING	INT	STRING	STRING
+id	name	name	type	审核 0默认显示 1审核隐藏 2苹果替代入口 99始终不显示	price	icon	钻石	ios_id	描述
+1001	60钻石	t_recharge_name_1001	1	0	6	diamond_1	60	snowball_60	t_recharge_desc_1001
+1002	250钻石	t_recharge_name_1002	1	2	25	diamond_2	250	snowball_250	t_recharge_desc_1002
+1003	315钻石（超量5%）	t_recharge_name_1003	1	0	30	diamond_2	315	snowball_300	t_recharge_desc_1003
+1004	1080钻石（超量10%）	t_recharge_name_1004	1	0	98	diamond_3	1080	snowball_980	t_recharge_desc_1004
+1005	2280钻石（超量15%）	t_recharge_name_1005	1	0	198	diamond_4	2280	snowball_1980	t_recharge_desc_1005
+1006	3575钻石（超量20%）	t_recharge_name_1006	1	2	298	diamond_4	3575	snowball_2980	t_recharge_desc_1006
+1007	3940钻石（超量20%）	t_recharge_name_1007	1	0	328	diamond_5	3940	snowball_3280	t_recharge_desc_1007
+1008	8100钻石（超量25%）	t_recharge_name_1008	1	0	648	diamond_6	8100	snowball_6480	t_recharge_desc_1008
+2001	月卡会员	t_recharge_name_2001	2	99	25	sctb_yueka	31	snowball_250	
+2002	年卡会员	t_recharge_name_2002	3	99	298	sctb_nianka	372	snowball_2980	

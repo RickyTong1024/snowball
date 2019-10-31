@@ -1,0 +1,10 @@
+{
+    "home_url": "http://snowball.yymoon.com/home.html",
+    "activity_url": "http://snowball.yymoon.com/home.html",
+    "help_url": "http://snowball.yymoon.com/home.html",
+    "bbs_url": "http://www.vrcool100.com/forum.php?mod=forumdisplay&fid=80",
+    "share_url": [
+        "http://snowball.yymoon.com/?a="
+    ],
+	"icon_url": "http://snowball.cdn.yymoon.com/res/icon2.png"
+}

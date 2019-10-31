@@ -1,0 +1,50 @@
+<unit>
+  <part name="snow_m004">
+    <mesh type="body" bone="" pack="snow_m004" part="body"/>
+  </part>
+  <part name="sn_shp002">
+    <mesh type="weapon" bone="Bone001" pack="sn_shp002"/>
+  </part>
+  <part name="sn_shp002_show">
+    <mesh type="weapon" bone="Bone001" pack="sn_shp002_show"/>
+  </part>
+
+  <actions name="ready">
+    <atcion time="0" type="anim" name="stand01"></atcion>
+  </actions>
+  <actions name="ready02">
+    <atcion time="0" type="anim" name="stand02"></atcion>
+  </actions>
+  <actions name="death">
+    <atcion time="0" type="anim" name="death"></atcion>
+  </actions>
+  <actions name="run">
+    <atcion time="0" type="anim" name="run"></atcion>
+  </actions>
+  <actions name="run02">
+    <atcion time="0" type="anim" name="run02"></atcion>
+  </actions>
+  <actions name="start">
+    <atcion time="0" type="anim" name="start01"></atcion>
+    <atcion time="3" type="action" name="ready"></atcion>
+  </actions>
+  <actions name="tiox">
+    <atcion time="0" type="anim" name="tiox"></atcion>
+    <atcion time="2.5" type="action" name="ready"></atcion>
+  </actions>
+
+  <actions name="attack01">
+    <atcion time="0" type="anim1" name="attack01"></atcion>
+    <atcion time="0.1" type="entity_bone" name="cannon_release01" bone="Bone001" common="1" remove_time="0.5"></atcion>
+  </actions>
+  <actions name="attack01a">
+    <atcion time="0" type="anim1" name="attack01a"></atcion>
+    <atcion time="0.1" type="entity_bone" name="cannon_release01" bone="Bone001" common="1" remove_time="0.5"></atcion>
+  </actions>
+  <actions name="attack02">
+    <atcion time="0" type="anim" name="attack02"></atcion>
+    <atcion time="0.1" type="entity_bone" name="cannon_release02" bone="Bone001" follow="0" common="1" remove_time="1"></atcion>
+    <atcion time="0.1" type="entity" name="cannon_release02_02" follow="0" common="1" remove_time="1"></atcion>
+    <atcion time="0.66" type="action" name="ready02"></atcion>
+  </actions>
+</unit>

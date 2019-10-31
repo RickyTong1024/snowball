@@ -1,0 +1,10 @@
+INT	STRING	STRING	INT	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+id	名字	代号	颜色 1蓝 2紫 3金	数字代码	big_icon	mid_icon	small_icon	描述	描述	产出 1商店 2冰屋 3宝箱 5单人竞技 6团队竞技 7挑战模式 8道具出售 9任务奖励 10成就奖励
+1	金币	t_resource_name_1	3		copper cash-icon80	copper cash-icon1	copper cash-icon36	[c2e5ed]金币不是万能的，没金币是万万不能的~金币是购买角色碎片，为角色升星的重要资源####[e4ac01]对战结算、开宝箱、签到都可获得金币哦	t_resource_desc_1	
+2	钻石	t_resource_name_2	2		gold-icon80	gold-icon1	gold-icon36	[c2e5ed]亮瞎双眼的钻石，除了能加速解锁宝箱，还可以参与夺宝哦####[e4ac01]充值、签到奖励可获得钻石	t_resource_desc_2	
+3	账号经验	t_resource_name_3	1		v_icon_big		v_icon	[c2e5ed]增加账号经验值能提升账号等级####[e4ac01]账号经验可通过战斗和每日任务获得	t_resource_desc_3	
+4	雪花	t_resource_name_4	1		xuehua80		xuehua36	[c2e5ed]奇特的雪球，炫酷的特效，搞怪的雪炮，有了雪花，一切都轻松搞定####[e4ac01]雪花可通过分享、升级、赛季结算和成就等奖励中获得	t_resource_desc_4	
+5	战魂(已删)	t_resource_name_5	1					已删除资源，ID保留	t_resource_desc_5	
+6	奖杯	t_resource_name_6	1					测试用	t_resource_desc_6	
+7	成就点	t_resource_name_7	1					测试用	t_resource_desc_7	
+8	活跃度	t_resource_name_8	1		hyd_ic02			[c2e5ed]每日活跃度达到一定数值可以领取奖励####[e4ac01]完成每日任务获得	t_resource_desc_8	

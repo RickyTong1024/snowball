@@ -1,0 +1,9 @@
+INT	STRING
+id	path
+1	BattlePanel/bottomright/sskill
+2	BattlePanel/bottomright/sskill_2
+3	BattlePanel/bottomright/jskill
+4	BattlePanel/bottomleft/move/Panel/bg
+5	BattlePanel/bottomright/attack/Sprite
+6	BattlePanel/left/buff/boss_buff_icon
+7	BattlePanel/Bottom/talent_panel/area_1

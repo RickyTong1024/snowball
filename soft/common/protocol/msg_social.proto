@@ -1,0 +1,235 @@
+syntax = "proto2";
+import "social.proto";
+
+package protocol.game;
+
+
+message social_list_player_load
+{
+	required uint64 player_guid			= 1;
+	repeated dhc.social_t socials		= 2;
+}
+
+message smsg_social_data
+{
+	repeated uint64 friend_guids		= 1;
+	repeated uint64 black_guids			= 2;
+	optional int32  apply_num			= 3;
+	optional bool   social_gold			= 4;
+	optional int32  msg_num				= 5;
+	optional bool   reject				= 6;
+}
+
+message smsg_social_stat
+{
+	optional uint64 target_guid			= 1;
+	optional int32	stat				= 2;
+	optional string name				= 3;
+}
+
+message req_social_login
+{
+	optional uint64 player_guid = 1;
+	optional string name		= 2;
+	optional int32	cup			= 3;
+	optional int32  avatar		= 4;
+	optional int32	toukuang	= 6;
+	optional int32 region_id	= 7;
+	optional int32	level		= 8;
+	optional int32	name_color	= 9;
+	optional int32	achieve_point	= 11;
+	optional int32	max_score		= 12;
+	optional int32	max_sha			= 13;
+	optional int32	max_lsha		= 14;
+}
+
+message rep_social_login
+{
+	repeated dhc.social_t socials = 1;
+}
+
+message cmsg_social_look
+{
+	optional int32 type = 1;    //1:申请列表2:好友列表3:黑名单列表
+}
+
+message smsg_social_look
+{
+	repeated dhc.social_t socials = 1;
+}
+
+message req_social_look
+{
+	optional uint64 player_guid = 1;
+	optional int32  type		= 2;
+}
+
+
+message req_social_delete
+{
+	optional uint64 player_guid = 1;
+	optional uint64 target_guid = 2;
+}
+
+message cmsg_social_delete
+{
+	optional uint64 target_guid = 1;
+}
+
+message smsg_social_delete
+{
+	optional uint64 target_guid = 1;
+}
+
+message pmsg_social_delete
+{
+	optional uint64 player_guid  = 1;
+	optional uint64 target_guid  = 2;
+	optional bool   sf		 	 = 3;
+	optional int32  gold		 = 4;
+	optional bool   df			 = 5;
+}
+
+
+message cmsg_social_apply 
+{
+	optional uint64 target_guid = 1;
+	optional string verify		= 2;
+}
+
+message smsg_social_apply
+{
+	optional int32 num			= 1;
+}
+
+message rmsg_social_apply
+{
+	optional dhc.social_t social = 1;
+	optional int32 type 		= 2;
+}
+
+message rmsg_social_apply_flag
+{
+	optional uint64 player_guid = 1;
+	optional int32 num = 2;
+}
+
+message rmsg_social_reject
+{
+	optional uint64 player_guid = 1;
+	optional bool   reject	    = 2;
+}
+
+message rmsg_social_add
+{
+	optional uint64 player_guid = 1;
+	optional uint64 target_guid = 2;
+	optional bool	agree		= 3;
+}
+
+
+message cmsg_social_add
+{
+	optional uint64 target_guid = 1;
+	optional bool 	agree 		= 2;
+}
+
+message smsg_social_add
+{
+	optional dhc.social_t social = 1;
+}
+
+message cmsg_social_black
+{
+	optional uint64 target_guid 		= 1;
+}
+
+
+message rmsg_social_black
+{
+	optional uint64 player_guid 		= 1;
+	optional uint64 target_guid			= 2;
+}
+
+message cmsg_social_chat
+{
+	optional uint64 target_guid = 1;
+	optional string text		= 2;
+}
+
+
+message smsg_social_chat
+{
+	optional uint64 target_guid = 1;
+	optional string text		= 2;
+}
+
+
+message pmsg_social_chat
+{
+	optional uint64 guid 		= 1;
+	optional string name		= 2;
+	optional int32  sex			= 3;
+	optional int32  level		= 4;
+	optional int32  avatar		= 5;
+	optional int32  toukuang    = 7;
+	optional int32  region_id	= 8;
+	optional string text		= 9;
+	optional uint64 player_guid	= 10;
+	optional int32 name_color	= 11;
+}
+
+message cmsg_social_gift
+{
+	optional uint64 target_guid = 1;
+	optional int32  gold		= 2;
+}
+
+message smsg_social_gift_receive
+{
+	optional uint64 target_guid = 1;
+	optional int32	gold		= 2;
+}
+
+message pmsg_social_gift
+{
+	optional uint64 player_guid = 1;
+	optional uint64 target_guid = 2;
+	optional int32  gold		= 3;
+}
+
+message pmsg_social_login
+{
+	optional uint64 player_guid 	= 1;
+	optional string name			= 2;
+	repeated uint64 friend_guids 	= 4;
+	repeated int32  sflags			= 5;
+}
+
+message cmsg_soical_search
+{
+	optional string  name 			= 1;
+}
+
+message req_social_gold
+{
+	optional uint64 player_guid     = 1;
+}
+
+message rep_social_gold
+{
+	optional uint64 player_guid		= 1;
+	optional int32  gold			= 2;
+}
+
+message smsg_social_gold
+{
+	optional int32  gold			= 1;
+}
+
+message push_social_fight
+{
+	optional uint64 player_guid = 1;
+	optional int32 fight		= 2;
+}
+

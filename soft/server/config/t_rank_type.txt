@@ -1,0 +1,7 @@
+INT	STRING	INT	STRING	STRING
+id	id	id	desc	desc
+0	账号等级	5	账号等级不少于5级	t_rank_type_desc_0
+1	成就积分	180	成就等级不少于4级（否则显示为0）	t_rank_type_desc_1
+2	得分	50000	单场最高得分不少于50000（否则显示为0），不含自嗨模式	t_rank_type_desc_2
+3	击杀	8	单场最高击杀数不少于8次（否则显示为0），不含自嗨模式	t_rank_type_desc_3
+4	连杀	5	单场连杀数不少于5次（否则显示为0），不含自嗨模式	t_rank_type_desc_4

@@ -1,0 +1,207 @@
+syntax = "proto2";
+package protocol.game;
+
+message msg_battle_unit
+{
+	required uint64 guid = 1;
+	optional int32 role_id = 2;
+	
+	optional int32 x		= 10;
+	optional int32 y		= 11;
+	optional int32 r		= 12;
+	optional int32 r_py		= 13;
+	optional bool  is_move	= 14;
+	optional int32 re_tid	= 15;
+	optional int32 re_state	= 16;
+	optional int32 re_id	= 17;
+	optional int32 re_level = 18;
+	optional int32 re_time	= 19;
+	optional int32 re_x	= 20;
+	optional int32 re_y	= 21;
+	optional int32 re_r	= 22;
+	
+	repeated int32 save_re_id	= 23;
+	repeated int32 save_re_zhen	= 24;
+	
+	optional bool is_jf = 25;
+	optional int32 jf_sx = 26;
+	optional int32 jf_sy = 27;
+	optional int32 jf_xx = 28;
+	optional int32 jf_yy = 29;
+	optional int32 jf_speed = 30;
+	optional int32 jf_r = 31;
+	repeated int32 bhit_tids = 32;
+	optional int32 death_time = 33;
+	optional int32 rtime = 34;
+	optional int32 attackr = 35;
+	
+	optional int32 hp = 36;
+	repeated int32 buffs = 37;
+	repeated int32 buffs_time = 38;
+	
+	optional int32 is_ai = 200;
+	optional int32 eyeRange = 201;
+	optional int32 ai_state = 202;
+	optional int32 nextPoint_x = 203;
+	optional int32 nextPoint_y = 204;
+	optional int32 totalZhen = 205;
+}
+
+message msg_battle_boss
+{
+	required msg_battle_unit unit = 1;
+	optional int32 attack_state = 2;
+	optional int32 attackZhen = 3;
+	optional int32 boss_birth_time = 4;
+}
+
+message msg_battle_monster
+{
+	required msg_battle_unit unit = 1;
+	optional int32 birth_x = 2;
+	optional int32 birth_y = 3;
+	optional string attack_guid = 4;
+}
+
+message msg_battle_player
+{
+	required msg_battle_unit unit = 1;
+	optional string name  = 2;
+	optional int32 sex = 3;
+	optional int32 role_level	= 4;
+	optional int32 camp			= 5;
+	repeated int32 attr_type	= 6;
+	repeated int32 attr_param1	= 7;
+	repeated int32 attr_param2	= 8;
+	repeated int32 attr_param3	= 9;
+	optional int32 avatar		= 10;
+	optional int32 cup			= 12;
+	optional int32 toukuang		= 13;
+	repeated int32 fashion		= 14;
+	optional int32 region_id	= 15;
+	optional int32 name_color	= 16;
+	
+	optional int32 level 	= 	30;
+	optional int32 exp			= 31;
+	optional int32 score		= 32;
+	optional int32 score_level  = 33;
+	repeated int32 lattr_value	= 34;
+	repeated int32 talent_id	= 35;
+	repeated int32 talent_level	= 36;
+	optional int32 talent_point = 37;
+	optional int32 die = 38;
+	optional int32 sha = 39;
+	optional int32 lsha = 40;
+	optional int32 max_lsha = 41;
+	
+	optional int32 skill_id		= 50;
+	optional int32 skill_level	= 51;	
+	optional int32 re_pre = 52;
+	optional int32 re_pre_zhen	= 53;
+	optional int32 re_pre_zhen1	= 54;
+	optional int32 xueren_zhen = 55;
+	optional bool is_xueren = 56;
+	optional int32 cost = 57;
+	
+	optional int32 attack_state = 100;
+	optional int32 attackZhen = 101;
+	optional int32 birth_x = 102;
+	optional int32 birth_y = 103;
+	optional string attack_guid = 104;
+}
+
+message msg_battle_effect
+{
+	required int32 tid			= 1;
+	optional int32 re_tid		= 2;
+	optional int32 id			= 3;
+	optional int32 sx			= 4;
+	optional int32 sy			= 5;
+	optional int32 x			= 6;
+	optional int32 y			= 7;
+	optional int32 xx			= 8;
+	optional int32 yy			= 9;
+	optional int32 r			= 10;
+	optional string re_guid	= 12;
+	optional int32 re_ur		= 13;
+	repeated string hit_guids		= 14;
+	optional int32 time				= 15;
+	optional int32 dd_time			= 16;
+	optional int32 state			= 17;
+	optional int32 len				= 18;
+	optional int32 pre_zhen			= 19;
+	optional int32 camp				= 20;
+	optional string follow_guid		= 21;
+}
+
+message msg_battle_item_base
+{
+	required int32 tid			= 1;
+	optional int32 id			= 2;
+	optional int32 x			= 3;
+	optional int32 y			= 4;
+	optional int32 param		= 5;
+	optional int32 zhen			= 6;
+}
+
+message msg_battle_item
+{
+	required msg_battle_item_base item = 1;
+	optional int32 birth_pos = 2;
+}
+
+message msg_battle_op
+{
+	optional int32 zhen			= 1;
+	required int32 opcode		= 2;
+	required uint64 guid		= 3;
+	repeated int32 param_ints	= 4;
+	repeated string param_strings	= 5;
+}
+
+message msg_battle_state
+{
+	required int32 zhen					= 1;
+	repeated msg_battle_boss boss	= 2;
+	repeated msg_battle_monster monsters	= 3;
+	repeated msg_battle_player players	= 4;
+	repeated msg_battle_effect effects	= 5;
+	repeated msg_battle_item_base bases = 6;
+	repeated msg_battle_item items		= 7;
+	required int32 tid					= 8;
+	required bool init_item				= 9;
+}
+
+message cmsg_battle_state
+{
+	required uint64 guid			= 1;
+	required msg_battle_state state		= 2;
+}
+
+message msg_battle_code
+{
+	required int32 zhen					= 1;
+	required int32 code					= 2;
+}
+
+message cmsg_battle_link
+{
+	required uint64 guid		= 1;
+	required string code		= 2;
+}
+
+message smsg_battle_link
+{
+	required uint64 battle_guid		= 1;
+	required int32 type				= 2;
+	required int32 team_num			= 3;
+	required int32 member_num		= 4;
+	required int32 zhen				= 5;
+	required int32 seed				= 6;
+	required int32 seed_add			= 7;
+	optional int32 is_state			= 8;
+	optional msg_battle_state state	= 9;
+	repeated msg_battle_op ops		= 10;
+	required int32 self_camp		= 11;
+	required int32 is_new			= 12;
+}

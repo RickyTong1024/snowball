@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: fc0c682de4e3dab4786d1157bb3a7bf2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CATRigwing_L
+    100002: CATRigwing_L_down01
+    100004: CATRigwing_L_down02
+    100006: CATRigwing_L_down03
+    100008: CATRigwing_L_mid01
+    100010: CATRigwing_L_mid02
+    100012: CATRigwing_L_mid03
+    100014: CATRigwing_L_Top01
+    100016: CATRigwing_L_Top02
+    100018: CATRigwing_L_Top03
+    100020: CATRigwing_R
+    100022: CATRigwing_R_down01
+    100024: CATRigwing_R_down02
+    100026: CATRigwing_R_down03
+    100028: CATRigwing_R_mid01
+    100030: CATRigwing_R_mid02
+    100032: CATRigwing_R_mid03
+    100034: CATRigwing_R_Top01
+    100036: CATRigwing_R_Top02
+    100038: CATRigwing_R_Top03
+    100040: IceWing
+    100042: //RootNode
+    100044: wing_ice
+    400000: CATRigwing_L
+    400002: CATRigwing_L_down01
+    400004: CATRigwing_L_down02
+    400006: CATRigwing_L_down03
+    400008: CATRigwing_L_mid01
+    400010: CATRigwing_L_mid02
+    400012: CATRigwing_L_mid03
+    400014: CATRigwing_L_Top01
+    400016: CATRigwing_L_Top02
+    400018: CATRigwing_L_Top03
+    400020: CATRigwing_R
+    400022: CATRigwing_R_down01
+    400024: CATRigwing_R_down02
+    400026: CATRigwing_R_down03
+    400028: CATRigwing_R_mid01
+    400030: CATRigwing_R_mid02
+    400032: CATRigwing_R_mid03
+    400034: CATRigwing_R_Top01
+    400036: CATRigwing_R_Top02
+    400038: CATRigwing_R_Top03
+    400040: IceWing
+    400042: //RootNode
+    400044: wing_ice
+    4300000: wing_ice
+    7400000: wing_ice
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: wing_ice
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: wing_ice
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: IceWing
+        weight: 1
+      - path: IceWing/CATRigwing_L
+        weight: 1
+      - path: IceWing/CATRigwing_L/CATRigwing_L_down01
+        weight: 1
+      - path: IceWing/CATRigwing_L/CATRigwing_L_down01/CATRigwing_L_down02
+        weight: 1
+      - path: IceWing/CATRigwing_L/CATRigwing_L_down01/CATRigwing_L_down02/CATRigwing_L_down03
+        weight: 1
+      - path: IceWing/CATRigwing_L/CATRigwing_L_mid01
+        weight: 1
+      - path: IceWing/CATRigwing_L/CATRigwing_L_mid01/CATRigwing_L_mid02
+        weight: 1
+      - path: IceWing/CATRigwing_L/CATRigwing_L_mid01/CATRigwing_L_mid02/CATRigwing_L_mid03
+        weight: 1
+      - path: IceWing/CATRigwing_L/CATRigwing_L_Top01
+        weight: 1
+      - path: IceWing/CATRigwing_L/CATRigwing_L_Top01/CATRigwing_L_Top02
+        weight: 1
+      - path: IceWing/CATRigwing_L/CATRigwing_L_Top01/CATRigwing_L_Top02/CATRigwing_L_Top03
+        weight: 1
+      - path: IceWing/CATRigwing_R
+        weight: 1
+      - path: IceWing/CATRigwing_R/CATRigwing_R_down01
+        weight: 1
+      - path: IceWing/CATRigwing_R/CATRigwing_R_down01/CATRigwing_R_down02
+        weight: 1
+      - path: IceWing/CATRigwing_R/CATRigwing_R_down01/CATRigwing_R_down02/CATRigwing_R_down03
+        weight: 1
+      - path: IceWing/CATRigwing_R/CATRigwing_R_mid01
+        weight: 1
+      - path: IceWing/CATRigwing_R/CATRigwing_R_mid01/CATRigwing_R_mid02
+        weight: 1
+      - path: IceWing/CATRigwing_R/CATRigwing_R_mid01/CATRigwing_R_mid02/CATRigwing_R_mid03
+        weight: 1
+      - path: IceWing/CATRigwing_R/CATRigwing_R_Top01
+        weight: 1
+      - path: IceWing/CATRigwing_R/CATRigwing_R_Top01/CATRigwing_R_Top02
+        weight: 1
+      - path: IceWing/CATRigwing_R/CATRigwing_R_Top01/CATRigwing_R_Top02/CATRigwing_R_Top03
+        weight: 1
+      - path: wing_ice
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,9 @@
+<unit>
+  <actions name="ready">
+    <atcion time="0" type="anim" name="stand"></atcion>
+  </actions>
+  <actions name="injured">
+    <atcion time="0" type="anim" name="injured"></atcion>
+    <atcion time="0.6" type="action" name="ready"></atcion>
+  </actions>
+</unit>

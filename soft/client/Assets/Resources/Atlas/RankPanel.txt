@@ -1,0 +1,108 @@
+{"frames": {
+
+"chose_bg.png":
+{
+	"frame": {"x":142,"y":54,"w":28,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":28,"h":29},
+	"sourceSize": {"w":36,"h":35}
+},
+"chose_tips.png":
+{
+	"frame": {"x":114,"y":128,"w":23,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":23,"h":23},
+	"sourceSize": {"w":27,"h":27}
+},
+"copper cash-icon43.png":
+{
+	"frame": {"x":114,"y":92,"w":41,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":41,"h":34},
+	"sourceSize": {"w":43,"h":36}
+},
+"fldb_001.png":
+{
+	"frame": {"x":58,"y":175,"w":60,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":66},
+	"sourceSize": {"w":60,"h":66}
+},
+"fldb_002.png":
+{
+	"frame": {"x":52,"y":107,"w":60,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":66},
+	"sourceSize": {"w":60,"h":66}
+},
+"goodfriend_plus.png":
+{
+	"frame": {"x":102,"y":2,"w":48,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":48,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"mc_one.png":
+{
+	"frame": {"x":2,"y":199,"w":54,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":54,"h":52},
+	"sourceSize": {"w":60,"h":60}
+},
+"mc_three.png":
+{
+	"frame": {"x":58,"y":2,"w":42,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":4,"w":42,"h":52},
+	"sourceSize": {"w":60,"h":60}
+},
+"mc_two.png":
+{
+	"frame": {"x":58,"y":56,"w":44,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":6,"w":44,"h":48},
+	"sourceSize": {"w":60,"h":60}
+},
+"nxxt_003.png":
+{
+	"frame": {"x":2,"y":2,"w":54,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":103},
+	"sourceSize": {"w":54,"h":103}
+},
+"nxxt_004.png":
+{
+	"frame": {"x":2,"y":107,"w":48,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":90},
+	"sourceSize": {"w":48,"h":90}
+},
+"v_icon.png":
+{
+	"frame": {"x":104,"y":54,"w":36,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":36,"h":36},
+	"sourceSize": {"w":40,"h":36}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "RankPanel.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ec1fbe9d86a4fa63296a8dab2d0b43e5:1/1$"
+}
+}

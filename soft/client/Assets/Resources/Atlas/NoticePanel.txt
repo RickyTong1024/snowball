@@ -1,0 +1,36 @@
+{"frames": {
+
+"jlb_di.png":
+{
+	"frame": {"x":2,"y":2,"w":105,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":37},
+	"sourceSize": {"w":105,"h":37}
+},
+"nxxt_004.png":
+{
+	"frame": {"x":109,"y":2,"w":48,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":90},
+	"sourceSize": {"w":48,"h":90}
+},
+"nxxt_005.png":
+{
+	"frame": {"x":159,"y":2,"w":36,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":27},
+	"sourceSize": {"w":36,"h":27}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "NoticePanel.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7750b65c0b6b0245e81ca7b0e3ed8bbe$"
+}
+}

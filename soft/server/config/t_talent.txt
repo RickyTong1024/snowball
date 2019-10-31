@@ -1,0 +1,13 @@
+INT	STRING	STRING	STRING	STRING	INT	STRING	INT	INT	INT	INT
+id	desc1	desc1	desc2	desc2	level	icon	type1	param1	param2	param3
+1	攻击 [f4e45d]{N1}[-] 级	t_talent_desc1_1	攻击 [57FC5B]+{N2}%	t_talent_desc2_1	2	xbdjn_003	1	4		25
+2	生命 [f4e45d]{N1}[-] 级	t_talent_desc1_2	生命 [57FC5B]+{N2}%	t_talent_desc2_2	2	xbdjn_002	1	2		30
+3	射程 [f4e45d]{N1}[-] 级	t_talent_desc1_3	射程 [57FC5B]+{N2}	t_talent_desc2_3	2	xbdjn_001	1	12		15000
+4	移速 [f4e45d]{N1}[-] 级	t_talent_desc1_4	移速 [57FC5B]+{N2}%	t_talent_desc2_4	2	xbdjn_006	1	8		20
+5	减伤 [f4e45d]{N1}[-] 级	t_talent_desc1_5	减伤 [57FC5B]+{N2}%	t_talent_desc2_5	2	xbdjn_009	1	15		20
+6	射速 [f4e45d]{N1}[-] 级	t_talent_desc1_6	射速 [57FC5B]+{N2}%	t_talent_desc2_6	2	xbdjn_013	1	92		25
+7	蓄力 [f4e45d]{N1}[-] 级	t_talent_desc1_7	蓄力时间 [57FC5B]-{N2}%	t_talent_desc2_7	2	xbdjn_012	1	93		20
+8	暴击 [f4e45d]{N1}[-] 级	t_talent_desc1_8	暴击率 [57FC5B]+{N2}%	t_talent_desc2_8	2	xbdjn_004	1	9		10
+9	吸血 [f4e45d]{N1}[-] 级	t_talent_desc1_9	吸血 [57FC5B]+{N2}%	t_talent_desc2_9	2	xbdjn_005	1	39		10
+10	回复 [f4e45d]{N1}[-] 级	t_talent_desc1_10	每秒回血 [57FC5B]+{N2}%	t_talent_desc2_10	2	xbdjn_011	1	11		1
+11	散射 [f4e45d]{N1}[-] 级	t_talent_desc1_11	散射率 [57FC5B]+{N2}%	t_talent_desc2_11	2	xbdjn_008	1	91		50

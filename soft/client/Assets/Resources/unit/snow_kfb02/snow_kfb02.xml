@@ -1,0 +1,23 @@
+<unit>
+  <part name="snow_kfb02">
+    <mesh type="body" bone="" pack="penguinB" part="body"/>
+  </part>
+
+  <actions name="ready">
+    <atcion time="0" type="anim" name="stand"></atcion>
+  </actions>
+  <actions name="death">
+    <atcion time="0" type="anim" name="die"></atcion>
+  </actions>
+  <actions name="start">
+    <atcion time="0" type="anim" name="start"></atcion>
+    <atcion time="1" type="action" name="ready"></atcion>
+  </actions>
+  <actions name="run">
+    <atcion time="0" type="anim" name="run"></atcion>
+  </actions>
+  <actions name="attack01">
+    <atcion time="0" type="anim" name="attack"></atcion>
+    <atcion time="0.66" type="action" name="ready"></atcion>
+  </actions>
+</unit>

@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 3178927c7269c8547a26049aa9c378ed
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CAT_icicle
+    100002: CAT_icicle01
+    100004: CAT_icicle02
+    100006: CAT_icicle03
+    100008: CAT_icicle04
+    100010: CAT_icicle05
+    100012: CAT_icicle06
+    100014: CAT_icicle07
+    100016: CAT_icicle_bottom
+    100018: CAT_icicle_bottom02
+    100020: //RootNode
+    100022: icicle01
+    100024: icicle02
+    100026: icicle03
+    100028: icicle04
+    100030: icicle05
+    100032: icicle06
+    100034: icicle07
+    100036: icicle_bottom
+    400000: CAT_icicle
+    400002: CAT_icicle01
+    400004: CAT_icicle02
+    400006: CAT_icicle03
+    400008: CAT_icicle04
+    400010: CAT_icicle05
+    400012: CAT_icicle06
+    400014: CAT_icicle07
+    400016: CAT_icicle_bottom
+    400018: CAT_icicle_bottom02
+    400020: //RootNode
+    400022: icicle01
+    400024: icicle02
+    400026: icicle03
+    400028: icicle04
+    400030: icicle05
+    400032: icicle06
+    400034: icicle07
+    400036: icicle_bottom
+    2300000: icicle01
+    2300002: icicle02
+    2300004: icicle03
+    2300006: icicle04
+    2300008: icicle05
+    2300010: icicle06
+    2300012: icicle07
+    2300014: icicle_bottom
+    3300000: icicle01
+    3300002: icicle02
+    3300004: icicle03
+    3300006: icicle04
+    3300008: icicle05
+    3300010: icicle06
+    3300012: icicle07
+    3300014: icicle_bottom
+    4300000: icicle_bottom
+    4300002: icicle07
+    4300004: icicle06
+    4300006: icicle02
+    4300008: icicle01
+    4300010: icicle03
+    4300012: icicle05
+    4300014: icicle04
+    7400000: icicle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: icicle01
+    13700002: icicle02
+    13700004: icicle03
+    13700006: icicle04
+    13700008: icicle05
+    13700010: icicle06
+    13700012: icicle07
+    13700014: icicle_bottom
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: icicle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CAT_icicle
+        weight: 1
+      - path: CAT_icicle/CAT_icicle01
+        weight: 1
+      - path: CAT_icicle/CAT_icicle01/CAT_icicle02
+        weight: 1
+      - path: CAT_icicle/CAT_icicle01/CAT_icicle03
+        weight: 1
+      - path: CAT_icicle/CAT_icicle01/CAT_icicle04
+        weight: 1
+      - path: CAT_icicle/CAT_icicle01/CAT_icicle05
+        weight: 1
+      - path: CAT_icicle/CAT_icicle01/CAT_icicle06
+        weight: 1
+      - path: CAT_icicle/CAT_icicle01/CAT_icicle07
+        weight: 1
+      - path: CAT_icicle/CAT_icicle_bottom
+        weight: 1
+      - path: CAT_icicle/CAT_icicle_bottom/CAT_icicle_bottom02
+        weight: 1
+      - path: icicle01
+        weight: 1
+      - path: icicle02
+        weight: 1
+      - path: icicle03
+        weight: 1
+      - path: icicle04
+        weight: 1
+      - path: icicle05
+        weight: 1
+      - path: icicle06
+        weight: 1
+      - path: icicle07
+        weight: 1
+      - path: icicle_bottom
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.6
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5 @@
+INT	STRING	STRING	STRING	INT	STRING	STRING	STRING	INT	INT	INT
+id	name	name1	name2	exp	icon	desc	desc	level	members	teams
+99	零流量自嗨	t_mode_name1_99	t_mode_name2_99	0	zdmsxz_003	[c2e5ed]都说欺负AI会上瘾，试试挑战一下吧~提醒你哦，AI会根据账号等级进化，千万别大意####[e4ac01]可获得金币和宝箱，3级前还可获得账号经验，并提升奖杯，但不可解锁成就	t_mode_desc_99	1	1	15
+0	大乱斗	t_mode_name1_0	t_mode_name2_0	10	zdmsxz_001	[c2e5ed]玩家各自为营，你拼我抢，角逐最终高分####[e4ac01]可获得金币，账号经验和宝箱，可解锁成就	t_mode_desc_0	2	1	10
+1	雪地会战	t_mode_name1_1	t_mode_name2_1	10	zdmsxz_002	[c2e5ed]小队齐心，其利断金！在这里，配合和默契是取胜的关键####[e4ac01]可获得金币，账号经验和宝箱，可解锁成就	t_mode_desc_1	3	5	3

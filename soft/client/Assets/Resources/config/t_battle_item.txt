@@ -1,0 +1,17 @@
+INT	STRING	INT	STRING	STRING	INT	INT	STRING	STRING	STRING	INT	INT
+id	name	type	特效	吃到特效	技能	最大等级	说明	说明lang			
+0	水晶	1	scene_item_jewel01	Unit_buff_EXP		0					
+1	血瓶	2	scene_item_Medicine	Unit_buff_recover		0					
+2	盾	2	scene_item_shield	Unit_buff_EXP		0					
+3	BOSS水晶	1	scene_item_jewel02	Unit_buff_EXP		0					
+200	冰霜球	4	scene_item_popsicle	Unit_buff_EXP	200201	3	冰霜球技能等级	t_battle_item_desc_200			
+201	雷电球	4	scene_item_LightningBall	Unit_buff_EXP	200301	3	雷电球技能等级	t_battle_item_desc_201			
+202	大雪球	4	scene_item_hugeSnowball	Unit_buff_EXP	200401	3	大雪球技能等级	t_battle_item_desc_202			
+203	墨水球	4	scene_item_inkBall	Unit_buff_EXP	200501	3	墨水球技能等级	t_battle_item_desc_203			
+204	恶魔球	4	scene_item_Devil	Unit_buff_EXP	200601	3	恶魔球技能等级	t_battle_item_desc_204			
+205	暴风雪	4	scene_item_Blizzard	Unit_buff_EXP	200701	3	暴风雪技能等级	t_battle_item_desc_205			
+206	龙卷风	4	scene_item_tornado	Unit_buff_EXP	200801	3	龙卷风技能等级	t_battle_item_desc_206			
+207	陨石球	4	scene_item_meteorite	Unit_buff_EXP	200901	3	陨石球技能等级	t_battle_item_desc_207			
+208	烈性炸药	4	scene_item_TNT	Unit_buff_EXP	201001	3	烈性炸药技能等级	t_battle_item_desc_208			
+209	隐身斗篷	4	scene_item_cloak	Unit_buff_EXP	201101	3	隐身斗篷技能等级	t_battle_item_desc_209			
+301	雪怪精魄	5	scene_item_IceWing	Unit_buff_EXP		1	加速20%，增加50%伤害，增加30%减伤，20%免控	t_battle_item_desc_301			

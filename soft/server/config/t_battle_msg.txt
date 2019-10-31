@@ -1,0 +1,6 @@
+INT	STRING	STRING
+id	msg	msg
+101	集合，速攻雪怪！	t_battle_msg_101
+102	跟着我，带你飞~	t_battle_msg_102
+103	敌人很强，猥琐发育。	t_battle_msg_103
+104	救我，我被包围了！	t_battle_msg_104

@@ -1,0 +1,92 @@
+syntax = "proto2";
+package dhc;
+
+//using index name 8
+
+message player_t {
+	optional uint64 guid				= 1;
+	optional int32 serverid				= 2;
+	optional string name				= 3;
+	optional int32 region_id			= 4;
+	optional string infomation			= 5;
+	optional int32	sex					= 6;
+	optional uint64 birth_time			= 7;
+	optional uint64 last_daily_time		= 8;
+	optional uint64 last_week_time		= 9;
+	optional uint64 last_month_time		= 10;
+	optional uint64 last_login_time		= 11;
+	optional uint64 last_check_time		= 12;
+	optional int32 is_guide				= 13;
+	
+	optional int32 gold					= 20;
+	optional int32 jewel				= 21;
+	optional int32 level				= 22;
+	optional int32 exp					= 23;
+	optional int32 cup					= 24;
+	optional int32 snow					= 25;
+	optional int32 battle_gold			= 26;
+	optional int32 max_cup				= 27;
+	optional int32 max_score			= 28;
+	optional int32 max_sha				= 29;
+	optional int32 max_lsha				= 30;
+	
+	optional int32 box_zd_num			= 50;
+	optional int32 box_zd_opened		= 51;
+	repeated int32 box_ids				= 52;
+	optional int32 box_open_slot		= 53;
+	optional uint64 box_open_time		= 54;
+	optional uint64 sign_time			= 55;
+	optional int32 sign_index			= 56;
+	optional int32 sign_finish			= 57;
+	
+	repeated uint64 role_guid			= 100;
+	optional uint64	role_on				= 101;
+	repeated int32 item_id				= 102;
+	repeated int32 item_num				= 103;
+	repeated int32 avatar				= 104;
+	optional int32 avatar_on        	= 106;
+	repeated uint64 battle_his_guids	= 107;
+	repeated uint64 post_guids			= 109;
+	repeated int32 achieve_id			= 110;
+	repeated int32 achieve_num			= 111;
+	repeated int32 achieve_reward		= 112;
+	repeated uint64 achieve_time		= 113;
+	optional int32 achieve_point		= 114;
+	optional int32 achieve_index		= 115;
+	repeated int32 toukuang				= 116;
+	repeated uint64 toukuang_time		= 117;
+	optional int32 toukuang_on        	= 118;
+	repeated int32 task_id				= 119;
+	repeated int32 task_num				= 120;
+	repeated int32 task_reward			= 121;
+	repeated int32 fashion_id			= 122;
+	repeated int32 fashion_on			= 123;
+	repeated int32 daily_id				= 124;
+	repeated int32 daily_num			= 125;
+	repeated int32 daily_reward			= 126;
+	optional int32 daily_point			= 127;
+	repeated int32 daily_get_id			= 128;
+	repeated int32 level_reward			= 129;
+	repeated uint64 social_golds		= 130;
+	
+	optional int32 total_recharge		= 301;
+	optional int32 total_spend			= 302;
+	optional int32 change_name_num		= 303;
+	optional int32 fenxiang_num			= 304;
+	optional int32 fenxiang_total_num	= 305;
+	optional int32 fenxiang_state		= 306;
+	repeated int32 libao_nums			= 307;
+	optional int32 battle_num			= 308;
+	optional uint64 offline_battle_time	= 309;
+	optional int32 first_recharge		= 310;
+	optional uint64 yue_time			= 311;
+	optional int32 yue_reward			= 312;
+	optional int32 yue_first			= 313;
+	optional uint64 nian_time			= 314;
+	optional int32 nian_reward			= 315;
+	optional int32 nian_first			= 316;
+	repeated int32 duobao_items			= 317;
+	optional int32 duobao_num			= 318;
+	optional int32 advertisement_num	= 319;
+	optional uint64 advertisement_time	= 320;
+}

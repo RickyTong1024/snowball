@@ -1,0 +1,335 @@
+syntax = "proto2";
+import "acc.proto";
+import "player.proto";
+import "role.proto";
+import "battle_his.proto";
+import "post.proto";
+import "post_new.proto";
+
+package protocol.game;
+
+message smsg_error
+{
+	required int32 code				= 1;
+	optional string text			= 2;
+}
+
+message cmsg_login_player
+{
+	optional dhc.acc_t acc			= 1;
+}
+
+message smsg_login_player
+{
+	required dhc.player_t player		= 1;
+	repeated dhc.role_t roles			= 2;
+	repeated dhc.battle_his_t battle_his	= 3;
+	required int32 post_num			= 4;
+	required uint64 server_time			= 5;
+}
+
+message smsg_checkdata
+{
+	required dhc.player_t player		= 1;
+	repeated dhc.role_t roles			= 2;
+}
+
+message smsg_post_num
+{
+	required int32 post_num				= 1;
+}
+
+message cmsg_player_look
+{
+	required uint64	target_guid		= 1;
+}
+
+message smsg_player_look
+{
+	required dhc.player_t player	= 1;
+	repeated dhc.battle_his_t battle_his	= 10;
+}
+
+message cmsg_role_on {
+	required uint64 role_guid		= 1;
+}
+
+message cmsg_role_hecheng {
+	required int32 role_id 			= 1;
+}
+
+message smsg_role_hecheng {
+	required	dhc.role_t	role 	= 1;
+}
+
+message cmsg_role_levelup {
+	required uint64 role_guid 		= 1;
+}
+
+message cmsg_avatar_on {
+	required int32 id				= 1;
+}
+
+message cmsg_toukuang_on {
+	required int32 id				= 1;
+}
+
+message cmsg_chat
+{
+	required int32 type				= 1;
+	required string text			= 2;
+}
+
+message smsg_chat {
+	required uint64 player_guid		= 1;
+	required string player_name		= 2;
+	required int32 	sex				= 3;
+	required int32 	level			= 4;
+	required int32 	type			= 5;
+	required string text			= 6;
+	required uint64 time			= 7;
+	optional int32	avatar			= 8;
+	optional int32 toukuang			= 10;
+	optional int32 region_id		= 11;
+	optional int32 name_color		= 12;
+}
+
+message smsg_gonggao
+{
+	required string	text			= 1;
+}
+
+message cmsg_gm_command {
+	required string text			= 1;
+}
+
+message smsg_gm_command {
+	repeated dhc.role_t roles		= 1;
+    repeated int32	types 			= 2;
+    repeated int32  value1s 		= 3;
+    repeated int32  value2s	 		= 4;
+    repeated int32  value3s 		= 5;
+}
+
+message cmsg_player_name {
+	required string	name			= 1;
+}
+
+message cmsg_player_info {
+	required string	info			= 1;
+}
+
+message cmsg_player_data {
+	required int32 	sex				= 1;
+	required int32 region_id		= 2;
+}
+
+message cmsg_start_open_box {
+	required int32 slot				= 1;
+}
+
+message cmsg_end_open_box {
+	required int32 slot				= 1;
+	required int32 is_jewel			= 2;
+}
+
+message smsg_end_open_box {
+	required int32 id				= 1;
+	repeated dhc.role_t roles		= 2;
+	repeated int32 types 			= 3;
+    repeated int32 value1s 			= 4;
+    repeated int32 value2s	 		= 5;
+    repeated int32 value3s 			= 6;
+	required int32 jewel			= 7;
+}
+
+message cmsg_battle_item_on {
+	required int32 item_id			= 1;
+}
+
+message cmsg_item_buy {
+	required int32 id				= 1;
+	required int32 num				= 2;
+}
+
+message smsg_item_buy {
+	repeated dhc.role_t roles		= 1;
+	repeated int32 types 			= 2;
+    repeated int32 value1s 			= 3;
+    repeated int32 value2s	 		= 4;
+    repeated int32 value3s 			= 5;
+}
+
+message cmsg_item_sell {
+	required int32 id				= 1;
+	required int32 num				= 2;
+}
+
+message cmsg_item_direct_buy {
+	required int32 id				= 1;
+	required int32 num				= 2;
+}
+
+message msg_post_new_list {
+	required uint64 player_guid			= 1;
+	repeated dhc.post_new_t post_news	= 2;
+}
+
+message msg_post_new_delete {
+	required uint64 player_guid			= 1;
+}
+
+message smsg_post_look {
+	repeated dhc.post_t posts		= 1;
+}
+
+message cmsg_post_read {
+	required uint64 post_guid		= 1;
+}
+
+message cmsg_post_get {
+	required uint64 post_guid		= 1;
+}
+
+message smsg_post_get {
+	repeated dhc.role_t roles		= 1;
+    repeated int32	types 			= 2;
+    repeated int32  value1s 		= 3;
+    repeated int32  value2s	 		= 4;
+    repeated int32  value3s 		= 5;
+}
+
+message cmsg_post_delete {
+	required uint64 post_guid		= 1;
+}
+
+message smsg_post_get_all {
+	repeated uint64 post_guids		= 1;
+	repeated dhc.role_t roles		= 2;
+    repeated int32	types 			= 3;
+    repeated int32  value1s 		= 4;
+    repeated int32  value2s	 		= 5;
+    repeated int32  value3s 		= 6;
+}
+
+message smsg_post_delete_all {
+	repeated uint64 post_guids		= 1;
+}
+
+message smsg_fenxiang_num {
+	required int32 fenxiang_num			= 1;
+	required int32 fenxiang_total_num	= 2;
+}
+
+message cmsg_libao {
+	required string code			= 1;
+}
+
+message smsg_libao {
+	repeated dhc.role_t roles		= 1;
+	repeated int32 types = 2;
+	repeated int32 value1s = 3;
+	repeated int32 value2s = 4;
+	repeated int32 value3s = 5;
+}
+
+message cmsg_recharge {
+	required int32 id			= 1;
+	required string pt			= 2;
+	repeated string code		= 3;
+}
+
+message smsg_recharge {
+	required int32 rid			= 1;
+	repeated dhc.role_t roles		= 2;
+	repeated int32 types = 3;
+	repeated int32 value1s = 4;
+	repeated int32 value2s = 5;
+	repeated int32 value3s = 6;
+}
+
+message cmsg_infomation {
+	required string info		= 1;
+}
+
+message cmsg_item_apply {
+	required int32 item_id 		= 1;
+	required int32 num			= 2;
+	optional int32 item_index	= 3;
+}
+
+message smsg_item_apply {
+	repeated dhc.role_t roles		= 1;
+	repeated int32 types	= 2;
+	repeated int32 value1s 	= 3;
+	repeated int32 value2s 	= 4;
+	repeated int32 value3s 	= 5;
+}
+
+message cmsg_battle_achieve {
+	repeated int32 id	= 1;
+	repeated int32 num	= 2;
+}
+
+message cmsg_achieve {
+	required int32 id	= 1;
+}
+
+message smsg_level_reward {
+	repeated dhc.role_t roles		= 1;
+	repeated int32 types	= 2;
+	repeated int32 value1s 	= 3;
+	repeated int32 value2s 	= 4;
+	repeated int32 value3s 	= 5;
+}
+
+message cmsg_battle_task {
+	repeated int32 id	= 1;
+	repeated int32 num	= 2;
+}
+
+message cmsg_task {
+	required int32 id	= 1;
+}
+
+message cmsg_fashion_on {
+	required int32 id 			= 1;
+	required int32 type			= 2;
+}
+
+message cmsg_battle_daily {
+	repeated int32 id	= 1;
+	repeated int32 num	= 2;
+}
+
+message cmsg_daily {
+	required int32 id	= 1;
+}
+
+message cmsg_daily_reward {
+	required int32 id	= 1;
+}
+
+message cmsg_level_reward {
+	required int32 level	= 1;
+}
+
+message cmsg_vip_reward {
+	required int32 type		= 1;
+}
+
+message smsg_vip_reward {
+	repeated dhc.role_t roles		= 1;
+	repeated int32 types = 2;
+	repeated int32 value1s = 3;
+	repeated int32 value2s = 4;
+	repeated int32 value3s = 5;
+}
+
+message smsg_duobao {
+	required int32 id		= 1;
+}
+
+message smsg_sys_info {
+	required string text	= 1;
+}

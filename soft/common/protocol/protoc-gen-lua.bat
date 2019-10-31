@@ -1,0 +1,1 @@
+@D:\Python27\python ..\etools\protoc-gen-lua

@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\common\protocpp\acc.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\battle_his.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\battle_result.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\gtool.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\msg_battle.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\msg_battle1.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\msg_connect.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\msg_hall.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\msg_hall1.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\msg_login.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\msg_name.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\msg_pipe.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\msg_rank.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\msg_social.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\msg_team.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\name.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\player.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\post.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\post_new.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\rank.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\recharge.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\role.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\share.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\social.pb.h" />
+    <ClInclude Include="..\..\..\common\protocpp\social_list.pb.h" />
+    <ClInclude Include="..\..\src\libprotocol\opcodes.h" />
+    <ClInclude Include="..\..\src\libprotocol\protocol_inc.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\common\protocpp\acc.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\battle_his.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\battle_result.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\gtool.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\msg_battle.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\msg_battle1.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\msg_connect.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\msg_hall.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\msg_hall1.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\msg_login.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\msg_name.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\msg_pipe.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\msg_rank.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\msg_social.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\msg_team.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\name.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\player.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\post.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\post_new.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\rank.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\recharge.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\role.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\share.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\social.pb.cc" />
+    <ClCompile Include="..\..\..\common\protocpp\social_list.pb.cc" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{62B0143F-F96A-4071-B8E6-43DD2DA20A76}</ProjectGuid>
+    <ProjectName>libprotocol</ProjectName>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>NotSet</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>NotSet</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>NotSet</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>$(IncludePath)</IncludePath>
+    <LibraryPath>$(LibraryPath)</LibraryPath>
+    <IntDir>.\Debug\</IntDir>
+    <OutDir>..\..\libs\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>$(IncludePath)</IncludePath>
+    <LibraryPath>$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>..\..\libs\</OutDir>
+    <IntDir>.\Release\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(PROTOBUF_ROOT)\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <Lib>
+      <AdditionalDependencies>libprotobufd.lib</AdditionalDependencies>
+    </Lib>
+    <Lib>
+      <AdditionalLibraryDirectories>..\..\libs;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <OutputFile>$(OutDir)$(TargetName)d$(TargetExt)</OutputFile>
+    </Lib>
+    <ProjectReference>
+      <LinkLibraryDependencies>true</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(MYSQL_ROOT)\include;..\..\deps\mysql++;..\..\deps\zlib;..\..\deps\protobuf;..\..\deps\zmq;$(BOOST_ROOT);$(ACE_ROOT);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <Lib>
+      <AdditionalDependencies>libprotobuf.lib;libzmq.lib;aced.lib;zlib.lib;mysqlpp.lib</AdditionalDependencies>
+    </Lib>
+    <Lib>
+      <AdditionalLibraryDirectories>..\..\libs;$(BOOST_ROOT)\stage\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+    </Lib>
+    <ProjectReference>
+      <LinkLibraryDependencies>true</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>..\..\deps\protobuf;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+    <Lib>
+      <AdditionalDependencies>libprotobuf.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>..\..\libs;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

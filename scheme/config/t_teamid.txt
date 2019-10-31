@@ -1,0 +1,8 @@
+INT	STRING	STRING
+id	name	name
+0	À¶1EF2FA	t_teamid_name_0
+1	ºìFF676A	t_teamid_name_1
+2	×ÏFF64FF	t_teamid_name_2
+3	ÂÌ84FF5E	t_teamid_name_3
+4	³ÈFBA50B	t_teamid_name_4
+5	»ÆE6E600	t_teamid_name_5

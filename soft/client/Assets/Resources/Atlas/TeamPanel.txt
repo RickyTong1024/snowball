@@ -1,0 +1,124 @@
+{"frames": {
+
+"drzd_bjfz.png":
+{
+	"frame": {"x":2,"y":2,"w":311,"h":311},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":311,"h":311},
+	"sourceSize": {"w":311,"h":311}
+},
+"drzd_dy.png":
+{
+	"frame": {"x":146,"y":315,"w":142,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":142},
+	"sourceSize": {"w":142,"h":142}
+},
+"drzd_hsjt.png":
+{
+	"frame": {"x":315,"y":2,"w":64,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":68},
+	"sourceSize": {"w":68,"h":68}
+},
+"drzd_kqwz.png":
+{
+	"frame": {"x":2,"y":315,"w":142,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":142},
+	"sourceSize": {"w":142,"h":142}
+},
+"drzd_whtb.png":
+{
+	"frame": {"x":411,"y":2,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83}
+},
+"hyzd_gb.png":
+{
+	"frame": {"x":2,"y":459,"w":47,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":47},
+	"sourceSize": {"w":47,"h":47}
+},
+"lt_haoyoudi.png":
+{
+	"frame": {"x":125,"y":459,"w":284,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":284,"h":40},
+	"sourceSize": {"w":284,"h":40}
+},
+"lt_ltdi.png":
+{
+	"frame": {"x":411,"y":87,"w":43,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":62},
+	"sourceSize": {"w":43,"h":62}
+},
+"lt_qipaodi2.png":
+{
+	"frame": {"x":77,"y":459,"w":46,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":45},
+	"sourceSize": {"w":46,"h":45}
+},
+"lt_tydi.png":
+{
+	"frame": {"x":381,"y":2,"w":28,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":81},
+	"sourceSize": {"w":28,"h":81}
+},
+"ndhbs_001.png":
+{
+	"frame": {"x":371,"y":85,"w":30,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+	"sourceSize": {"w":30,"h":30}
+},
+"nfgx_001.png":
+{
+	"frame": {"x":51,"y":459,"w":24,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":47},
+	"sourceSize": {"w":24,"h":47}
+},
+"nxxt_001.png":
+{
+	"frame": {"x":290,"y":315,"w":54,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":103},
+	"sourceSize": {"w":54,"h":103}
+},
+"nxxt_002.png":
+{
+	"frame": {"x":315,"y":72,"w":54,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":103},
+	"sourceSize": {"w":54,"h":103}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "TeamPanel.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5850ea92ec657f41f54e6b608767c117$"
+}
+}

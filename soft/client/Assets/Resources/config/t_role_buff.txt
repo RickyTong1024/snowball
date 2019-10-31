@@ -1,0 +1,21 @@
+INT	STRING	STRING	STRING	STRING	INT	INT	INT	INT	INT
+id	name	name	desc	desc	id	id	id	id	id
+1001	【月神赐福】	t_role_buff_name_1001	所有角色在战斗时增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）点生命	t_role_buff_desc_1001	1	1		5	5
+1008	【筋斗云】	t_role_buff_name_1008	所有角色在战斗时增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）移动速度	t_role_buff_desc_1008	1	8		1	1
+1013	【聚精会神】	t_role_buff_name_1013	所有角色在战斗时增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）普通雪球的射程	t_role_buff_desc_1013	1	13		2	2
+1016	【洛神】	t_role_buff_name_1016	所有角色在战斗时增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）技能伤害	t_role_buff_desc_1016	1	16		1	1
+1031	【事半功倍】	t_role_buff_name_1031	所有角色在战斗时增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）拾取水晶的能量	t_role_buff_desc_1031	1	31		5	5
+1035	【法术抵抗】	t_role_buff_name_1035	所有角色在战斗时增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）技能减伤	t_role_buff_desc_1035	1	17		5	5
+1046	【人中吕布】	t_role_buff_name_1046	所有角色在战斗时增加[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）普通雪球伤害	t_role_buff_desc_1046	1	46		1	1
+1052	【女权至上】	t_role_buff_name_1052	女性角色在战斗时增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）点攻击	t_role_buff_desc_1052	1	52		1	1
+1069	【倾国倾城】	t_role_buff_name_1069	所有角色在战斗时减少[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）来自男性角色造成的伤害	t_role_buff_desc_1069	1	69		1	1
+1007	【活蹦乱跳】	t_role_buff_name_1007	所有角色在战斗时增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）移动速度	t_role_buff_desc_1007	1	7		2	2
+1073	【背水一战】	t_role_buff_name_1073	所有角色在战斗时每损失20%生命增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）攻击	t_role_buff_desc_1073	1	73		1	1
+1026	【飞龙乘云】	t_role_buff_name_1026	所有角色在战斗时释放技能回复[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）点生命	t_role_buff_desc_1026	1	26		5	5
+3001	【寻宝学徒】	t_role_buff_name_3001	增加战斗后紫金宝箱[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）的获得概率	t_role_buff_desc_3001	3	1		1	1
+3002	【寻宝精英】	t_role_buff_name_3002	增加战斗后赤金宝箱[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）的获得概率	t_role_buff_desc_3002	3	2		1	1
+3003	【星之学徒】	t_role_buff_name_3003	减少所有稀有角色[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）升星时所需的金币	t_role_buff_desc_3003	3	3		1	1
+3004	【星之精英】	t_role_buff_name_3004	减少所有史诗角色[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）升星时所需的金币	t_role_buff_desc_3004	3	4		1	1
+3005	【鉴宝专家】	t_role_buff_name_3005	所有宝箱打开可获得额外[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）枚金币	t_role_buff_desc_3005	3	5		1	1
+3006	【时空使者】	t_role_buff_name_3006	所有宝箱减少[ff8a00]{N1}%[-]（升星[f4e45d]+{N2}%[-]）的解锁时间	t_role_buff_desc_3006	3	6		1	1
+3007	【战场之星】	t_role_buff_name_3007	所有角色在战斗结算时增加[ff8a00]{N1}[-]（升星[f4e45d]+{N2}[-]）枚金币	t_role_buff_desc_3007	3	7		1	1

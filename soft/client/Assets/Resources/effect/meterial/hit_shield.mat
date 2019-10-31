@@ -1,0 +1,188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: hit_shield
+  m_Shader: {fileID: 4800000, guid: 79e9d493d5be18949b2b71970110baef, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 580b853b5085f0243859deaa3ead51e6, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Tex01
+        second:
+          m_Texture: {fileID: 2800000, guid: 6a49564304695e0409991cb6be46a481, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Tex02
+        second:
+          m_Texture: {fileID: 2800000, guid: 09f21275fc62c6543838d51934771876, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _mask
+        second:
+          m_Texture: {fileID: 2800000, guid: 1d820387b58ad83409b8cafe09db364a, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DisT01
+        second:
+          m_Texture: {fileID: 2800000, guid: 899c5fd66853a0a4a976e047fe41bfd7, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Mask
+        second:
+          m_Texture: {fileID: 2800000, guid: 175a382331999f547907b52efeef290b, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _T01
+        second:
+          m_Texture: {fileID: 2800000, guid: 6a49564304695e0409991cb6be46a481, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _niuqu
+        second:
+          m_Texture: {fileID: 2800000, guid: b967253fd9fd9304e84e0146afd4bdf1, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _T02
+        second:
+          m_Texture: {fileID: 2800000, guid: aa4129b087e0ba74fbf8e5f26ea73e8e, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _mask01
+        second:
+          m_Texture: {fileID: 2800000, guid: 5f0c62ac693076d48be610b3ccc16037, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _niuqu_T01
+        second:
+          m_Texture: {fileID: 2800000, guid: b967253fd9fd9304e84e0146afd4bdf1, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _mask_t02
+        second:
+          m_Texture: {fileID: 2800000, guid: 09f21275fc62c6543838d51934771876, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _T01Dis
+        second:
+          m_Texture: {fileID: 2800000, guid: b967253fd9fd9304e84e0146afd4bdf1, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _niuqudu
+        second: .200000003
+      data:
+        first:
+          name: _PanY_T02
+        second: 1
+      data:
+        first:
+          name: _PanY_DisT01
+        second: -.5
+      data:
+        first:
+          name: _DisT01Power
+        second: .150000006
+      data:
+        first:
+          name: _niuqu_sudu
+        second: -20
+      data:
+        first:
+          name: _T02_sudu
+        second: -50
+      data:
+        first:
+          name: _uvpan_t02
+        second: 0
+      data:
+        first:
+          name: _PanX_T02
+        second: 20
+      data:
+        first:
+          name: _Intensity_T02
+        second: 3
+      data:
+        first:
+          name: _PanY_Mask
+        second: 0
+      data:
+        first:
+          name: _Intensity_Mask
+        second: 1.5
+      data:
+        first:
+          name: _sudu_niuqu
+        second: -20
+      data:
+        first:
+          name: _sudu_T02
+        second: -50
+      data:
+        first:
+          name: _sudu
+        second: -20
+      data:
+        first:
+          name: _T01DisPower
+        second: .200000003
+      data:
+        first:
+          name: _PanY_T01Dis
+        second: -15
+      data:
+        first:
+          name: _PanY_T01
+        second: -20
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _Color_T01
+        second: {r: .272058845, g: .69878298, b: 1, a: 1}
+      data:
+        first:
+          name: _Color_T02
+        second: {r: 0, g: .635648906, b: .801470578, a: 1}
